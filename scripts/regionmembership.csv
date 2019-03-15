@@ -1,0 +1,3172 @@
+Region membership,,,,,,
+country_id,region_id,region_type,region_type_id,region_name,a3,name
+533,1001,GDP Regions,1,High Income,ABW,Aruba
+660,1001,GDP Regions,1,High Income,AIA,Anguilla
+248,1001,GDP Regions,1,High Income,ALA,Aland Islands
+20,1001,GDP Regions,1,High Income,AND,Andorra
+528,1001,GDP Regions,1,High Income,ANT,Netherlands Antilles
+804,1001,GDP Regions,1,High Income,ARE,UAE
+36,1001,GDP Regions,1,High Income,AUS,Australia
+40,1001,GDP Regions,1,High Income,AUT,Austria
+56,1001,GDP Regions,1,High Income,BEL,Belgium
+48,1001,GDP Regions,1,High Income,BHR,Bahrain
+44,1001,GDP Regions,1,High Income,BHS,Bahamas
+646,1001,GDP Regions,1,High Income,BLM,Saint-Barthelemy
+60,1001,GDP Regions,1,High Income,BMU,Bermuda
+52,1001,GDP Regions,1,High Income,BRB,Barbados
+96,1001,GDP Regions,1,High Income,BRN,Brunei
+124,1001,GDP Regions,1,High Income,CAN,Canada
+752,1001,GDP Regions,1,High Income,CHE,Switzerland
+178,1001,GDP Regions,1,High Income,COK,Cook Islands
+136,1001,GDP Regions,1,High Income,CYM,Cayman Islands
+192,1001,GDP Regions,1,High Income,CYP,Cyprus
+196,1001,GDP Regions,1,High Income,CZE,Czech Republic
+268,1001,GDP Regions,1,High Income,DEU,Germany
+180,1001,GDP Regions,1,High Income,DNK,Denmark
+710,1001,GDP Regions,1,High Income,ESP,Spain
+232,1001,GDP Regions,1,High Income,EST,Estonia
+242,1001,GDP Regions,1,High Income,FIN,Finland
+234,1001,GDP Regions,1,High Income,FLK,Falkland Islands
+246,1001,GDP Regions,1,High Income,FRA,France
+231,1001,GDP Regions,1,High Income,FRO,Faeroe Islands
+784,1001,GDP Regions,1,High Income,GBR,UK
+320,1001,GDP Regions,1,High Income,GGY,Guernsey
+288,1001,GDP Regions,1,High Income,GIB,Gibraltar
+222,1001,GDP Regions,1,High Income,GNQ,Equatorial Guinea
+292,1001,GDP Regions,1,High Income,GRC,Greece
+300,1001,GDP Regions,1,High Income,GRL,Greenland
+312,1001,GDP Regions,1,High Income,GUM,Guam
+156,1001,GDP Regions,1,High Income,HKG,Hong Kong
+384,1001,GDP Regions,1,High Income,HRV,Croatia
+340,1001,GDP Regions,1,High Income,HUN,Hungary
+372,1001,GDP Regions,1,High Income,IMN,Isle of Man
+368,1001,GDP Regions,1,High Income,IRL,Ireland
+348,1001,GDP Regions,1,High Income,ISL,Iceland
+833,1001,GDP Regions,1,High Income,ISR,Israel
+376,1001,GDP Regions,1,High Income,ITA,Italy
+392,1001,GDP Regions,1,High Income,JEY,Jersey
+388,1001,GDP Regions,1,High Income,JPN,Japan
+634,1001,GDP Regions,1,High Income,KOR,South Korea
+296,1001,GDP Regions,1,High Income,KWT,Kuwait
+434,1001,GDP Regions,1,High Income,LIE,Liechtenstein
+440,1001,GDP Regions,1,High Income,LUX,Luxembourg
+418,1001,GDP Regions,1,High Income,LVA,Latvia
+344,1001,GDP Regions,1,High Income,MAC,Macao SAR
+662,1001,GDP Regions,1,High Income,MAF,Saint-Martin (French part)
+583,1001,GDP Regions,1,High Income,MCO,Monaco
+466,1001,GDP Regions,1,High Income,MLT,Malta
+574,1001,GDP Regions,1,High Income,MNP,Northern Mariana Islands
+584,1001,GDP Regions,1,High Income,MTQ,Martinique
+530,1001,GDP Regions,1,High Income,NCL,New Caledonia
+524,1001,GDP Regions,1,High Income,NLD,Netherlands
+580,1001,GDP Regions,1,High Income,NOR,Norway
+540,1001,GDP Regions,1,High Income,NZL,New Zealand
+275,1001,GDP Regions,1,High Income,OMN,Oman
+612,1001,GDP Regions,1,High Income,POL,Poland
+620,1001,GDP Regions,1,High Income,PRI,Puerto Rico
+616,1001,GDP Regions,1,High Income,PRT,Portugal
+254,1001,GDP Regions,1,High Income,PYF,French Polynesia
+630,1001,GDP Regions,1,High Income,QAT,Qatar
+678,1001,GDP Regions,1,High Income,SAU,Saudi Arabia
+694,1001,GDP Regions,1,High Income,SGP,Singapore
+740,1001,GDP Regions,1,High Income,SJM,Svalbard and Jan Mayen Islands
+882,1001,GDP Regions,1,High Income,SMR,San Marino
+702,1001,GDP Regions,1,High Income,SVK,Slovakia
+703,1001,GDP Regions,1,High Income,SVN,Slovenia
+748,1001,GDP Regions,1,High Income,SWE,Sweden
+795,1001,GDP Regions,1,High Income,TCA,Turks and Caicos Islands
+776,1001,GDP Regions,1,High Income,TTO,Trinidad and Tobago
+158,1001,GDP Regions,1,High Income,TWN,Taiwan
+834,1001,GDP Regions,1,High Income,USA,USA
+332,1001,GDP Regions,1,High Income,VAT,Holy See
+92,1001,GDP Regions,1,High Income,VGB,British Virgin Islands
+840,1001,GDP Regions,1,High Income,VIR,US Virgin Islands
+4,1003,GDP Regions,1,Low Income,AFG,Afghanistan
+108,1003,GDP Regions,1,Low Income,BDI,Burundi
+204,1003,GDP Regions,1,Low Income,BEN,Benin
+854,1003,GDP Regions,1,Low Income,BFA,Burkina Faso
+50,1003,GDP Regions,1,Low Income,BGD,Bangladesh
+140,1003,GDP Regions,1,Low Income,CAF,Central African Republic
+408,1003,GDP Regions,1,Low Income,COD,DR Congo
+170,1003,GDP Regions,1,Low Income,COM,Comoros
+226,1003,GDP Regions,1,Low Income,ERI,Eritrea
+233,1003,GDP Regions,1,Low Income,ETH,Ethiopia
+276,1003,GDP Regions,1,Low Income,GHA,Ghana
+831,1003,GDP Regions,1,Low Income,GIN,Guinea
+266,1003,GDP Regions,1,Low Income,GMB,Gambia
+324,1003,GDP Regions,1,Low Income,GNB,Guinea-Bissau
+328,1003,GDP Regions,1,Low Income,HTI,Haiti
+398,1003,GDP Regions,1,Low Income,KEN,Kenya
+414,1003,GDP Regions,1,Low Income,KGZ,Kyrgyzstan
+116,1003,GDP Regions,1,Low Income,KHM,Cambodia
+417,1003,GDP Regions,1,Low Income,LAO,Laos
+426,1003,GDP Regions,1,Low Income,LBR,Liberia
+442,1003,GDP Regions,1,Low Income,MDG,Madagascar
+462,1003,GDP Regions,1,Low Income,MLI,Mali
+508,1003,GDP Regions,1,Low Income,MMR,Myanmar
+504,1003,GDP Regions,1,Low Income,MOZ,Mozambique
+474,1003,GDP Regions,1,Low Income,MRT,Mauritania
+450,1003,GDP Regions,1,Low Income,MWI,Malawi
+558,1003,GDP Regions,1,Low Income,NER,Niger
+520,1003,GDP Regions,1,Low Income,NPL,Nepal
+203,1003,GDP Regions,1,Low Income,PRK,North Korea
+643,1003,GDP Regions,1,Low Income,RWA,Rwanda
+828,1003,GDP Regions,1,Low Income,SDS,South Sudan
+705,1003,GDP Regions,1,Low Income,SLB,Solomon Islands
+690,1003,GDP Regions,1,Low Income,SLE,Sierra Leone
+90,1003,GDP Regions,1,Low Income,SOM,Somalia
+729,1003,GDP Regions,1,Low Income,SUD,Sudan
+148,1003,GDP Regions,1,Low Income,TCD,Chad
+626,1003,GDP Regions,1,Low Income,TGO,Togo
+760,1003,GDP Regions,1,Low Income,TJK,Tajikistan
+826,1003,GDP Regions,1,Low Income,TZA,Tanzania
+798,1003,GDP Regions,1,Low Income,UGA,Uganda
+887,1003,GDP Regions,1,Low Income,ZMB,Zambia
+894,1003,GDP Regions,1,Low Income,ZWE,Zimbabwe
+24,1034,GDP Regions,1,Lower middle income,AGO,Angola
+51,1034,GDP Regions,1,Lower middle income,ARM,Armenia
+84,1034,GDP Regions,1,Lower middle income,BLZ,Belize
+68,1034,GDP Regions,1,Lower middle income,BOL,Bolivia
+64,1034,GDP Regions,1,Lower middle income,BTN,Bhutan
+188,1034,GDP Regions,1,Lower middle income,CIV,Cote dIvoire
+120,1034,GDP Regions,1,Lower middle income,CMR,Cameroon
+174,1034,GDP Regions,1,Lower middle income,COG,Congo
+132,1034,GDP Regions,1,Lower middle income,CPV,Cape Verde
+208,1034,GDP Regions,1,Lower middle income,DJI,Djibouti
+214,1034,GDP Regions,1,Lower middle income,ECU,Ecuador
+218,1034,GDP Regions,1,Lower middle income,EGY,Egypt
+876,1034,GDP Regions,1,Lower middle income,ESH,Western Sahara
+484,1034,GDP Regions,1,Lower middle income,FSM,Micronesia
+270,1034,GDP Regions,1,Lower middle income,GEO,Georgia
+316,1034,GDP Regions,1,Lower middle income,GTM,Guatemala
+624,1034,GDP Regions,1,Lower middle income,GUY,Guyana
+336,1034,GDP Regions,1,Lower middle income,HND,Honduras
+356,1034,GDP Regions,1,Lower middle income,IDN,Indonesia
+352,1034,GDP Regions,1,Lower middle income,IND,India
+364,1034,GDP Regions,1,Lower middle income,IRQ,Iraq
+832,1034,GDP Regions,1,Lower middle income,JOR,Jordan
+404,1034,GDP Regions,1,Lower middle income,KIR,Kiribati
+724,1034,GDP Regions,1,Lower middle income,LKA,Sri Lanka
+422,1034,GDP Regions,1,Lower middle income,LSO,Lesotho
+500,1034,GDP Regions,1,Lower middle income,MAR,Morocco
+410,1034,GDP Regions,1,Lower middle income,MDA,Moldova
+458,1034,GDP Regions,1,Lower middle income,MDV,Maldives
+470,1034,GDP Regions,1,Lower middle income,MHL,Marshall Islands
+492,1034,GDP Regions,1,Lower middle income,MNG,Mongolia
+499,1034,GDP Regions,1,Lower middle income,MSR,Montserrat
+562,1034,GDP Regions,1,Lower middle income,NGA,Nigeria
+554,1034,GDP Regions,1,Lower middle income,NIC,Nicaragua
+512,1034,GDP Regions,1,Lower middle income,PAK,Pakistan
+604,1034,GDP Regions,1,Lower middle income,PHL,Philippines
+591,1034,GDP Regions,1,Lower middle income,PNG,Papua New Guinea
+598,1034,GDP Regions,1,Lower middle income,PRY,Paraguay
+578,1034,GDP Regions,1,Lower middle income,PSE,Gaza Strip
+144,1034,GDP Regions,1,Lower middle income,SDN,Sudan
+682,1034,GDP Regions,1,Lower middle income,SEN,Senegal
+652,1034,GDP Regions,1,Lower middle income,SHN,Saint Helena
+818,1034,GDP Regions,1,Lower middle income,SLV,El Salvador
+674,1034,GDP Regions,1,Lower middle income,STP,Sao Tome and Principe
+744,1034,GDP Regions,1,Lower middle income,SWZ,Swaziland
+756,1034,GDP Regions,1,Lower middle income,SYR,Syria
+762,1034,GDP Regions,1,Lower middle income,THA,Thailand
+768,1034,GDP Regions,1,Lower middle income,TKL,Tokelau
+792,1034,GDP Regions,1,Lower middle income,TKM,Turkmenistan
+807,1034,GDP Regions,1,Lower middle income,TLS,Timor-Leste
+772,1034,GDP Regions,1,Lower middle income,TON,Tonga
+780,1034,GDP Regions,1,Lower middle income,TUN,Tunisia
+796,1034,GDP Regions,1,Lower middle income,TUV,Tuvalu
+800,1034,GDP Regions,1,Lower middle income,UKR,Ukraine
+858,1034,GDP Regions,1,Lower middle income,UZB,Uzbekistan
+862,1034,GDP Regions,1,Lower middle income,VNM,Viet Nam
+860,1034,GDP Regions,1,Lower middle income,VUT,Vanuatu
+704,1034,GDP Regions,1,Lower middle income,WLF,Wallis and Futuna Islands
+670,1034,GDP Regions,1,Lower middle income,WSM,Samoa
+732,1034,GDP Regions,1,Lower middle income,YEM,Yemen
+8,1035,GDP Regions,1,Upper middle income,ALB,Albania
+32,1035,GDP Regions,1,Upper middle income,ARG,Argentina
+16,1035,GDP Regions,1,Upper middle income,ASM,American Samoa
+28,1035,GDP Regions,1,Upper middle income,ATG,Antigua
+31,1035,GDP Regions,1,Upper middle income,AZE,Azerbaijan
+100,1035,GDP Regions,1,Upper middle income,BGR,Bulgaria
+70,1035,GDP Regions,1,Upper middle income,BIH,Bosnia and Herzegovina
+112,1035,GDP Regions,1,Upper middle income,BLR,Belarus
+76,1035,GDP Regions,1,Upper middle income,BRA,Brazil
+72,1035,GDP Regions,1,Upper middle income,BWA,Botswana
+830,1035,GDP Regions,1,Upper middle income,CHL,Chile
+152,1035,GDP Regions,1,Upper middle income,CHN,China
+446,1035,GDP Regions,1,Upper middle income,COL,Colombia
+184,1035,GDP Regions,1,Upper middle income,CRI,Costa Rica
+191,1035,GDP Regions,1,Upper middle income,CUB,Cuba
+262,1035,GDP Regions,1,Upper middle income,DMA,Dominica
+212,1035,GDP Regions,1,Upper middle income,DOM,Dominican Republic
+12,1035,GDP Regions,1,Upper middle income,DZA,Algeria
+238,1035,GDP Regions,1,Upper middle income,FJI,Fiji
+258,1035,GDP Regions,1,Upper middle income,GAB,Gabon
+308,1035,GDP Regions,1,Upper middle income,GLP,Guadeloupe
+304,1035,GDP Regions,1,Upper middle income,GRD,Grenada
+250,1035,GDP Regions,1,Upper middle income,GUF,French Guiana
+360,1035,GDP Regions,1,Upper middle income,IRN,Iran
+380,1035,GDP Regions,1,Upper middle income,JAM,Jamaica
+400,1035,GDP Regions,1,Upper middle income,KAZ,Kazakhstan
+654,1035,GDP Regions,1,Upper middle income,KNA,Saint Kitts and Nevis
+428,1035,GDP Regions,1,Upper middle income,LBN,Lebanon
+430,1035,GDP Regions,1,Upper middle income,LBY,Libya
+659,1035,GDP Regions,1,Upper middle income,LCA,Saint Lucia
+438,1035,GDP Regions,1,Upper middle income,LTU,Lithuania
+175,1035,GDP Regions,1,Upper middle income,MEX,Mexico
+764,1035,GDP Regions,1,Upper middle income,MKD,TFYR Macedonia
+496,1035,GDP Regions,1,Upper middle income,MNE,Montenegro
+478,1035,GDP Regions,1,Upper middle income,MUS,Mauritius
+454,1035,GDP Regions,1,Upper middle income,MYS,Malaysia
+480,1035,GDP Regions,1,Upper middle income,MYT,Mayotte
+104,1035,GDP Regions,1,Upper middle income,NAM,Namibia
+566,1035,GDP Regions,1,Upper middle income,NIU,Niue
+516,1035,GDP Regions,1,Upper middle income,NRU,Nauru
+585,1035,GDP Regions,1,Upper middle income,PAN,Panama
+600,1035,GDP Regions,1,Upper middle income,PER,Peru
+586,1035,GDP Regions,1,Upper middle income,PLW,Palau
+498,1035,GDP Regions,1,Upper middle income,REU,Réunion
+638,1035,GDP Regions,1,Upper middle income,ROU,Romania
+642,1035,GDP Regions,1,Upper middle income,RUS,Russia
+663,1035,GDP Regions,1,Upper middle income,SPM,Saint Pierre and Miquelon
+686,1035,GDP Regions,1,Upper middle income,SRB,Serbia
+736,1035,GDP Regions,1,Upper middle income,SUR,Suriname
+688,1035,GDP Regions,1,Upper middle income,SYC,Seychelles
+788,1035,GDP Regions,1,Upper middle income,TUR,Turkey
+850,1035,GDP Regions,1,Upper middle income,URY,Uruguay
+810,1035,GDP Regions,1,Upper middle income,USR,Former USSR
+666,1035,GDP Regions,1,Upper middle income,VCT,Saint Vincent and the Grenadines
+548,1035,GDP Regions,1,Upper middle income,VEN,Venezuela
+706,1035,GDP Regions,1,Upper middle income,ZAF,South Africa
+4,1004,Global Regions,2,M. East & C. Asia,AFG,Afghanistan
+804,1004,Global Regions,2,M. East & C. Asia,ARE,UAE
+31,1004,Global Regions,2,M. East & C. Asia,AZE,Azerbaijan
+48,1004,Global Regions,2,M. East & C. Asia,BHR,Bahrain
+270,1004,Global Regions,2,M. East & C. Asia,GEO,Georgia
+360,1004,Global Regions,2,M. East & C. Asia,IRN,Iran
+364,1004,Global Regions,2,M. East & C. Asia,IRQ,Iraq
+833,1004,Global Regions,2,M. East & C. Asia,ISR,Israel
+832,1004,Global Regions,2,M. East & C. Asia,JOR,Jordan
+400,1004,Global Regions,2,M. East & C. Asia,KAZ,Kazakhstan
+414,1004,Global Regions,2,M. East & C. Asia,KGZ,Kyrgyzstan
+296,1004,Global Regions,2,M. East & C. Asia,KWT,Kuwait
+428,1004,Global Regions,2,M. East & C. Asia,LBN,Lebanon
+275,1004,Global Regions,2,M. East & C. Asia,OMN,Oman
+578,1004,Global Regions,2,M. East & C. Asia,PSE,Gaza Strip
+630,1004,Global Regions,2,M. East & C. Asia,QAT,Qatar
+678,1004,Global Regions,2,M. East & C. Asia,SAU,Saudi Arabia
+756,1004,Global Regions,2,M. East & C. Asia,SYR,Syria
+760,1004,Global Regions,2,M. East & C. Asia,TJK,Tajikistan
+792,1004,Global Regions,2,M. East & C. Asia,TKM,Turkmenistan
+788,1004,Global Regions,2,M. East & C. Asia,TUR,Turkey
+858,1004,Global Regions,2,M. East & C. Asia,UZB,Uzbekistan
+732,1004,Global Regions,2,M. East & C. Asia,YEM,Yemen
+8,1005,Global Regions,2,Other Europe,ALB,Albania
+51,1005,Global Regions,2,Other Europe,ARM,Armenia
+100,1005,Global Regions,2,Other Europe,BGR,Bulgaria
+70,1005,Global Regions,2,Other Europe,BIH,Bosnia and Herzegovina
+112,1005,Global Regions,2,Other Europe,BLR,Belarus
+192,1005,Global Regions,2,Other Europe,CYP,Cyprus
+196,1005,Global Regions,2,Other Europe,CZE,Czech Republic
+232,1005,Global Regions,2,Other Europe,EST,Estonia
+288,1005,Global Regions,2,Other Europe,GIB,Gibraltar
+384,1005,Global Regions,2,Other Europe,HRV,Croatia
+438,1005,Global Regions,2,Other Europe,LTU,Lithuania
+418,1005,Global Regions,2,Other Europe,LVA,Latvia
+410,1005,Global Regions,2,Other Europe,MDA,Moldova
+764,1005,Global Regions,2,Other Europe,MKD,TFYR Macedonia
+466,1005,Global Regions,2,Other Europe,MLT,Malta
+496,1005,Global Regions,2,Other Europe,MNE,Montenegro
+612,1005,Global Regions,2,Other Europe,POL,Poland
+638,1005,Global Regions,2,Other Europe,ROU,Romania
+686,1005,Global Regions,2,Other Europe,SRB,Serbia
+702,1005,Global Regions,2,Other Europe,SVK,Slovakia
+703,1005,Global Regions,2,Other Europe,SVN,Slovenia
+24,1006,Global Regions,2,Africa,AGO,Angola
+108,1006,Global Regions,2,Africa,BDI,Burundi
+204,1006,Global Regions,2,Africa,BEN,Benin
+854,1006,Global Regions,2,Africa,BFA,Burkina Faso
+72,1006,Global Regions,2,Africa,BWA,Botswana
+140,1006,Global Regions,2,Africa,CAF,Central African Republic
+188,1006,Global Regions,2,Africa,CIV,Cote dIvoire
+120,1006,Global Regions,2,Africa,CMR,Cameroon
+408,1006,Global Regions,2,Africa,COD,DR Congo
+174,1006,Global Regions,2,Africa,COG,Congo
+170,1006,Global Regions,2,Africa,COM,Comoros
+132,1006,Global Regions,2,Africa,CPV,Cape Verde
+208,1006,Global Regions,2,Africa,DJI,Djibouti
+12,1006,Global Regions,2,Africa,DZA,Algeria
+218,1006,Global Regions,2,Africa,EGY,Egypt
+226,1006,Global Regions,2,Africa,ERI,Eritrea
+876,1006,Global Regions,2,Africa,ESH,Western Sahara
+233,1006,Global Regions,2,Africa,ETH,Ethiopia
+258,1006,Global Regions,2,Africa,GAB,Gabon
+276,1006,Global Regions,2,Africa,GHA,Ghana
+831,1006,Global Regions,2,Africa,GIN,Guinea
+266,1006,Global Regions,2,Africa,GMB,Gambia
+324,1006,Global Regions,2,Africa,GNB,Guinea-Bissau
+222,1006,Global Regions,2,Africa,GNQ,Equatorial Guinea
+398,1006,Global Regions,2,Africa,KEN,Kenya
+426,1006,Global Regions,2,Africa,LBR,Liberia
+430,1006,Global Regions,2,Africa,LBY,Libya
+422,1006,Global Regions,2,Africa,LSO,Lesotho
+500,1006,Global Regions,2,Africa,MAR,Morocco
+442,1006,Global Regions,2,Africa,MDG,Madagascar
+462,1006,Global Regions,2,Africa,MLI,Mali
+504,1006,Global Regions,2,Africa,MOZ,Mozambique
+474,1006,Global Regions,2,Africa,MRT,Mauritania
+478,1006,Global Regions,2,Africa,MUS,Mauritius
+450,1006,Global Regions,2,Africa,MWI,Malawi
+480,1006,Global Regions,2,Africa,MYT,Mayotte
+104,1006,Global Regions,2,Africa,NAM,Namibia
+558,1006,Global Regions,2,Africa,NER,Niger
+562,1006,Global Regions,2,Africa,NGA,Nigeria
+498,1006,Global Regions,2,Africa,REU,Réunion
+643,1006,Global Regions,2,Africa,RWA,Rwanda
+144,1006,Global Regions,2,Africa,SDN,Sudan
+828,1006,Global Regions,2,Africa,SDS,South Sudan
+682,1006,Global Regions,2,Africa,SEN,Senegal
+652,1006,Global Regions,2,Africa,SHN,Saint Helena
+690,1006,Global Regions,2,Africa,SLE,Sierra Leone
+90,1006,Global Regions,2,Africa,SOM,Somalia
+674,1006,Global Regions,2,Africa,STP,Sao Tome and Principe
+729,1006,Global Regions,2,Africa,SUD,Sudan
+744,1006,Global Regions,2,Africa,SWZ,Swaziland
+688,1006,Global Regions,2,Africa,SYC,Seychelles
+148,1006,Global Regions,2,Africa,TCD,Chad
+626,1006,Global Regions,2,Africa,TGO,Togo
+780,1006,Global Regions,2,Africa,TUN,Tunisia
+826,1006,Global Regions,2,Africa,TZA,Tanzania
+798,1006,Global Regions,2,Africa,UGA,Uganda
+706,1006,Global Regions,2,Africa,ZAF,South Africa
+887,1006,Global Regions,2,Africa,ZMB,Zambia
+894,1006,Global Regions,2,Africa,ZWE,Zimbabwe
+36,1008,Global Regions,2,Asia-Pacific,AUS,Australia
+50,1008,Global Regions,2,Asia-Pacific,BGD,Bangladesh
+96,1008,Global Regions,2,Asia-Pacific,BRN,Brunei
+64,1008,Global Regions,2,Asia-Pacific,BTN,Bhutan
+152,1008,Global Regions,2,Asia-Pacific,CHN,China
+178,1008,Global Regions,2,Asia-Pacific,COK,Cook Islands
+238,1008,Global Regions,2,Asia-Pacific,FJI,Fiji
+484,1008,Global Regions,2,Asia-Pacific,FSM,Micronesia
+312,1008,Global Regions,2,Asia-Pacific,GUM,Guam
+156,1008,Global Regions,2,Asia-Pacific,HKG,Hong Kong
+356,1008,Global Regions,2,Asia-Pacific,IDN,Indonesia
+352,1008,Global Regions,2,Asia-Pacific,IND,India
+388,1008,Global Regions,2,Asia-Pacific,JPN,Japan
+116,1008,Global Regions,2,Asia-Pacific,KHM,Cambodia
+404,1008,Global Regions,2,Asia-Pacific,KIR,Kiribati
+634,1008,Global Regions,2,Asia-Pacific,KOR,South Korea
+417,1008,Global Regions,2,Asia-Pacific,LAO,Laos
+724,1008,Global Regions,2,Asia-Pacific,LKA,Sri Lanka
+344,1008,Global Regions,2,Asia-Pacific,MAC,Macao SAR
+458,1008,Global Regions,2,Asia-Pacific,MDV,Maldives
+470,1008,Global Regions,2,Asia-Pacific,MHL,Marshall Islands
+508,1008,Global Regions,2,Asia-Pacific,MMR,Myanmar
+492,1008,Global Regions,2,Asia-Pacific,MNG,Mongolia
+574,1008,Global Regions,2,Asia-Pacific,MNP,Northern Mariana Islands
+454,1008,Global Regions,2,Asia-Pacific,MYS,Malaysia
+530,1008,Global Regions,2,Asia-Pacific,NCL,New Caledonia
+570,1008,Global Regions,2,Asia-Pacific,NFK,Norfolk Island
+566,1008,Global Regions,2,Asia-Pacific,NIU,Niue
+520,1008,Global Regions,2,Asia-Pacific,NPL,Nepal
+516,1008,Global Regions,2,Asia-Pacific,NRU,Nauru
+540,1008,Global Regions,2,Asia-Pacific,NZL,New Zealand
+512,1008,Global Regions,2,Asia-Pacific,PAK,Pakistan
+608,1008,Global Regions,2,Asia-Pacific,PCN,Pitcairn
+604,1008,Global Regions,2,Asia-Pacific,PHL,Philippines
+586,1008,Global Regions,2,Asia-Pacific,PLW,Palau
+591,1008,Global Regions,2,Asia-Pacific,PNG,Papua New Guinea
+203,1008,Global Regions,2,Asia-Pacific,PRK,North Korea
+254,1008,Global Regions,2,Asia-Pacific,PYF,French Polynesia
+642,1008,Global Regions,2,Asia-Pacific,RUS,Russia
+694,1008,Global Regions,2,Asia-Pacific,SGP,Singapore
+705,1008,Global Regions,2,Asia-Pacific,SLB,Solomon Islands
+762,1008,Global Regions,2,Asia-Pacific,THA,Thailand
+768,1008,Global Regions,2,Asia-Pacific,TKL,Tokelau
+807,1008,Global Regions,2,Asia-Pacific,TLS,Timor-Leste
+772,1008,Global Regions,2,Asia-Pacific,TON,Tonga
+796,1008,Global Regions,2,Asia-Pacific,TUV,Tuvalu
+158,1008,Global Regions,2,Asia-Pacific,TWN,Taiwan
+800,1008,Global Regions,2,Asia-Pacific,UKR,Ukraine
+810,1008,Global Regions,2,Asia-Pacific,USR,Former USSR
+862,1008,Global Regions,2,Asia-Pacific,VNM,Viet Nam
+860,1008,Global Regions,2,Asia-Pacific,VUT,Vanuatu
+704,1008,Global Regions,2,Asia-Pacific,WLF,Wallis and Futuna Islands
+670,1008,Global Regions,2,Asia-Pacific,WSM,Samoa
+528,1009,Global Regions,2,Latin America,ANT,Netherlands Antilles
+32,1009,Global Regions,2,Latin America,ARG,Argentina
+68,1009,Global Regions,2,Latin America,BOL,Bolivia
+76,1009,Global Regions,2,Latin America,BRA,Brazil
+830,1009,Global Regions,2,Latin America,CHL,Chile
+446,1009,Global Regions,2,Latin America,COL,Colombia
+184,1009,Global Regions,2,Latin America,CRI,Costa Rica
+191,1009,Global Regions,2,Latin America,CUB,Cuba
+262,1009,Global Regions,2,Latin America,DMA,Dominica
+212,1009,Global Regions,2,Latin America,DOM,Dominican Republic
+214,1009,Global Regions,2,Latin America,ECU,Ecuador
+234,1009,Global Regions,2,Latin America,FLK,Falkland Islands
+316,1009,Global Regions,2,Latin America,GTM,Guatemala
+250,1009,Global Regions,2,Latin America,GUF,French Guiana
+624,1009,Global Regions,2,Latin America,GUY,Guyana
+336,1009,Global Regions,2,Latin America,HND,Honduras
+380,1009,Global Regions,2,Latin America,JAM,Jamaica
+554,1009,Global Regions,2,Latin America,NIC,Nicaragua
+585,1009,Global Regions,2,Latin America,PAN,Panama
+600,1009,Global Regions,2,Latin America,PER,Peru
+620,1009,Global Regions,2,Latin America,PRI,Puerto Rico
+598,1009,Global Regions,2,Latin America,PRY,Paraguay
+818,1009,Global Regions,2,Latin America,SLV,El Salvador
+736,1009,Global Regions,2,Latin America,SUR,Suriname
+776,1009,Global Regions,2,Latin America,TTO,Trinidad and Tobago
+850,1009,Global Regions,2,Latin America,URY,Uruguay
+548,1009,Global Regions,2,Latin America,VEN,Venezuela
+533,1010,Global Regions,2,North America,ABW,Aruba
+660,1010,Global Regions,2,North America,AIA,Anguilla
+16,1010,Global Regions,2,North America,ASM,American Samoa
+28,1010,Global Regions,2,North America,ATG,Antigua
+44,1010,Global Regions,2,North America,BHS,Bahamas
+646,1010,Global Regions,2,North America,BLM,Saint-Barthelemy
+84,1010,Global Regions,2,North America,BLZ,Belize
+60,1010,Global Regions,2,North America,BMU,Bermuda
+52,1010,Global Regions,2,North America,BRB,Barbados
+124,1010,Global Regions,2,North America,CAN,Canada
+136,1010,Global Regions,2,North America,CYM,Cayman Islands
+308,1010,Global Regions,2,North America,GLP,Guadeloupe
+304,1010,Global Regions,2,North America,GRD,Grenada
+328,1010,Global Regions,2,North America,HTI,Haiti
+654,1010,Global Regions,2,North America,KNA,Saint Kitts and Nevis
+659,1010,Global Regions,2,North America,LCA,Saint Lucia
+662,1010,Global Regions,2,North America,MAF,Saint-Martin (French part)
+175,1010,Global Regions,2,North America,MEX,Mexico
+499,1010,Global Regions,2,North America,MSR,Montserrat
+584,1010,Global Regions,2,North America,MTQ,Martinique
+663,1010,Global Regions,2,North America,SPM,Saint Pierre and Miquelon
+795,1010,Global Regions,2,North America,TCA,Turks and Caicos Islands
+834,1010,Global Regions,2,North America,USA,USA
+666,1010,Global Regions,2,North America,VCT,Saint Vincent and the Grenadines
+92,1010,Global Regions,2,North America,VGB,British Virgin Islands
+840,1010,Global Regions,2,North America,VIR,US Virgin Islands
+248,1011,Global Regions,2,Western Europe,ALA,Aland Islands
+20,1011,Global Regions,2,Western Europe,AND,Andorra
+40,1011,Global Regions,2,Western Europe,AUT,Austria
+56,1011,Global Regions,2,Western Europe,BEL,Belgium
+752,1011,Global Regions,2,Western Europe,CHE,Switzerland
+268,1011,Global Regions,2,Western Europe,DEU,Germany
+180,1011,Global Regions,2,Western Europe,DNK,Denmark
+710,1011,Global Regions,2,Western Europe,ESP,Spain
+242,1011,Global Regions,2,Western Europe,FIN,Finland
+246,1011,Global Regions,2,Western Europe,FRA,France
+231,1011,Global Regions,2,Western Europe,FRO,Faeroe Islands
+784,1011,Global Regions,2,Western Europe,GBR,UK
+320,1011,Global Regions,2,Western Europe,GGY,Guernsey
+292,1011,Global Regions,2,Western Europe,GRC,Greece
+300,1011,Global Regions,2,Western Europe,GRL,Greenland
+340,1011,Global Regions,2,Western Europe,HUN,Hungary
+372,1011,Global Regions,2,Western Europe,IMN,Isle of Man
+368,1011,Global Regions,2,Western Europe,IRL,Ireland
+348,1011,Global Regions,2,Western Europe,ISL,Iceland
+376,1011,Global Regions,2,Western Europe,ITA,Italy
+392,1011,Global Regions,2,Western Europe,JEY,Jersey
+434,1011,Global Regions,2,Western Europe,LIE,Liechtenstein
+440,1011,Global Regions,2,Western Europe,LUX,Luxembourg
+583,1011,Global Regions,2,Western Europe,MCO,Monaco
+524,1011,Global Regions,2,Western Europe,NLD,Netherlands
+580,1011,Global Regions,2,Western Europe,NOR,Norway
+616,1011,Global Regions,2,Western Europe,PRT,Portugal
+740,1011,Global Regions,2,Western Europe,SJM,Svalbard and Jan Mayen Islands
+882,1011,Global Regions,2,Western Europe,SMR,San Marino
+748,1011,Global Regions,2,Western Europe,SWE,Sweden
+332,1011,Global Regions,2,Western Europe,VAT,Holy See
+533,1019,Continents,3,North America and Caribbean,ABW,Aruba
+660,1019,Continents,3,North America and Caribbean,AIA,Anguilla
+528,1019,Continents,3,North America and Caribbean,ANT,Netherlands Antilles
+16,1019,Continents,3,North America and Caribbean,ASM,American Samoa
+28,1019,Continents,3,North America and Caribbean,ATG,Antigua
+44,1019,Continents,3,North America and Caribbean,BHS,Bahamas
+646,1019,Continents,3,North America and Caribbean,BLM,Saint-Barthelemy
+84,1019,Continents,3,North America and Caribbean,BLZ,Belize
+60,1019,Continents,3,North America and Caribbean,BMU,Bermuda
+52,1019,Continents,3,North America and Caribbean,BRB,Barbados
+124,1019,Continents,3,North America and Caribbean,CAN,Canada
+191,1019,Continents,3,North America and Caribbean,CUB,Cuba
+136,1019,Continents,3,North America and Caribbean,CYM,Cayman Islands
+262,1019,Continents,3,North America and Caribbean,DMA,Dominica
+212,1019,Continents,3,North America and Caribbean,DOM,Dominican Republic
+308,1019,Continents,3,North America and Caribbean,GLP,Guadeloupe
+304,1019,Continents,3,North America and Caribbean,GRD,Grenada
+328,1019,Continents,3,North America and Caribbean,HTI,Haiti
+380,1019,Continents,3,North America and Caribbean,JAM,Jamaica
+654,1019,Continents,3,North America and Caribbean,KNA,Saint Kitts and Nevis
+659,1019,Continents,3,North America and Caribbean,LCA,Saint Lucia
+662,1019,Continents,3,North America and Caribbean,MAF,Saint-Martin (French part)
+175,1019,Continents,3,North America and Caribbean,MEX,Mexico
+499,1019,Continents,3,North America and Caribbean,MSR,Montserrat
+584,1019,Continents,3,North America and Caribbean,MTQ,Martinique
+620,1019,Continents,3,North America and Caribbean,PRI,Puerto Rico
+652,1019,Continents,3,North America and Caribbean,SHN,Saint Helena
+663,1019,Continents,3,North America and Caribbean,SPM,Saint Pierre and Miquelon
+795,1019,Continents,3,North America and Caribbean,TCA,Turks and Caicos Islands
+776,1019,Continents,3,North America and Caribbean,TTO,Trinidad and Tobago
+834,1019,Continents,3,North America and Caribbean,USA,USA
+666,1019,Continents,3,North America and Caribbean,VCT,Saint Vincent and the Grenadines
+92,1019,Continents,3,North America and Caribbean,VGB,British Virgin Islands
+840,1019,Continents,3,North America and Caribbean,VIR,US Virgin Islands
+32,1020,Continents,3,South and Central America,ARG,Argentina
+68,1020,Continents,3,South and Central America,BOL,Bolivia
+76,1020,Continents,3,South and Central America,BRA,Brazil
+830,1020,Continents,3,South and Central America,CHL,Chile
+446,1020,Continents,3,South and Central America,COL,Colombia
+184,1020,Continents,3,South and Central America,CRI,Costa Rica
+214,1020,Continents,3,South and Central America,ECU,Ecuador
+234,1020,Continents,3,South and Central America,FLK,Falkland Islands
+316,1020,Continents,3,South and Central America,GTM,Guatemala
+250,1020,Continents,3,South and Central America,GUF,French Guiana
+336,1020,Continents,3,South and Central America,HND,Honduras
+554,1020,Continents,3,South and Central America,NIC,Nicaragua
+585,1020,Continents,3,South and Central America,PAN,Panama
+600,1020,Continents,3,South and Central America,PER,Peru
+598,1020,Continents,3,South and Central America,PRY,Paraguay
+818,1020,Continents,3,South and Central America,SLV,El Salvador
+850,1020,Continents,3,South and Central America,URY,Uruguay
+548,1020,Continents,3,South and Central America,VEN,Venezuela
+24,1021,Continents,3,Africa,AGO,Angola
+108,1021,Continents,3,Africa,BDI,Burundi
+204,1021,Continents,3,Africa,BEN,Benin
+854,1021,Continents,3,Africa,BFA,Burkina Faso
+72,1021,Continents,3,Africa,BWA,Botswana
+140,1021,Continents,3,Africa,CAF,Central African Republic
+188,1021,Continents,3,Africa,CIV,Cote dIvoire
+120,1021,Continents,3,Africa,CMR,Cameroon
+408,1021,Continents,3,Africa,COD,DR Congo
+174,1021,Continents,3,Africa,COG,Congo
+170,1021,Continents,3,Africa,COM,Comoros
+132,1021,Continents,3,Africa,CPV,Cape Verde
+208,1021,Continents,3,Africa,DJI,Djibouti
+12,1021,Continents,3,Africa,DZA,Algeria
+218,1021,Continents,3,Africa,EGY,Egypt
+226,1021,Continents,3,Africa,ERI,Eritrea
+876,1021,Continents,3,Africa,ESH,Western Sahara
+233,1021,Continents,3,Africa,ETH,Ethiopia
+258,1021,Continents,3,Africa,GAB,Gabon
+276,1021,Continents,3,Africa,GHA,Ghana
+831,1021,Continents,3,Africa,GIN,Guinea
+266,1021,Continents,3,Africa,GMB,Gambia
+324,1021,Continents,3,Africa,GNB,Guinea-Bissau
+222,1021,Continents,3,Africa,GNQ,Equatorial Guinea
+624,1021,Continents,3,Africa,GUY,Guyana
+398,1021,Continents,3,Africa,KEN,Kenya
+426,1021,Continents,3,Africa,LBR,Liberia
+430,1021,Continents,3,Africa,LBY,Libya
+422,1021,Continents,3,Africa,LSO,Lesotho
+500,1021,Continents,3,Africa,MAR,Morocco
+442,1021,Continents,3,Africa,MDG,Madagascar
+462,1021,Continents,3,Africa,MLI,Mali
+504,1021,Continents,3,Africa,MOZ,Mozambique
+474,1021,Continents,3,Africa,MRT,Mauritania
+478,1021,Continents,3,Africa,MUS,Mauritius
+450,1021,Continents,3,Africa,MWI,Malawi
+480,1021,Continents,3,Africa,MYT,Mayotte
+104,1021,Continents,3,Africa,NAM,Namibia
+558,1021,Continents,3,Africa,NER,Niger
+562,1021,Continents,3,Africa,NGA,Nigeria
+498,1021,Continents,3,Africa,REU,Réunion
+643,1021,Continents,3,Africa,RWA,Rwanda
+144,1021,Continents,3,Africa,SDN,Sudan
+828,1021,Continents,3,Africa,SDS,South Sudan
+682,1021,Continents,3,Africa,SEN,Senegal
+690,1021,Continents,3,Africa,SLE,Sierra Leone
+90,1021,Continents,3,Africa,SOM,Somalia
+674,1021,Continents,3,Africa,STP,Sao Tome and Principe
+729,1021,Continents,3,Africa,SUD,Sudan
+736,1021,Continents,3,Africa,SUR,Suriname
+744,1021,Continents,3,Africa,SWZ,Swaziland
+688,1021,Continents,3,Africa,SYC,Seychelles
+148,1021,Continents,3,Africa,TCD,Chad
+626,1021,Continents,3,Africa,TGO,Togo
+780,1021,Continents,3,Africa,TUN,Tunisia
+826,1021,Continents,3,Africa,TZA,Tanzania
+798,1021,Continents,3,Africa,UGA,Uganda
+706,1021,Continents,3,Africa,ZAF,South Africa
+887,1021,Continents,3,Africa,ZMB,Zambia
+894,1021,Continents,3,Africa,ZWE,Zimbabwe
+4,1022,Continents,3,Asia,AFG,Afghanistan
+248,1022,Continents,3,Asia,ALA,Aland Islands
+804,1022,Continents,3,Asia,ARE,UAE
+31,1022,Continents,3,Asia,AZE,Azerbaijan
+50,1022,Continents,3,Asia,BGD,Bangladesh
+48,1022,Continents,3,Asia,BHR,Bahrain
+96,1022,Continents,3,Asia,BRN,Brunei
+64,1022,Continents,3,Asia,BTN,Bhutan
+152,1022,Continents,3,Asia,CHN,China
+178,1022,Continents,3,Asia,COK,Cook Islands
+484,1022,Continents,3,Asia,FSM,Micronesia
+270,1022,Continents,3,Asia,GEO,Georgia
+312,1022,Continents,3,Asia,GUM,Guam
+156,1022,Continents,3,Asia,HKG,Hong Kong
+356,1022,Continents,3,Asia,IDN,Indonesia
+352,1022,Continents,3,Asia,IND,India
+360,1022,Continents,3,Asia,IRN,Iran
+364,1022,Continents,3,Asia,IRQ,Iraq
+833,1022,Continents,3,Asia,ISR,Israel
+832,1022,Continents,3,Asia,JOR,Jordan
+388,1022,Continents,3,Asia,JPN,Japan
+400,1022,Continents,3,Asia,KAZ,Kazakhstan
+414,1022,Continents,3,Asia,KGZ,Kyrgyzstan
+116,1022,Continents,3,Asia,KHM,Cambodia
+404,1022,Continents,3,Asia,KIR,Kiribati
+634,1022,Continents,3,Asia,KOR,South Korea
+296,1022,Continents,3,Asia,KWT,Kuwait
+417,1022,Continents,3,Asia,LAO,Laos
+428,1022,Continents,3,Asia,LBN,Lebanon
+724,1022,Continents,3,Asia,LKA,Sri Lanka
+344,1022,Continents,3,Asia,MAC,Macao SAR
+458,1022,Continents,3,Asia,MDV,Maldives
+470,1022,Continents,3,Asia,MHL,Marshall Islands
+508,1022,Continents,3,Asia,MMR,Myanmar
+492,1022,Continents,3,Asia,MNG,Mongolia
+574,1022,Continents,3,Asia,MNP,Northern Mariana Islands
+454,1022,Continents,3,Asia,MYS,Malaysia
+520,1022,Continents,3,Asia,NPL,Nepal
+275,1022,Continents,3,Asia,OMN,Oman
+512,1022,Continents,3,Asia,PAK,Pakistan
+604,1022,Continents,3,Asia,PHL,Philippines
+586,1022,Continents,3,Asia,PLW,Palau
+591,1022,Continents,3,Asia,PNG,Papua New Guinea
+203,1022,Continents,3,Asia,PRK,North Korea
+578,1022,Continents,3,Asia,PSE,Gaza Strip
+254,1022,Continents,3,Asia,PYF,French Polynesia
+630,1022,Continents,3,Asia,QAT,Qatar
+678,1022,Continents,3,Asia,SAU,Saudi Arabia
+694,1022,Continents,3,Asia,SGP,Singapore
+705,1022,Continents,3,Asia,SLB,Solomon Islands
+756,1022,Continents,3,Asia,SYR,Syria
+762,1022,Continents,3,Asia,THA,Thailand
+760,1022,Continents,3,Asia,TJK,Tajikistan
+792,1022,Continents,3,Asia,TKM,Turkmenistan
+807,1022,Continents,3,Asia,TLS,Timor-Leste
+772,1022,Continents,3,Asia,TON,Tonga
+788,1022,Continents,3,Asia,TUR,Turkey
+796,1022,Continents,3,Asia,TUV,Tuvalu
+158,1022,Continents,3,Asia,TWN,Taiwan
+800,1022,Continents,3,Asia,UKR,Ukraine
+858,1022,Continents,3,Asia,UZB,Uzbekistan
+862,1022,Continents,3,Asia,VNM,Viet Nam
+704,1022,Continents,3,Asia,WLF,Wallis and Futuna Islands
+670,1022,Continents,3,Asia,WSM,Samoa
+732,1022,Continents,3,Asia,YEM,Yemen
+8,1023,Continents,3,Europe,ALB,Albania
+20,1023,Continents,3,Europe,AND,Andorra
+51,1023,Continents,3,Europe,ARM,Armenia
+40,1023,Continents,3,Europe,AUT,Austria
+56,1023,Continents,3,Europe,BEL,Belgium
+100,1023,Continents,3,Europe,BGR,Bulgaria
+70,1023,Continents,3,Europe,BIH,Bosnia and Herzegovina
+112,1023,Continents,3,Europe,BLR,Belarus
+752,1023,Continents,3,Europe,CHE,Switzerland
+192,1023,Continents,3,Europe,CYP,Cyprus
+196,1023,Continents,3,Europe,CZE,Czech Republic
+268,1023,Continents,3,Europe,DEU,Germany
+180,1023,Continents,3,Europe,DNK,Denmark
+710,1023,Continents,3,Europe,ESP,Spain
+232,1023,Continents,3,Europe,EST,Estonia
+242,1023,Continents,3,Europe,FIN,Finland
+246,1023,Continents,3,Europe,FRA,France
+231,1023,Continents,3,Europe,FRO,Faeroe Islands
+784,1023,Continents,3,Europe,GBR,UK
+320,1023,Continents,3,Europe,GGY,Guernsey
+288,1023,Continents,3,Europe,GIB,Gibraltar
+292,1023,Continents,3,Europe,GRC,Greece
+300,1023,Continents,3,Europe,GRL,Greenland
+384,1023,Continents,3,Europe,HRV,Croatia
+340,1023,Continents,3,Europe,HUN,Hungary
+372,1023,Continents,3,Europe,IMN,Isle of Man
+368,1023,Continents,3,Europe,IRL,Ireland
+348,1023,Continents,3,Europe,ISL,Iceland
+376,1023,Continents,3,Europe,ITA,Italy
+392,1023,Continents,3,Europe,JEY,Jersey
+434,1023,Continents,3,Europe,LIE,Liechtenstein
+438,1023,Continents,3,Europe,LTU,Lithuania
+440,1023,Continents,3,Europe,LUX,Luxembourg
+418,1023,Continents,3,Europe,LVA,Latvia
+583,1023,Continents,3,Europe,MCO,Monaco
+410,1023,Continents,3,Europe,MDA,Moldova
+764,1023,Continents,3,Europe,MKD,TFYR Macedonia
+466,1023,Continents,3,Europe,MLT,Malta
+496,1023,Continents,3,Europe,MNE,Montenegro
+524,1023,Continents,3,Europe,NLD,Netherlands
+580,1023,Continents,3,Europe,NOR,Norway
+612,1023,Continents,3,Europe,POL,Poland
+616,1023,Continents,3,Europe,PRT,Portugal
+638,1023,Continents,3,Europe,ROU,Romania
+642,1023,Continents,3,Europe,RUS,Russia
+740,1023,Continents,3,Europe,SJM,Svalbard and Jan Mayen Islands
+882,1023,Continents,3,Europe,SMR,San Marino
+686,1023,Continents,3,Europe,SRB,Serbia
+702,1023,Continents,3,Europe,SVK,Slovakia
+703,1023,Continents,3,Europe,SVN,Slovenia
+748,1023,Continents,3,Europe,SWE,Sweden
+810,1023,Continents,3,Europe,USR,Former USSR
+332,1023,Continents,3,Europe,VAT,Holy See
+36,1025,Continents,3,Australia,AUS,Australia
+238,1025,Continents,3,Australia,FJI,Fiji
+530,1025,Continents,3,Australia,NCL,New Caledonia
+570,1025,Continents,3,Australia,NFK,Norfolk Island
+566,1025,Continents,3,Australia,NIU,Niue
+516,1025,Continents,3,Australia,NRU,Nauru
+540,1025,Continents,3,Australia,NZL,New Zealand
+608,1025,Continents,3,Australia,PCN,Pitcairn
+768,1025,Continents,3,Australia,TKL,Tokelau
+860,1025,Continents,3,Australia,VUT,Vanuatu
+40,1028,EU25,4,EU25,AUT,Austria
+56,1028,EU25,4,EU25,BEL,Belgium
+196,1028,EU25,4,EU25,CZE,Czech Republic
+268,1028,EU25,4,EU25,DEU,Germany
+180,1028,EU25,4,EU25,DNK,Denmark
+710,1028,EU25,4,EU25,ESP,Spain
+232,1028,EU25,4,EU25,EST,Estonia
+242,1028,EU25,4,EU25,FIN,Finland
+246,1028,EU25,4,EU25,FRA,France
+784,1028,EU25,4,EU25,GBR,UK
+292,1028,EU25,4,EU25,GRC,Greece
+384,1028,EU25,4,EU25,HRV,Croatia
+340,1028,EU25,4,EU25,HUN,Hungary
+368,1028,EU25,4,EU25,IRL,Ireland
+376,1028,EU25,4,EU25,ITA,Italy
+438,1028,EU25,4,EU25,LTU,Lithuania
+440,1028,EU25,4,EU25,LUX,Luxembourg
+418,1028,EU25,4,EU25,LVA,Latvia
+466,1028,EU25,4,EU25,MLT,Malta
+524,1028,EU25,4,EU25,NLD,Netherlands
+612,1028,EU25,4,EU25,POL,Poland
+616,1028,EU25,4,EU25,PRT,Portugal
+702,1028,EU25,4,EU25,SVK,Slovakia
+703,1028,EU25,4,EU25,SVN,Slovenia
+748,1028,EU25,4,EU25,SWE,Sweden
+533,1042,EU25,4,Non-EU25,ABW,Aruba
+4,1042,EU25,4,Non-EU25,AFG,Afghanistan
+24,1042,EU25,4,Non-EU25,AGO,Angola
+660,1042,EU25,4,Non-EU25,AIA,Anguilla
+248,1042,EU25,4,Non-EU25,ALA,Aland Islands
+8,1042,EU25,4,Non-EU25,ALB,Albania
+20,1042,EU25,4,Non-EU25,AND,Andorra
+528,1042,EU25,4,Non-EU25,ANT,Netherlands Antilles
+804,1042,EU25,4,Non-EU25,ARE,UAE
+32,1042,EU25,4,Non-EU25,ARG,Argentina
+51,1042,EU25,4,Non-EU25,ARM,Armenia
+16,1042,EU25,4,Non-EU25,ASM,American Samoa
+28,1042,EU25,4,Non-EU25,ATG,Antigua
+36,1042,EU25,4,Non-EU25,AUS,Australia
+31,1042,EU25,4,Non-EU25,AZE,Azerbaijan
+108,1042,EU25,4,Non-EU25,BDI,Burundi
+204,1042,EU25,4,Non-EU25,BEN,Benin
+854,1042,EU25,4,Non-EU25,BFA,Burkina Faso
+50,1042,EU25,4,Non-EU25,BGD,Bangladesh
+100,1042,EU25,4,Non-EU25,BGR,Bulgaria
+48,1042,EU25,4,Non-EU25,BHR,Bahrain
+44,1042,EU25,4,Non-EU25,BHS,Bahamas
+70,1042,EU25,4,Non-EU25,BIH,Bosnia and Herzegovina
+646,1042,EU25,4,Non-EU25,BLM,Saint-Barthelemy
+112,1042,EU25,4,Non-EU25,BLR,Belarus
+84,1042,EU25,4,Non-EU25,BLZ,Belize
+60,1042,EU25,4,Non-EU25,BMU,Bermuda
+68,1042,EU25,4,Non-EU25,BOL,Bolivia
+76,1042,EU25,4,Non-EU25,BRA,Brazil
+52,1042,EU25,4,Non-EU25,BRB,Barbados
+96,1042,EU25,4,Non-EU25,BRN,Brunei
+64,1042,EU25,4,Non-EU25,BTN,Bhutan
+72,1042,EU25,4,Non-EU25,BWA,Botswana
+140,1042,EU25,4,Non-EU25,CAF,Central African Republic
+124,1042,EU25,4,Non-EU25,CAN,Canada
+752,1042,EU25,4,Non-EU25,CHE,Switzerland
+830,1042,EU25,4,Non-EU25,CHL,Chile
+152,1042,EU25,4,Non-EU25,CHN,China
+188,1042,EU25,4,Non-EU25,CIV,Cote dIvoire
+120,1042,EU25,4,Non-EU25,CMR,Cameroon
+408,1042,EU25,4,Non-EU25,COD,DR Congo
+174,1042,EU25,4,Non-EU25,COG,Congo
+178,1042,EU25,4,Non-EU25,COK,Cook Islands
+446,1042,EU25,4,Non-EU25,COL,Colombia
+170,1042,EU25,4,Non-EU25,COM,Comoros
+132,1042,EU25,4,Non-EU25,CPV,Cape Verde
+184,1042,EU25,4,Non-EU25,CRI,Costa Rica
+191,1042,EU25,4,Non-EU25,CUB,Cuba
+136,1042,EU25,4,Non-EU25,CYM,Cayman Islands
+192,1042,EU25,4,Non-EU25,CYP,Cyprus
+208,1042,EU25,4,Non-EU25,DJI,Djibouti
+262,1042,EU25,4,Non-EU25,DMA,Dominica
+212,1042,EU25,4,Non-EU25,DOM,Dominican Republic
+12,1042,EU25,4,Non-EU25,DZA,Algeria
+214,1042,EU25,4,Non-EU25,ECU,Ecuador
+218,1042,EU25,4,Non-EU25,EGY,Egypt
+226,1042,EU25,4,Non-EU25,ERI,Eritrea
+876,1042,EU25,4,Non-EU25,ESH,Western Sahara
+233,1042,EU25,4,Non-EU25,ETH,Ethiopia
+238,1042,EU25,4,Non-EU25,FJI,Fiji
+234,1042,EU25,4,Non-EU25,FLK,Falkland Islands
+231,1042,EU25,4,Non-EU25,FRO,Faeroe Islands
+484,1042,EU25,4,Non-EU25,FSM,Micronesia
+258,1042,EU25,4,Non-EU25,GAB,Gabon
+270,1042,EU25,4,Non-EU25,GEO,Georgia
+320,1042,EU25,4,Non-EU25,GGY,Guernsey
+276,1042,EU25,4,Non-EU25,GHA,Ghana
+288,1042,EU25,4,Non-EU25,GIB,Gibraltar
+831,1042,EU25,4,Non-EU25,GIN,Guinea
+308,1042,EU25,4,Non-EU25,GLP,Guadeloupe
+266,1042,EU25,4,Non-EU25,GMB,Gambia
+324,1042,EU25,4,Non-EU25,GNB,Guinea-Bissau
+222,1042,EU25,4,Non-EU25,GNQ,Equatorial Guinea
+304,1042,EU25,4,Non-EU25,GRD,Grenada
+300,1042,EU25,4,Non-EU25,GRL,Greenland
+316,1042,EU25,4,Non-EU25,GTM,Guatemala
+250,1042,EU25,4,Non-EU25,GUF,French Guiana
+312,1042,EU25,4,Non-EU25,GUM,Guam
+624,1042,EU25,4,Non-EU25,GUY,Guyana
+156,1042,EU25,4,Non-EU25,HKG,Hong Kong
+336,1042,EU25,4,Non-EU25,HND,Honduras
+328,1042,EU25,4,Non-EU25,HTI,Haiti
+356,1042,EU25,4,Non-EU25,IDN,Indonesia
+372,1042,EU25,4,Non-EU25,IMN,Isle of Man
+352,1042,EU25,4,Non-EU25,IND,India
+360,1042,EU25,4,Non-EU25,IRN,Iran
+364,1042,EU25,4,Non-EU25,IRQ,Iraq
+348,1042,EU25,4,Non-EU25,ISL,Iceland
+833,1042,EU25,4,Non-EU25,ISR,Israel
+380,1042,EU25,4,Non-EU25,JAM,Jamaica
+392,1042,EU25,4,Non-EU25,JEY,Jersey
+832,1042,EU25,4,Non-EU25,JOR,Jordan
+388,1042,EU25,4,Non-EU25,JPN,Japan
+400,1042,EU25,4,Non-EU25,KAZ,Kazakhstan
+398,1042,EU25,4,Non-EU25,KEN,Kenya
+414,1042,EU25,4,Non-EU25,KGZ,Kyrgyzstan
+116,1042,EU25,4,Non-EU25,KHM,Cambodia
+404,1042,EU25,4,Non-EU25,KIR,Kiribati
+654,1042,EU25,4,Non-EU25,KNA,Saint Kitts and Nevis
+634,1042,EU25,4,Non-EU25,KOR,South Korea
+895,1042,EU25,4,Non-EU25,KSV,Kosovo
+296,1042,EU25,4,Non-EU25,KWT,Kuwait
+417,1042,EU25,4,Non-EU25,LAO,Laos
+428,1042,EU25,4,Non-EU25,LBN,Lebanon
+426,1042,EU25,4,Non-EU25,LBR,Liberia
+430,1042,EU25,4,Non-EU25,LBY,Libya
+659,1042,EU25,4,Non-EU25,LCA,Saint Lucia
+434,1042,EU25,4,Non-EU25,LIE,Liechtenstein
+724,1042,EU25,4,Non-EU25,LKA,Sri Lanka
+422,1042,EU25,4,Non-EU25,LSO,Lesotho
+344,1042,EU25,4,Non-EU25,MAC,Macao SAR
+662,1042,EU25,4,Non-EU25,MAF,Saint-Martin (French part)
+500,1042,EU25,4,Non-EU25,MAR,Morocco
+583,1042,EU25,4,Non-EU25,MCO,Monaco
+410,1042,EU25,4,Non-EU25,MDA,Moldova
+442,1042,EU25,4,Non-EU25,MDG,Madagascar
+458,1042,EU25,4,Non-EU25,MDV,Maldives
+175,1042,EU25,4,Non-EU25,MEX,Mexico
+470,1042,EU25,4,Non-EU25,MHL,Marshall Islands
+764,1042,EU25,4,Non-EU25,MKD,TFYR Macedonia
+462,1042,EU25,4,Non-EU25,MLI,Mali
+508,1042,EU25,4,Non-EU25,MMR,Myanmar
+496,1042,EU25,4,Non-EU25,MNE,Montenegro
+492,1042,EU25,4,Non-EU25,MNG,Mongolia
+574,1042,EU25,4,Non-EU25,MNP,Northern Mariana Islands
+504,1042,EU25,4,Non-EU25,MOZ,Mozambique
+474,1042,EU25,4,Non-EU25,MRT,Mauritania
+499,1042,EU25,4,Non-EU25,MSR,Montserrat
+584,1042,EU25,4,Non-EU25,MTQ,Martinique
+478,1042,EU25,4,Non-EU25,MUS,Mauritius
+450,1042,EU25,4,Non-EU25,MWI,Malawi
+454,1042,EU25,4,Non-EU25,MYS,Malaysia
+480,1042,EU25,4,Non-EU25,MYT,Mayotte
+104,1042,EU25,4,Non-EU25,NAM,Namibia
+530,1042,EU25,4,Non-EU25,NCL,New Caledonia
+558,1042,EU25,4,Non-EU25,NER,Niger
+570,1042,EU25,4,Non-EU25,NFK,Norfolk Island
+562,1042,EU25,4,Non-EU25,NGA,Nigeria
+554,1042,EU25,4,Non-EU25,NIC,Nicaragua
+566,1042,EU25,4,Non-EU25,NIU,Niue
+580,1042,EU25,4,Non-EU25,NOR,Norway
+520,1042,EU25,4,Non-EU25,NPL,Nepal
+516,1042,EU25,4,Non-EU25,NRU,Nauru
+540,1042,EU25,4,Non-EU25,NZL,New Zealand
+275,1042,EU25,4,Non-EU25,OMN,Oman
+512,1042,EU25,4,Non-EU25,PAK,Pakistan
+585,1042,EU25,4,Non-EU25,PAN,Panama
+608,1042,EU25,4,Non-EU25,PCN,Pitcairn
+600,1042,EU25,4,Non-EU25,PER,Peru
+604,1042,EU25,4,Non-EU25,PHL,Philippines
+586,1042,EU25,4,Non-EU25,PLW,Palau
+591,1042,EU25,4,Non-EU25,PNG,Papua New Guinea
+620,1042,EU25,4,Non-EU25,PRI,Puerto Rico
+203,1042,EU25,4,Non-EU25,PRK,North Korea
+598,1042,EU25,4,Non-EU25,PRY,Paraguay
+578,1042,EU25,4,Non-EU25,PSE,Gaza Strip
+254,1042,EU25,4,Non-EU25,PYF,French Polynesia
+630,1042,EU25,4,Non-EU25,QAT,Qatar
+498,1042,EU25,4,Non-EU25,REU,Réunion
+638,1042,EU25,4,Non-EU25,ROU,Romania
+1,1042,EU25,4,Non-EU25,ROW,Statistical Discrepancies
+642,1042,EU25,4,Non-EU25,RUS,Russia
+643,1042,EU25,4,Non-EU25,RWA,Rwanda
+678,1042,EU25,4,Non-EU25,SAU,Saudi Arabia
+144,1042,EU25,4,Non-EU25,SDN,Sudan
+828,1042,EU25,4,Non-EU25,SDS,South Sudan
+999,1042,EU25,4,Non-EU25,SEA,Seaworld
+682,1042,EU25,4,Non-EU25,SEN,Senegal
+694,1042,EU25,4,Non-EU25,SGP,Singapore
+652,1042,EU25,4,Non-EU25,SHN,Saint Helena
+740,1042,EU25,4,Non-EU25,SJM,Svalbard and Jan Mayen Islands
+705,1042,EU25,4,Non-EU25,SLB,Solomon Islands
+690,1042,EU25,4,Non-EU25,SLE,Sierra Leone
+818,1042,EU25,4,Non-EU25,SLV,El Salvador
+882,1042,EU25,4,Non-EU25,SMR,San Marino
+90,1042,EU25,4,Non-EU25,SOM,Somalia
+663,1042,EU25,4,Non-EU25,SPM,Saint Pierre and Miquelon
+686,1042,EU25,4,Non-EU25,SRB,Serbia
+674,1042,EU25,4,Non-EU25,STP,Sao Tome and Principe
+729,1042,EU25,4,Non-EU25,SUD,Sudan
+736,1042,EU25,4,Non-EU25,SUR,Suriname
+744,1042,EU25,4,Non-EU25,SWZ,Swaziland
+688,1042,EU25,4,Non-EU25,SYC,Seychelles
+756,1042,EU25,4,Non-EU25,SYR,Syria
+795,1042,EU25,4,Non-EU25,TCA,Turks and Caicos Islands
+148,1042,EU25,4,Non-EU25,TCD,Chad
+626,1042,EU25,4,Non-EU25,TGO,Togo
+762,1042,EU25,4,Non-EU25,THA,Thailand
+760,1042,EU25,4,Non-EU25,TJK,Tajikistan
+768,1042,EU25,4,Non-EU25,TKL,Tokelau
+792,1042,EU25,4,Non-EU25,TKM,Turkmenistan
+807,1042,EU25,4,Non-EU25,TLS,Timor-Leste
+772,1042,EU25,4,Non-EU25,TON,Tonga
+776,1042,EU25,4,Non-EU25,TTO,Trinidad and Tobago
+780,1042,EU25,4,Non-EU25,TUN,Tunisia
+788,1042,EU25,4,Non-EU25,TUR,Turkey
+796,1042,EU25,4,Non-EU25,TUV,Tuvalu
+158,1042,EU25,4,Non-EU25,TWN,Taiwan
+826,1042,EU25,4,Non-EU25,TZA,Tanzania
+896,1042,EU25,4,Non-EU25,TZM,Tanzania
+798,1042,EU25,4,Non-EU25,UGA,Uganda
+800,1042,EU25,4,Non-EU25,UKR,Ukraine
+850,1042,EU25,4,Non-EU25,URY,Uruguay
+834,1042,EU25,4,Non-EU25,USA,USA
+810,1042,EU25,4,Non-EU25,USR,Former USSR
+858,1042,EU25,4,Non-EU25,UZB,Uzbekistan
+332,1042,EU25,4,Non-EU25,VAT,Holy See
+666,1042,EU25,4,Non-EU25,VCT,Saint Vincent and the Grenadines
+548,1042,EU25,4,Non-EU25,VEN,Venezuela
+92,1042,EU25,4,Non-EU25,VGB,British Virgin Islands
+840,1042,EU25,4,Non-EU25,VIR,US Virgin Islands
+862,1042,EU25,4,Non-EU25,VNM,Viet Nam
+860,1042,EU25,4,Non-EU25,VUT,Vanuatu
+704,1042,EU25,4,Non-EU25,WLF,Wallis and Futuna Islands
+670,1042,EU25,4,Non-EU25,WSM,Samoa
+732,1042,EU25,4,Non-EU25,YEM,Yemen
+706,1042,EU25,4,Non-EU25,ZAF,South Africa
+887,1042,EU25,4,Non-EU25,ZMB,Zambia
+894,1042,EU25,4,Non-EU25,ZWE,Zimbabwe
+40,1029,EU15,5,EU15,AUT,Austria
+56,1029,EU15,5,EU15,BEL,Belgium
+268,1029,EU15,5,EU15,DEU,Germany
+180,1029,EU15,5,EU15,DNK,Denmark
+710,1029,EU15,5,EU15,ESP,Spain
+242,1029,EU15,5,EU15,FIN,Finland
+246,1029,EU15,5,EU15,FRA,France
+784,1029,EU15,5,EU15,GBR,UK
+292,1029,EU15,5,EU15,GRC,Greece
+368,1029,EU15,5,EU15,IRL,Ireland
+376,1029,EU15,5,EU15,ITA,Italy
+440,1029,EU15,5,EU15,LUX,Luxembourg
+524,1029,EU15,5,EU15,NLD,Netherlands
+616,1029,EU15,5,EU15,PRT,Portugal
+748,1029,EU15,5,EU15,SWE,Sweden
+533,1043,EU21,5,Non-EU15,ABW,Aruba
+4,1043,EU21,5,Non-EU15,AFG,Afghanistan
+24,1043,EU21,5,Non-EU15,AGO,Angola
+660,1043,EU21,5,Non-EU15,AIA,Anguilla
+248,1043,EU21,5,Non-EU15,ALA,Aland Islands
+8,1043,EU21,5,Non-EU15,ALB,Albania
+20,1043,EU21,5,Non-EU15,AND,Andorra
+528,1043,EU21,5,Non-EU15,ANT,Netherlands Antilles
+804,1043,EU21,5,Non-EU15,ARE,UAE
+32,1043,EU21,5,Non-EU15,ARG,Argentina
+51,1043,EU21,5,Non-EU15,ARM,Armenia
+16,1043,EU21,5,Non-EU15,ASM,American Samoa
+28,1043,EU21,5,Non-EU15,ATG,Antigua
+36,1043,EU21,5,Non-EU15,AUS,Australia
+31,1043,EU21,5,Non-EU15,AZE,Azerbaijan
+108,1043,EU21,5,Non-EU15,BDI,Burundi
+204,1043,EU21,5,Non-EU15,BEN,Benin
+854,1043,EU21,5,Non-EU15,BFA,Burkina Faso
+50,1043,EU21,5,Non-EU15,BGD,Bangladesh
+100,1043,EU21,5,Non-EU15,BGR,Bulgaria
+48,1043,EU21,5,Non-EU15,BHR,Bahrain
+44,1043,EU21,5,Non-EU15,BHS,Bahamas
+70,1043,EU21,5,Non-EU15,BIH,Bosnia and Herzegovina
+646,1043,EU21,5,Non-EU15,BLM,Saint-Barthelemy
+112,1043,EU21,5,Non-EU15,BLR,Belarus
+84,1043,EU21,5,Non-EU15,BLZ,Belize
+60,1043,EU21,5,Non-EU15,BMU,Bermuda
+68,1043,EU21,5,Non-EU15,BOL,Bolivia
+76,1043,EU21,5,Non-EU15,BRA,Brazil
+52,1043,EU21,5,Non-EU15,BRB,Barbados
+96,1043,EU21,5,Non-EU15,BRN,Brunei
+64,1043,EU21,5,Non-EU15,BTN,Bhutan
+72,1043,EU21,5,Non-EU15,BWA,Botswana
+140,1043,EU21,5,Non-EU15,CAF,Central African Republic
+124,1043,EU21,5,Non-EU15,CAN,Canada
+752,1043,EU21,5,Non-EU15,CHE,Switzerland
+830,1043,EU21,5,Non-EU15,CHL,Chile
+152,1043,EU21,5,Non-EU15,CHN,China
+188,1043,EU21,5,Non-EU15,CIV,Cote dIvoire
+120,1043,EU21,5,Non-EU15,CMR,Cameroon
+408,1043,EU21,5,Non-EU15,COD,DR Congo
+174,1043,EU21,5,Non-EU15,COG,Congo
+178,1043,EU21,5,Non-EU15,COK,Cook Islands
+446,1043,EU21,5,Non-EU15,COL,Colombia
+170,1043,EU21,5,Non-EU15,COM,Comoros
+132,1043,EU21,5,Non-EU15,CPV,Cape Verde
+184,1043,EU21,5,Non-EU15,CRI,Costa Rica
+191,1043,EU21,5,Non-EU15,CUB,Cuba
+136,1043,EU21,5,Non-EU15,CYM,Cayman Islands
+192,1043,EU21,5,Non-EU15,CYP,Cyprus
+196,1043,EU21,5,Non-EU15,CZE,Czech Republic
+208,1043,EU21,5,Non-EU15,DJI,Djibouti
+262,1043,EU21,5,Non-EU15,DMA,Dominica
+212,1043,EU21,5,Non-EU15,DOM,Dominican Republic
+12,1043,EU21,5,Non-EU15,DZA,Algeria
+214,1043,EU21,5,Non-EU15,ECU,Ecuador
+218,1043,EU21,5,Non-EU15,EGY,Egypt
+226,1043,EU21,5,Non-EU15,ERI,Eritrea
+876,1043,EU21,5,Non-EU15,ESH,Western Sahara
+232,1043,EU21,5,Non-EU15,EST,Estonia
+233,1043,EU21,5,Non-EU15,ETH,Ethiopia
+238,1043,EU21,5,Non-EU15,FJI,Fiji
+234,1043,EU21,5,Non-EU15,FLK,Falkland Islands
+231,1043,EU21,5,Non-EU15,FRO,Faeroe Islands
+484,1043,EU21,5,Non-EU15,FSM,Micronesia
+258,1043,EU21,5,Non-EU15,GAB,Gabon
+270,1043,EU21,5,Non-EU15,GEO,Georgia
+320,1043,EU21,5,Non-EU15,GGY,Guernsey
+276,1043,EU21,5,Non-EU15,GHA,Ghana
+288,1043,EU21,5,Non-EU15,GIB,Gibraltar
+831,1043,EU21,5,Non-EU15,GIN,Guinea
+308,1043,EU21,5,Non-EU15,GLP,Guadeloupe
+266,1043,EU21,5,Non-EU15,GMB,Gambia
+324,1043,EU21,5,Non-EU15,GNB,Guinea-Bissau
+222,1043,EU21,5,Non-EU15,GNQ,Equatorial Guinea
+304,1043,EU21,5,Non-EU15,GRD,Grenada
+300,1043,EU21,5,Non-EU15,GRL,Greenland
+316,1043,EU21,5,Non-EU15,GTM,Guatemala
+250,1043,EU21,5,Non-EU15,GUF,French Guiana
+312,1043,EU21,5,Non-EU15,GUM,Guam
+624,1043,EU21,5,Non-EU15,GUY,Guyana
+156,1043,EU21,5,Non-EU15,HKG,Hong Kong
+336,1043,EU21,5,Non-EU15,HND,Honduras
+384,1043,EU21,5,Non-EU15,HRV,Croatia
+328,1043,EU21,5,Non-EU15,HTI,Haiti
+340,1043,EU21,5,Non-EU15,HUN,Hungary
+356,1043,EU21,5,Non-EU15,IDN,Indonesia
+372,1043,EU21,5,Non-EU15,IMN,Isle of Man
+352,1043,EU21,5,Non-EU15,IND,India
+360,1043,EU21,5,Non-EU15,IRN,Iran
+364,1043,EU21,5,Non-EU15,IRQ,Iraq
+348,1043,EU21,5,Non-EU15,ISL,Iceland
+833,1043,EU21,5,Non-EU15,ISR,Israel
+380,1043,EU21,5,Non-EU15,JAM,Jamaica
+392,1043,EU21,5,Non-EU15,JEY,Jersey
+832,1043,EU21,5,Non-EU15,JOR,Jordan
+388,1043,EU21,5,Non-EU15,JPN,Japan
+400,1043,EU21,5,Non-EU15,KAZ,Kazakhstan
+398,1043,EU21,5,Non-EU15,KEN,Kenya
+414,1043,EU21,5,Non-EU15,KGZ,Kyrgyzstan
+116,1043,EU21,5,Non-EU15,KHM,Cambodia
+404,1043,EU21,5,Non-EU15,KIR,Kiribati
+654,1043,EU21,5,Non-EU15,KNA,Saint Kitts and Nevis
+634,1043,EU21,5,Non-EU15,KOR,South Korea
+895,1043,EU21,5,Non-EU15,KSV,Kosovo
+296,1043,EU21,5,Non-EU15,KWT,Kuwait
+417,1043,EU21,5,Non-EU15,LAO,Laos
+428,1043,EU21,5,Non-EU15,LBN,Lebanon
+426,1043,EU21,5,Non-EU15,LBR,Liberia
+430,1043,EU21,5,Non-EU15,LBY,Libya
+659,1043,EU21,5,Non-EU15,LCA,Saint Lucia
+434,1043,EU21,5,Non-EU15,LIE,Liechtenstein
+724,1043,EU21,5,Non-EU15,LKA,Sri Lanka
+422,1043,EU21,5,Non-EU15,LSO,Lesotho
+438,1043,EU21,5,Non-EU15,LTU,Lithuania
+418,1043,EU21,5,Non-EU15,LVA,Latvia
+344,1043,EU21,5,Non-EU15,MAC,Macao SAR
+662,1043,EU21,5,Non-EU15,MAF,Saint-Martin (French part)
+500,1043,EU21,5,Non-EU15,MAR,Morocco
+583,1043,EU21,5,Non-EU15,MCO,Monaco
+410,1043,EU21,5,Non-EU15,MDA,Moldova
+442,1043,EU21,5,Non-EU15,MDG,Madagascar
+458,1043,EU21,5,Non-EU15,MDV,Maldives
+175,1043,EU21,5,Non-EU15,MEX,Mexico
+470,1043,EU21,5,Non-EU15,MHL,Marshall Islands
+764,1043,EU21,5,Non-EU15,MKD,TFYR Macedonia
+462,1043,EU21,5,Non-EU15,MLI,Mali
+466,1043,EU21,5,Non-EU15,MLT,Malta
+508,1043,EU21,5,Non-EU15,MMR,Myanmar
+496,1043,EU21,5,Non-EU15,MNE,Montenegro
+492,1043,EU21,5,Non-EU15,MNG,Mongolia
+574,1043,EU21,5,Non-EU15,MNP,Northern Mariana Islands
+504,1043,EU21,5,Non-EU15,MOZ,Mozambique
+474,1043,EU21,5,Non-EU15,MRT,Mauritania
+499,1043,EU21,5,Non-EU15,MSR,Montserrat
+584,1043,EU21,5,Non-EU15,MTQ,Martinique
+478,1043,EU21,5,Non-EU15,MUS,Mauritius
+450,1043,EU21,5,Non-EU15,MWI,Malawi
+454,1043,EU21,5,Non-EU15,MYS,Malaysia
+480,1043,EU21,5,Non-EU15,MYT,Mayotte
+104,1043,EU21,5,Non-EU15,NAM,Namibia
+530,1043,EU21,5,Non-EU15,NCL,New Caledonia
+558,1043,EU21,5,Non-EU15,NER,Niger
+570,1043,EU21,5,Non-EU15,NFK,Norfolk Island
+562,1043,EU21,5,Non-EU15,NGA,Nigeria
+554,1043,EU21,5,Non-EU15,NIC,Nicaragua
+566,1043,EU21,5,Non-EU15,NIU,Niue
+580,1043,EU21,5,Non-EU15,NOR,Norway
+520,1043,EU21,5,Non-EU15,NPL,Nepal
+516,1043,EU21,5,Non-EU15,NRU,Nauru
+540,1043,EU21,5,Non-EU15,NZL,New Zealand
+275,1043,EU21,5,Non-EU15,OMN,Oman
+512,1043,EU21,5,Non-EU15,PAK,Pakistan
+585,1043,EU21,5,Non-EU15,PAN,Panama
+608,1043,EU21,5,Non-EU15,PCN,Pitcairn
+600,1043,EU21,5,Non-EU15,PER,Peru
+604,1043,EU21,5,Non-EU15,PHL,Philippines
+586,1043,EU21,5,Non-EU15,PLW,Palau
+591,1043,EU21,5,Non-EU15,PNG,Papua New Guinea
+612,1043,EU21,5,Non-EU15,POL,Poland
+620,1043,EU21,5,Non-EU15,PRI,Puerto Rico
+203,1043,EU21,5,Non-EU15,PRK,North Korea
+598,1043,EU21,5,Non-EU15,PRY,Paraguay
+578,1043,EU21,5,Non-EU15,PSE,Gaza Strip
+254,1043,EU21,5,Non-EU15,PYF,French Polynesia
+630,1043,EU21,5,Non-EU15,QAT,Qatar
+498,1043,EU21,5,Non-EU15,REU,Réunion
+638,1043,EU21,5,Non-EU15,ROU,Romania
+1,1043,EU21,5,Non-EU15,ROW,Statistical Discrepancies
+642,1043,EU21,5,Non-EU15,RUS,Russia
+643,1043,EU21,5,Non-EU15,RWA,Rwanda
+678,1043,EU21,5,Non-EU15,SAU,Saudi Arabia
+144,1043,EU21,5,Non-EU15,SDN,Sudan
+828,1043,EU21,5,Non-EU15,SDS,South Sudan
+999,1043,EU21,5,Non-EU15,SEA,Seaworld
+682,1043,EU21,5,Non-EU15,SEN,Senegal
+694,1043,EU21,5,Non-EU15,SGP,Singapore
+652,1043,EU21,5,Non-EU15,SHN,Saint Helena
+740,1043,EU21,5,Non-EU15,SJM,Svalbard and Jan Mayen Islands
+705,1043,EU21,5,Non-EU15,SLB,Solomon Islands
+690,1043,EU21,5,Non-EU15,SLE,Sierra Leone
+818,1043,EU21,5,Non-EU15,SLV,El Salvador
+882,1043,EU21,5,Non-EU15,SMR,San Marino
+90,1043,EU21,5,Non-EU15,SOM,Somalia
+663,1043,EU21,5,Non-EU15,SPM,Saint Pierre and Miquelon
+686,1043,EU21,5,Non-EU15,SRB,Serbia
+674,1043,EU21,5,Non-EU15,STP,Sao Tome and Principe
+729,1043,EU21,5,Non-EU15,SUD,Sudan
+736,1043,EU21,5,Non-EU15,SUR,Suriname
+702,1043,EU21,5,Non-EU15,SVK,Slovakia
+703,1043,EU21,5,Non-EU15,SVN,Slovenia
+744,1043,EU21,5,Non-EU15,SWZ,Swaziland
+688,1043,EU21,5,Non-EU15,SYC,Seychelles
+756,1043,EU21,5,Non-EU15,SYR,Syria
+795,1043,EU21,5,Non-EU15,TCA,Turks and Caicos Islands
+148,1043,EU21,5,Non-EU15,TCD,Chad
+626,1043,EU21,5,Non-EU15,TGO,Togo
+762,1043,EU21,5,Non-EU15,THA,Thailand
+760,1043,EU21,5,Non-EU15,TJK,Tajikistan
+768,1043,EU21,5,Non-EU15,TKL,Tokelau
+792,1043,EU21,5,Non-EU15,TKM,Turkmenistan
+807,1043,EU21,5,Non-EU15,TLS,Timor-Leste
+772,1043,EU21,5,Non-EU15,TON,Tonga
+776,1043,EU21,5,Non-EU15,TTO,Trinidad and Tobago
+780,1043,EU21,5,Non-EU15,TUN,Tunisia
+788,1043,EU21,5,Non-EU15,TUR,Turkey
+796,1043,EU21,5,Non-EU15,TUV,Tuvalu
+158,1043,EU21,5,Non-EU15,TWN,Taiwan
+826,1043,EU21,5,Non-EU15,TZA,Tanzania
+896,1043,EU21,5,Non-EU15,TZM,Tanzania
+798,1043,EU21,5,Non-EU15,UGA,Uganda
+800,1043,EU21,5,Non-EU15,UKR,Ukraine
+850,1043,EU21,5,Non-EU15,URY,Uruguay
+834,1043,EU21,5,Non-EU15,USA,USA
+810,1043,EU21,5,Non-EU15,USR,Former USSR
+858,1043,EU21,5,Non-EU15,UZB,Uzbekistan
+332,1043,EU21,5,Non-EU15,VAT,Holy See
+666,1043,EU21,5,Non-EU15,VCT,Saint Vincent and the Grenadines
+548,1043,EU21,5,Non-EU15,VEN,Venezuela
+92,1043,EU21,5,Non-EU15,VGB,British Virgin Islands
+840,1043,EU21,5,Non-EU15,VIR,US Virgin Islands
+862,1043,EU21,5,Non-EU15,VNM,Viet Nam
+860,1043,EU21,5,Non-EU15,VUT,Vanuatu
+704,1043,EU21,5,Non-EU15,WLF,Wallis and Futuna Islands
+670,1043,EU21,5,Non-EU15,WSM,Samoa
+732,1043,EU21,5,Non-EU15,YEM,Yemen
+706,1043,EU21,5,Non-EU15,ZAF,South Africa
+887,1043,EU21,5,Non-EU15,ZMB,Zambia
+894,1043,EU21,5,Non-EU15,ZWE,Zimbabwe
+40,1030,EU27,6,EU27,AUT,Austria
+56,1030,EU27,6,EU27,BEL,Belgium
+100,1030,EU27,6,EU27,BGR,Bulgaria
+196,1030,EU27,6,EU27,CZE,Czech Republic
+268,1030,EU27,6,EU27,DEU,Germany
+180,1030,EU27,6,EU27,DNK,Denmark
+710,1030,EU27,6,EU27,ESP,Spain
+232,1030,EU27,6,EU27,EST,Estonia
+242,1030,EU27,6,EU27,FIN,Finland
+246,1030,EU27,6,EU27,FRA,France
+784,1030,EU27,6,EU27,GBR,UK
+292,1030,EU27,6,EU27,GRC,Greece
+384,1030,EU27,6,Non-EU27,HRV,Croatia
+340,1030,EU27,6,EU27,HUN,Hungary
+368,1030,EU27,6,EU27,IRL,Ireland
+376,1030,EU27,6,EU27,ITA,Italy
+438,1030,EU27,6,EU27,LTU,Lithuania
+440,1030,EU27,6,EU27,LUX,Luxembourg
+418,1030,EU27,6,EU27,LVA,Latvia
+466,1030,EU27,6,EU27,MLT,Malta
+524,1030,EU27,6,EU27,NLD,Netherlands
+612,1030,EU27,6,EU27,POL,Poland
+616,1030,EU27,6,EU27,PRT,Portugal
+638,1030,EU27,6,EU27,ROU,Romania
+702,1030,EU27,6,EU27,SVK,Slovakia
+703,1030,EU27,6,EU27,SVN,Slovenia
+748,1030,EU27,6,EU27,SWE,Sweden
+533,1036,EU27,6,Non-EU27,ABW,Aruba
+4,1036,EU27,6,Non-EU27,AFG,Afghanistan
+24,1036,EU27,6,Non-EU27,AGO,Angola
+660,1036,EU27,6,Non-EU27,AIA,Anguilla
+248,1036,EU27,6,Non-EU27,ALA,Aland Islands
+8,1036,EU27,6,Non-EU27,ALB,Albania
+20,1036,EU27,6,Non-EU27,AND,Andorra
+528,1036,EU27,6,Non-EU27,ANT,Netherlands Antilles
+804,1036,EU27,6,Non-EU27,ARE,UAE
+32,1036,EU27,6,Non-EU27,ARG,Argentina
+51,1036,EU27,6,Non-EU27,ARM,Armenia
+16,1036,EU27,6,Non-EU27,ASM,American Samoa
+28,1036,EU27,6,Non-EU27,ATG,Antigua
+36,1036,EU27,6,Non-EU27,AUS,Australia
+31,1036,EU27,6,Non-EU27,AZE,Azerbaijan
+108,1036,EU27,6,Non-EU27,BDI,Burundi
+204,1036,EU27,6,Non-EU27,BEN,Benin
+854,1036,EU27,6,Non-EU27,BFA,Burkina Faso
+50,1036,EU27,6,Non-EU27,BGD,Bangladesh
+48,1036,EU27,6,Non-EU27,BHR,Bahrain
+44,1036,EU27,6,Non-EU27,BHS,Bahamas
+70,1036,EU27,6,Non-EU27,BIH,Bosnia and Herzegovina
+646,1036,EU27,6,Non-EU27,BLM,Saint-Barthelemy
+112,1036,EU27,6,Non-EU27,BLR,Belarus
+84,1036,EU27,6,Non-EU27,BLZ,Belize
+60,1036,EU27,6,Non-EU27,BMU,Bermuda
+68,1036,EU27,6,Non-EU27,BOL,Bolivia
+76,1036,EU27,6,Non-EU27,BRA,Brazil
+52,1036,EU27,6,Non-EU27,BRB,Barbados
+96,1036,EU27,6,Non-EU27,BRN,Brunei
+64,1036,EU27,6,Non-EU27,BTN,Bhutan
+72,1036,EU27,6,Non-EU27,BWA,Botswana
+140,1036,EU27,6,Non-EU27,CAF,Central African Republic
+124,1036,EU27,6,Non-EU27,CAN,Canada
+752,1036,EU27,6,Non-EU27,CHE,Switzerland
+830,1036,EU27,6,Non-EU27,CHL,Chile
+152,1036,EU27,6,Non-EU27,CHN,China
+188,1036,EU27,6,Non-EU27,CIV,Cote dIvoire
+120,1036,EU27,6,Non-EU27,CMR,Cameroon
+408,1036,EU27,6,Non-EU27,COD,DR Congo
+174,1036,EU27,6,Non-EU27,COG,Congo
+178,1036,EU27,6,Non-EU27,COK,Cook Islands
+446,1036,EU27,6,Non-EU27,COL,Colombia
+170,1036,EU27,6,Non-EU27,COM,Comoros
+132,1036,EU27,6,Non-EU27,CPV,Cape Verde
+184,1036,EU27,6,Non-EU27,CRI,Costa Rica
+191,1036,EU27,6,Non-EU27,CUB,Cuba
+136,1036,EU27,6,Non-EU27,CYM,Cayman Islands
+192,1036,EU27,6,EU27,CYP,Cyprus
+208,1036,EU27,6,Non-EU27,DJI,Djibouti
+262,1036,EU27,6,Non-EU27,DMA,Dominica
+212,1036,EU27,6,Non-EU27,DOM,Dominican Republic
+12,1036,EU27,6,Non-EU27,DZA,Algeria
+214,1036,EU27,6,Non-EU27,ECU,Ecuador
+218,1036,EU27,6,Non-EU27,EGY,Egypt
+226,1036,EU27,6,Non-EU27,ERI,Eritrea
+876,1036,EU27,6,Non-EU27,ESH,Western Sahara
+233,1036,EU27,6,Non-EU27,ETH,Ethiopia
+238,1036,EU27,6,Non-EU27,FJI,Fiji
+234,1036,EU27,6,Non-EU27,FLK,Falkland Islands
+231,1036,EU27,6,Non-EU27,FRO,Faeroe Islands
+484,1036,EU27,6,Non-EU27,FSM,Micronesia
+258,1036,EU27,6,Non-EU27,GAB,Gabon
+270,1036,EU27,6,Non-EU27,GEO,Georgia
+320,1036,EU27,6,Non-EU27,GGY,Guernsey
+276,1036,EU27,6,Non-EU27,GHA,Ghana
+288,1036,EU27,6,Non-EU27,GIB,Gibraltar
+831,1036,EU27,6,Non-EU27,GIN,Guinea
+308,1036,EU27,6,Non-EU27,GLP,Guadeloupe
+266,1036,EU27,6,Non-EU27,GMB,Gambia
+324,1036,EU27,6,Non-EU27,GNB,Guinea-Bissau
+222,1036,EU27,6,Non-EU27,GNQ,Equatorial Guinea
+304,1036,EU27,6,Non-EU27,GRD,Grenada
+300,1036,EU27,6,Non-EU27,GRL,Greenland
+316,1036,EU27,6,Non-EU27,GTM,Guatemala
+250,1036,EU27,6,Non-EU27,GUF,French Guiana
+312,1036,EU27,6,Non-EU27,GUM,Guam
+624,1036,EU27,6,Non-EU27,GUY,Guyana
+156,1036,EU27,6,Non-EU27,HKG,Hong Kong
+336,1036,EU27,6,Non-EU27,HND,Honduras
+328,1036,EU27,6,Non-EU27,HTI,Haiti
+356,1036,EU27,6,Non-EU27,IDN,Indonesia
+372,1036,EU27,6,Non-EU27,IMN,Isle of Man
+352,1036,EU27,6,Non-EU27,IND,India
+360,1036,EU27,6,Non-EU27,IRN,Iran
+364,1036,EU27,6,Non-EU27,IRQ,Iraq
+348,1036,EU27,6,Non-EU27,ISL,Iceland
+833,1036,EU27,6,Non-EU27,ISR,Israel
+380,1036,EU27,6,Non-EU27,JAM,Jamaica
+392,1036,EU27,6,Non-EU27,JEY,Jersey
+832,1036,EU27,6,Non-EU27,JOR,Jordan
+388,1036,EU27,6,Non-EU27,JPN,Japan
+400,1036,EU27,6,Non-EU27,KAZ,Kazakhstan
+398,1036,EU27,6,Non-EU27,KEN,Kenya
+414,1036,EU27,6,Non-EU27,KGZ,Kyrgyzstan
+116,1036,EU27,6,Non-EU27,KHM,Cambodia
+404,1036,EU27,6,Non-EU27,KIR,Kiribati
+654,1036,EU27,6,Non-EU27,KNA,Saint Kitts and Nevis
+634,1036,EU27,6,Non-EU27,KOR,South Korea
+296,1036,EU27,6,Non-EU27,KWT,Kuwait
+417,1036,EU27,6,Non-EU27,LAO,Laos
+428,1036,EU27,6,Non-EU27,LBN,Lebanon
+426,1036,EU27,6,Non-EU27,LBR,Liberia
+430,1036,EU27,6,Non-EU27,LBY,Libya
+659,1036,EU27,6,Non-EU27,LCA,Saint Lucia
+434,1036,EU27,6,Non-EU27,LIE,Liechtenstein
+724,1036,EU27,6,Non-EU27,LKA,Sri Lanka
+422,1036,EU27,6,Non-EU27,LSO,Lesotho
+344,1036,EU27,6,Non-EU27,MAC,Macao SAR
+662,1036,EU27,6,Non-EU27,MAF,Saint-Martin (French part)
+500,1036,EU27,6,Non-EU27,MAR,Morocco
+583,1036,EU27,6,Non-EU27,MCO,Monaco
+410,1036,EU27,6,Non-EU27,MDA,Moldova
+442,1036,EU27,6,Non-EU27,MDG,Madagascar
+458,1036,EU27,6,Non-EU27,MDV,Maldives
+175,1036,EU27,6,Non-EU27,MEX,Mexico
+470,1036,EU27,6,Non-EU27,MHL,Marshall Islands
+764,1036,EU27,6,Non-EU27,MKD,TFYR Macedonia
+462,1036,EU27,6,Non-EU27,MLI,Mali
+508,1036,EU27,6,Non-EU27,MMR,Myanmar
+496,1036,EU27,6,Non-EU27,MNE,Montenegro
+492,1036,EU27,6,Non-EU27,MNG,Mongolia
+574,1036,EU27,6,Non-EU27,MNP,Northern Mariana Islands
+504,1036,EU27,6,Non-EU27,MOZ,Mozambique
+474,1036,EU27,6,Non-EU27,MRT,Mauritania
+499,1036,EU27,6,Non-EU27,MSR,Montserrat
+584,1036,EU27,6,Non-EU27,MTQ,Martinique
+478,1036,EU27,6,Non-EU27,MUS,Mauritius
+450,1036,EU27,6,Non-EU27,MWI,Malawi
+454,1036,EU27,6,Non-EU27,MYS,Malaysia
+480,1036,EU27,6,Non-EU27,MYT,Mayotte
+104,1036,EU27,6,Non-EU27,NAM,Namibia
+530,1036,EU27,6,Non-EU27,NCL,New Caledonia
+558,1036,EU27,6,Non-EU27,NER,Niger
+570,1036,EU27,6,Non-EU27,NFK,Norfolk Island
+562,1036,EU27,6,Non-EU27,NGA,Nigeria
+554,1036,EU27,6,Non-EU27,NIC,Nicaragua
+566,1036,EU27,6,Non-EU27,NIU,Niue
+580,1036,EU27,6,Non-EU27,NOR,Norway
+520,1036,EU27,6,Non-EU27,NPL,Nepal
+516,1036,EU27,6,Non-EU27,NRU,Nauru
+540,1036,EU27,6,Non-EU27,NZL,New Zealand
+275,1036,EU27,6,Non-EU27,OMN,Oman
+512,1036,EU27,6,Non-EU27,PAK,Pakistan
+585,1036,EU27,6,Non-EU27,PAN,Panama
+608,1036,EU27,6,Non-EU27,PCN,Pitcairn
+600,1036,EU27,6,Non-EU27,PER,Peru
+604,1036,EU27,6,Non-EU27,PHL,Philippines
+586,1036,EU27,6,Non-EU27,PLW,Palau
+591,1036,EU27,6,Non-EU27,PNG,Papua New Guinea
+620,1036,EU27,6,Non-EU27,PRI,Puerto Rico
+203,1036,EU27,6,Non-EU27,PRK,North Korea
+598,1036,EU27,6,Non-EU27,PRY,Paraguay
+578,1036,EU27,6,Non-EU27,PSE,Gaza Strip
+254,1036,EU27,6,Non-EU27,PYF,French Polynesia
+630,1036,EU27,6,Non-EU27,QAT,Qatar
+498,1036,EU27,6,Non-EU27,REU,Réunion
+1,1036,EU27,6,Non-EU27,ROW,Statistical Discrepancies
+642,1036,EU27,6,Non-EU27,RUS,Russia
+643,1036,EU27,6,Non-EU27,RWA,Rwanda
+678,1036,EU27,6,Non-EU27,SAU,Saudi Arabia
+144,1036,EU27,6,Non-EU27,SDN,Sudan
+828,1036,EU27,6,Non-EU27,SDS,South Sudan
+999,1036,EU27,6,Non-EU27,SEA,Seaworld
+682,1036,EU27,6,Non-EU27,SEN,Senegal
+694,1036,EU27,6,Non-EU27,SGP,Singapore
+652,1036,EU27,6,Non-EU27,SHN,Saint Helena
+740,1036,EU27,6,Non-EU27,SJM,Svalbard and Jan Mayen Islands
+705,1036,EU27,6,Non-EU27,SLB,Solomon Islands
+690,1036,EU27,6,Non-EU27,SLE,Sierra Leone
+818,1036,EU27,6,Non-EU27,SLV,El Salvador
+882,1036,EU27,6,Non-EU27,SMR,San Marino
+90,1036,EU27,6,Non-EU27,SOM,Somalia
+663,1036,EU27,6,Non-EU27,SPM,Saint Pierre and Miquelon
+686,1036,EU27,6,Non-EU27,SRB,Serbia
+674,1036,EU27,6,Non-EU27,STP,Sao Tome and Principe
+729,1036,EU27,6,Non-EU27,SUD,Sudan
+736,1036,EU27,6,Non-EU27,SUR,Suriname
+744,1036,EU27,6,Non-EU27,SWZ,Swaziland
+688,1036,EU27,6,Non-EU27,SYC,Seychelles
+756,1036,EU27,6,Non-EU27,SYR,Syria
+795,1036,EU27,6,Non-EU27,TCA,Turks and Caicos Islands
+148,1036,EU27,6,Non-EU27,TCD,Chad
+626,1036,EU27,6,Non-EU27,TGO,Togo
+762,1036,EU27,6,Non-EU27,THA,Thailand
+760,1036,EU27,6,Non-EU27,TJK,Tajikistan
+768,1036,EU27,6,Non-EU27,TKL,Tokelau
+792,1036,EU27,6,Non-EU27,TKM,Turkmenistan
+807,1036,EU27,6,Non-EU27,TLS,Timor-Leste
+772,1036,EU27,6,Non-EU27,TON,Tonga
+776,1036,EU27,6,Non-EU27,TTO,Trinidad and Tobago
+780,1036,EU27,6,Non-EU27,TUN,Tunisia
+788,1036,EU27,6,Non-EU27,TUR,Turkey
+796,1036,EU27,6,Non-EU27,TUV,Tuvalu
+158,1036,EU27,6,Non-EU27,TWN,Taiwan
+826,1036,EU27,6,Non-EU27,TZA,Tanzania
+798,1036,EU27,6,Non-EU27,UGA,Uganda
+800,1036,EU27,6,Non-EU27,UKR,Ukraine
+850,1036,EU27,6,Non-EU27,URY,Uruguay
+834,1036,EU27,6,Non-EU27,USA,USA
+810,1036,EU27,6,Non-EU27,USR,Former USSR
+858,1036,EU27,6,Non-EU27,UZB,Uzbekistan
+332,1036,EU27,6,Non-EU27,VAT,Holy See
+666,1036,EU27,6,Non-EU27,VCT,Saint Vincent and the Grenadines
+548,1036,EU27,6,Non-EU27,VEN,Venezuela
+92,1036,EU27,6,Non-EU27,VGB,British Virgin Islands
+840,1036,EU27,6,Non-EU27,VIR,US Virgin Islands
+862,1036,EU27,6,Non-EU27,VNM,Viet Nam
+860,1036,EU27,6,Non-EU27,VUT,Vanuatu
+704,1036,EU27,6,Non-EU27,WLF,Wallis and Futuna Islands
+670,1036,EU27,6,Non-EU27,WSM,Samoa
+732,1036,EU27,6,Non-EU27,YEM,Yemen
+706,1036,EU27,6,Non-EU27,ZAF,South Africa
+887,1036,EU27,6,Non-EU27,ZMB,Zambia
+894,1036,EU27,6,Non-EU27,ZWE,Zimbabwe
+32,1032,G20,7,G20,ARG,Argentina
+36,1032,G20,7,G20,AUS,Australia
+76,1032,G20,7,G20,BRA,Brazil
+124,1032,G20,7,G20,CAN,Canada
+152,1032,G20,7,G20,CHN,China
+268,1032,G20,7,G20,DEU,Germany
+246,1032,G20,7,G20,FRA,France
+784,1032,G20,7,G20,GBR,UK
+356,1032,G20,7,G20,IDN,Indonesia
+352,1032,G20,7,G20,IND,India
+376,1032,G20,7,G20,ITA,Italy
+388,1032,G20,7,G20,JPN,Japan
+634,1032,G20,7,G20,KOR,South Korea
+175,1032,G20,7,G20,MEX,Mexico
+642,1032,G20,7,G20,RUS,Russia
+678,1032,G20,7,G20,SAU,Saudi Arabia
+788,1032,G20,7,G20,TUR,Turkey
+834,1032,G20,7,G20,USA,USA
+810,1032,G20,7,G20,USR,Former USSR
+706,1032,G20,7,G20,ZAF,South Africa
+533,1039,G20,7,Non-G20,ABW,Aruba
+4,1039,G20,7,Non-G20,AFG,Afghanistan
+24,1039,G20,7,Non-G20,AGO,Angola
+660,1039,G20,7,Non-G20,AIA,Anguilla
+248,1039,G20,7,Non-G20,ALA,Aland Islands
+8,1039,G20,7,Non-G20,ALB,Albania
+20,1039,G20,7,Non-G20,AND,Andorra
+528,1039,G20,7,Non-G20,ANT,Netherlands Antilles
+804,1039,G20,7,Non-G20,ARE,UAE
+51,1039,G20,7,Non-G20,ARM,Armenia
+16,1039,G20,7,Non-G20,ASM,American Samoa
+28,1039,G20,7,Non-G20,ATG,Antigua
+40,1039,G20,7,Non-G20,AUT,Austria
+31,1039,G20,7,Non-G20,AZE,Azerbaijan
+108,1039,G20,7,Non-G20,BDI,Burundi
+56,1039,G20,7,Non-G20,BEL,Belgium
+204,1039,G20,7,Non-G20,BEN,Benin
+854,1039,G20,7,Non-G20,BFA,Burkina Faso
+50,1039,G20,7,Non-G20,BGD,Bangladesh
+100,1039,G20,7,Non-G20,BGR,Bulgaria
+48,1039,G20,7,Non-G20,BHR,Bahrain
+44,1039,G20,7,Non-G20,BHS,Bahamas
+70,1039,G20,7,Non-G20,BIH,Bosnia and Herzegovina
+646,1039,G20,7,Non-G20,BLM,Saint-Barthelemy
+112,1039,G20,7,Non-G20,BLR,Belarus
+84,1039,G20,7,Non-G20,BLZ,Belize
+60,1039,G20,7,Non-G20,BMU,Bermuda
+68,1039,G20,7,Non-G20,BOL,Bolivia
+52,1039,G20,7,Non-G20,BRB,Barbados
+96,1039,G20,7,Non-G20,BRN,Brunei
+64,1039,G20,7,Non-G20,BTN,Bhutan
+72,1039,G20,7,Non-G20,BWA,Botswana
+140,1039,G20,7,Non-G20,CAF,Central African Republic
+752,1039,G20,7,Non-G20,CHE,Switzerland
+830,1039,G20,7,Non-G20,CHL,Chile
+188,1039,G20,7,Non-G20,CIV,Cote dIvoire
+120,1039,G20,7,Non-G20,CMR,Cameroon
+408,1039,G20,7,Non-G20,COD,DR Congo
+174,1039,G20,7,Non-G20,COG,Congo
+178,1039,G20,7,Non-G20,COK,Cook Islands
+446,1039,G20,7,Non-G20,COL,Colombia
+170,1039,G20,7,Non-G20,COM,Comoros
+132,1039,G20,7,Non-G20,CPV,Cape Verde
+184,1039,G20,7,Non-G20,CRI,Costa Rica
+191,1039,G20,7,Non-G20,CUB,Cuba
+136,1039,G20,7,Non-G20,CYM,Cayman Islands
+192,1039,G20,7,Non-G20,CYP,Cyprus
+196,1039,G20,7,Non-G20,CZE,Czech Republic
+208,1039,G20,7,Non-G20,DJI,Djibouti
+262,1039,G20,7,Non-G20,DMA,Dominica
+180,1039,G20,7,Non-G20,DNK,Denmark
+212,1039,G20,7,Non-G20,DOM,Dominican Republic
+12,1039,G20,7,Non-G20,DZA,Algeria
+214,1039,G20,7,Non-G20,ECU,Ecuador
+218,1039,G20,7,Non-G20,EGY,Egypt
+226,1039,G20,7,Non-G20,ERI,Eritrea
+876,1039,G20,7,Non-G20,ESH,Western Sahara
+710,1039,G20,7,Non-G20,ESP,Spain
+232,1039,G20,7,Non-G20,EST,Estonia
+233,1039,G20,7,Non-G20,ETH,Ethiopia
+242,1039,G20,7,Non-G20,FIN,Finland
+238,1039,G20,7,Non-G20,FJI,Fiji
+234,1039,G20,7,Non-G20,FLK,Falkland Islands
+231,1039,G20,7,Non-G20,FRO,Faeroe Islands
+484,1039,G20,7,Non-G20,FSM,Micronesia
+258,1039,G20,7,Non-G20,GAB,Gabon
+270,1039,G20,7,Non-G20,GEO,Georgia
+320,1039,G20,7,Non-G20,GGY,Guernsey
+276,1039,G20,7,Non-G20,GHA,Ghana
+288,1039,G20,7,Non-G20,GIB,Gibraltar
+831,1039,G20,7,Non-G20,GIN,Guinea
+308,1039,G20,7,Non-G20,GLP,Guadeloupe
+266,1039,G20,7,Non-G20,GMB,Gambia
+324,1039,G20,7,Non-G20,GNB,Guinea-Bissau
+222,1039,G20,7,Non-G20,GNQ,Equatorial Guinea
+292,1039,G20,7,Non-G20,GRC,Greece
+304,1039,G20,7,Non-G20,GRD,Grenada
+300,1039,G20,7,Non-G20,GRL,Greenland
+316,1039,G20,7,Non-G20,GTM,Guatemala
+250,1039,G20,7,Non-G20,GUF,French Guiana
+312,1039,G20,7,Non-G20,GUM,Guam
+624,1039,G20,7,Non-G20,GUY,Guyana
+156,1039,G20,7,Non-G20,HKG,Hong Kong
+336,1039,G20,7,Non-G20,HND,Honduras
+384,1039,G20,7,Non-G20,HRV,Croatia
+328,1039,G20,7,Non-G20,HTI,Haiti
+340,1039,G20,7,Non-G20,HUN,Hungary
+372,1039,G20,7,Non-G20,IMN,Isle of Man
+368,1039,G20,7,Non-G20,IRL,Ireland
+360,1039,G20,7,Non-G20,IRN,Iran
+364,1039,G20,7,Non-G20,IRQ,Iraq
+348,1039,G20,7,Non-G20,ISL,Iceland
+833,1039,G20,7,Non-G20,ISR,Israel
+380,1039,G20,7,Non-G20,JAM,Jamaica
+392,1039,G20,7,Non-G20,JEY,Jersey
+832,1039,G20,7,Non-G20,JOR,Jordan
+400,1039,G20,7,Non-G20,KAZ,Kazakhstan
+398,1039,G20,7,Non-G20,KEN,Kenya
+414,1039,G20,7,Non-G20,KGZ,Kyrgyzstan
+116,1039,G20,7,Non-G20,KHM,Cambodia
+404,1039,G20,7,Non-G20,KIR,Kiribati
+654,1039,G20,7,Non-G20,KNA,Saint Kitts and Nevis
+296,1039,G20,7,Non-G20,KWT,Kuwait
+417,1039,G20,7,Non-G20,LAO,Laos
+428,1039,G20,7,Non-G20,LBN,Lebanon
+426,1039,G20,7,Non-G20,LBR,Liberia
+430,1039,G20,7,Non-G20,LBY,Libya
+659,1039,G20,7,Non-G20,LCA,Saint Lucia
+434,1039,G20,7,Non-G20,LIE,Liechtenstein
+724,1039,G20,7,Non-G20,LKA,Sri Lanka
+422,1039,G20,7,Non-G20,LSO,Lesotho
+438,1039,G20,7,Non-G20,LTU,Lithuania
+440,1039,G20,7,Non-G20,LUX,Luxembourg
+418,1039,G20,7,Non-G20,LVA,Latvia
+344,1039,G20,7,Non-G20,MAC,Macao SAR
+662,1039,G20,7,Non-G20,MAF,Saint-Martin (French part)
+500,1039,G20,7,Non-G20,MAR,Morocco
+583,1039,G20,7,Non-G20,MCO,Monaco
+410,1039,G20,7,Non-G20,MDA,Moldova
+442,1039,G20,7,Non-G20,MDG,Madagascar
+458,1039,G20,7,Non-G20,MDV,Maldives
+470,1039,G20,7,Non-G20,MHL,Marshall Islands
+764,1039,G20,7,Non-G20,MKD,TFYR Macedonia
+462,1039,G20,7,Non-G20,MLI,Mali
+466,1039,G20,7,Non-G20,MLT,Malta
+508,1039,G20,7,Non-G20,MMR,Myanmar
+496,1039,G20,7,Non-G20,MNE,Montenegro
+492,1039,G20,7,Non-G20,MNG,Mongolia
+574,1039,G20,7,Non-G20,MNP,Northern Mariana Islands
+504,1039,G20,7,Non-G20,MOZ,Mozambique
+474,1039,G20,7,Non-G20,MRT,Mauritania
+499,1039,G20,7,Non-G20,MSR,Montserrat
+584,1039,G20,7,Non-G20,MTQ,Martinique
+478,1039,G20,7,Non-G20,MUS,Mauritius
+450,1039,G20,7,Non-G20,MWI,Malawi
+454,1039,G20,7,Non-G20,MYS,Malaysia
+480,1039,G20,7,Non-G20,MYT,Mayotte
+104,1039,G20,7,Non-G20,NAM,Namibia
+530,1039,G20,7,Non-G20,NCL,New Caledonia
+558,1039,G20,7,Non-G20,NER,Niger
+570,1039,G20,7,Non-G20,NFK,Norfolk Island
+562,1039,G20,7,Non-G20,NGA,Nigeria
+554,1039,G20,7,Non-G20,NIC,Nicaragua
+566,1039,G20,7,Non-G20,NIU,Niue
+524,1039,G20,7,Non-G20,NLD,Netherlands
+580,1039,G20,7,Non-G20,NOR,Norway
+520,1039,G20,7,Non-G20,NPL,Nepal
+516,1039,G20,7,Non-G20,NRU,Nauru
+540,1039,G20,7,Non-G20,NZL,New Zealand
+275,1039,G20,7,Non-G20,OMN,Oman
+512,1039,G20,7,Non-G20,PAK,Pakistan
+585,1039,G20,7,Non-G20,PAN,Panama
+608,1039,G20,7,Non-G20,PCN,Pitcairn
+600,1039,G20,7,Non-G20,PER,Peru
+604,1039,G20,7,Non-G20,PHL,Philippines
+586,1039,G20,7,Non-G20,PLW,Palau
+591,1039,G20,7,Non-G20,PNG,Papua New Guinea
+612,1039,G20,7,Non-G20,POL,Poland
+620,1039,G20,7,Non-G20,PRI,Puerto Rico
+203,1039,G20,7,Non-G20,PRK,North Korea
+616,1039,G20,7,Non-G20,PRT,Portugal
+598,1039,G20,7,Non-G20,PRY,Paraguay
+578,1039,G20,7,Non-G20,PSE,Gaza Strip
+254,1039,G20,7,Non-G20,PYF,French Polynesia
+630,1039,G20,7,Non-G20,QAT,Qatar
+498,1039,G20,7,Non-G20,REU,Réunion
+638,1039,G20,7,Non-G20,ROU,Romania
+1,1039,G20,7,Non-G20,ROW,Statistical Discrepancies
+643,1039,G20,7,Non-G20,RWA,Rwanda
+144,1039,G20,7,Non-G20,SDN,Sudan
+828,1039,G20,7,Non-G20,SDS,South Sudan
+999,1039,G20,7,Non-G20,SEA,Seaworld
+682,1039,G20,7,Non-G20,SEN,Senegal
+694,1039,G20,7,Non-G20,SGP,Singapore
+652,1039,G20,7,Non-G20,SHN,Saint Helena
+740,1039,G20,7,Non-G20,SJM,Svalbard and Jan Mayen Islands
+705,1039,G20,7,Non-G20,SLB,Solomon Islands
+690,1039,G20,7,Non-G20,SLE,Sierra Leone
+818,1039,G20,7,Non-G20,SLV,El Salvador
+882,1039,G20,7,Non-G20,SMR,San Marino
+90,1039,G20,7,Non-G20,SOM,Somalia
+663,1039,G20,7,Non-G20,SPM,Saint Pierre and Miquelon
+686,1039,G20,7,Non-G20,SRB,Serbia
+674,1039,G20,7,Non-G20,STP,Sao Tome and Principe
+729,1039,G20,7,Non-G20,SUD,Sudan
+736,1039,G20,7,Non-G20,SUR,Suriname
+702,1039,G20,7,Non-G20,SVK,Slovakia
+703,1039,G20,7,Non-G20,SVN,Slovenia
+748,1039,G20,7,Non-G20,SWE,Sweden
+744,1039,G20,7,Non-G20,SWZ,Swaziland
+688,1039,G20,7,Non-G20,SYC,Seychelles
+756,1039,G20,7,Non-G20,SYR,Syria
+795,1039,G20,7,Non-G20,TCA,Turks and Caicos Islands
+148,1039,G20,7,Non-G20,TCD,Chad
+626,1039,G20,7,Non-G20,TGO,Togo
+762,1039,G20,7,Non-G20,THA,Thailand
+760,1039,G20,7,Non-G20,TJK,Tajikistan
+768,1039,G20,7,Non-G20,TKL,Tokelau
+792,1039,G20,7,Non-G20,TKM,Turkmenistan
+807,1039,G20,7,Non-G20,TLS,Timor-Leste
+772,1039,G20,7,Non-G20,TON,Tonga
+776,1039,G20,7,Non-G20,TTO,Trinidad and Tobago
+780,1039,G20,7,Non-G20,TUN,Tunisia
+796,1039,G20,7,Non-G20,TUV,Tuvalu
+158,1039,G20,7,Non-G20,TWN,Taiwan
+826,1039,G20,7,Non-G20,TZA,Tanzania
+798,1039,G20,7,Non-G20,UGA,Uganda
+800,1039,G20,7,Non-G20,UKR,Ukraine
+850,1039,G20,7,Non-G20,URY,Uruguay
+858,1039,G20,7,Non-G20,UZB,Uzbekistan
+332,1039,G20,7,Non-G20,VAT,Holy See
+666,1039,G20,7,Non-G20,VCT,Saint Vincent and the Grenadines
+548,1039,G20,7,Non-G20,VEN,Venezuela
+92,1039,G20,7,Non-G20,VGB,British Virgin Islands
+840,1039,G20,7,Non-G20,VIR,US Virgin Islands
+862,1039,G20,7,Non-G20,VNM,Viet Nam
+860,1039,G20,7,Non-G20,VUT,Vanuatu
+704,1039,G20,7,Non-G20,WLF,Wallis and Futuna Islands
+670,1039,G20,7,Non-G20,WSM,Samoa
+732,1039,G20,7,Non-G20,YEM,Yemen
+887,1039,G20,7,Non-G20,ZMB,Zambia
+894,1039,G20,7,Non-G20,ZWE,Zimbabwe
+124,1033,G8,8,G8,CAN,Canada
+268,1033,G8,8,G8,DEU,Germany
+246,1033,G8,8,G8,FRA,France
+784,1033,G8,8,G8,GBR,UK
+376,1033,G8,8,G8,ITA,Italy
+388,1033,G8,8,G8,JPN,Japan
+642,1033,G8,8,G8,RUS,Russia
+834,1033,G8,8,G8,USA,USA
+810,1033,G8,8,G8,USR,Former USSR
+533,1038,G8,8,Non-G8,ABW,Aruba
+4,1038,G8,8,Non-G8,AFG,Afghanistan
+24,1038,G8,8,Non-G8,AGO,Angola
+660,1038,G8,8,Non-G8,AIA,Anguilla
+248,1038,G8,8,Non-G8,ALA,Aland Islands
+8,1038,G8,8,Non-G8,ALB,Albania
+20,1038,G8,8,Non-G8,AND,Andorra
+528,1038,G8,8,Non-G8,ANT,Netherlands Antilles
+804,1038,G8,8,Non-G8,ARE,UAE
+32,1038,G8,8,Non-G8,ARG,Argentina
+51,1038,G8,8,Non-G8,ARM,Armenia
+16,1038,G8,8,Non-G8,ASM,American Samoa
+28,1038,G8,8,Non-G8,ATG,Antigua
+36,1038,G8,8,Non-G8,AUS,Australia
+40,1038,G8,8,Non-G8,AUT,Austria
+31,1038,G8,8,Non-G8,AZE,Azerbaijan
+108,1038,G8,8,Non-G8,BDI,Burundi
+56,1038,G8,8,Non-G8,BEL,Belgium
+204,1038,G8,8,Non-G8,BEN,Benin
+854,1038,G8,8,Non-G8,BFA,Burkina Faso
+50,1038,G8,8,Non-G8,BGD,Bangladesh
+100,1038,G8,8,Non-G8,BGR,Bulgaria
+48,1038,G8,8,Non-G8,BHR,Bahrain
+44,1038,G8,8,Non-G8,BHS,Bahamas
+70,1038,G8,8,Non-G8,BIH,Bosnia and Herzegovina
+646,1038,G8,8,Non-G8,BLM,Saint-Barthelemy
+112,1038,G8,8,Non-G8,BLR,Belarus
+84,1038,G8,8,Non-G8,BLZ,Belize
+60,1038,G8,8,Non-G8,BMU,Bermuda
+68,1038,G8,8,Non-G8,BOL,Bolivia
+76,1038,G8,8,Non-G8,BRA,Brazil
+52,1038,G8,8,Non-G8,BRB,Barbados
+96,1038,G8,8,Non-G8,BRN,Brunei
+64,1038,G8,8,Non-G8,BTN,Bhutan
+72,1038,G8,8,Non-G8,BWA,Botswana
+140,1038,G8,8,Non-G8,CAF,Central African Republic
+752,1038,G8,8,Non-G8,CHE,Switzerland
+830,1038,G8,8,Non-G8,CHL,Chile
+152,1038,G8,8,Non-G8,CHN,China
+188,1038,G8,8,Non-G8,CIV,Cote dIvoire
+120,1038,G8,8,Non-G8,CMR,Cameroon
+408,1038,G8,8,Non-G8,COD,DR Congo
+174,1038,G8,8,Non-G8,COG,Congo
+178,1038,G8,8,Non-G8,COK,Cook Islands
+446,1038,G8,8,Non-G8,COL,Colombia
+170,1038,G8,8,Non-G8,COM,Comoros
+132,1038,G8,8,Non-G8,CPV,Cape Verde
+184,1038,G8,8,Non-G8,CRI,Costa Rica
+191,1038,G8,8,Non-G8,CUB,Cuba
+136,1038,G8,8,Non-G8,CYM,Cayman Islands
+192,1038,G8,8,Non-G8,CYP,Cyprus
+196,1038,G8,8,Non-G8,CZE,Czech Republic
+208,1038,G8,8,Non-G8,DJI,Djibouti
+262,1038,G8,8,Non-G8,DMA,Dominica
+180,1038,G8,8,Non-G8,DNK,Denmark
+212,1038,G8,8,Non-G8,DOM,Dominican Republic
+12,1038,G8,8,Non-G8,DZA,Algeria
+214,1038,G8,8,Non-G8,ECU,Ecuador
+218,1038,G8,8,Non-G8,EGY,Egypt
+226,1038,G8,8,Non-G8,ERI,Eritrea
+876,1038,G8,8,Non-G8,ESH,Western Sahara
+710,1038,G8,8,Non-G8,ESP,Spain
+232,1038,G8,8,Non-G8,EST,Estonia
+233,1038,G8,8,Non-G8,ETH,Ethiopia
+242,1038,G8,8,Non-G8,FIN,Finland
+238,1038,G8,8,Non-G8,FJI,Fiji
+234,1038,G8,8,Non-G8,FLK,Falkland Islands
+231,1038,G8,8,Non-G8,FRO,Faeroe Islands
+484,1038,G8,8,Non-G8,FSM,Micronesia
+258,1038,G8,8,Non-G8,GAB,Gabon
+270,1038,G8,8,Non-G8,GEO,Georgia
+320,1038,G8,8,Non-G8,GGY,Guernsey
+276,1038,G8,8,Non-G8,GHA,Ghana
+288,1038,G8,8,Non-G8,GIB,Gibraltar
+831,1038,G8,8,Non-G8,GIN,Guinea
+308,1038,G8,8,Non-G8,GLP,Guadeloupe
+266,1038,G8,8,Non-G8,GMB,Gambia
+324,1038,G8,8,Non-G8,GNB,Guinea-Bissau
+222,1038,G8,8,Non-G8,GNQ,Equatorial Guinea
+292,1038,G8,8,Non-G8,GRC,Greece
+304,1038,G8,8,Non-G8,GRD,Grenada
+300,1038,G8,8,Non-G8,GRL,Greenland
+316,1038,G8,8,Non-G8,GTM,Guatemala
+250,1038,G8,8,Non-G8,GUF,French Guiana
+312,1038,G8,8,Non-G8,GUM,Guam
+624,1038,G8,8,Non-G8,GUY,Guyana
+156,1038,G8,8,Non-G8,HKG,Hong Kong
+336,1038,G8,8,Non-G8,HND,Honduras
+384,1038,G8,8,Non-G8,HRV,Croatia
+328,1038,G8,8,Non-G8,HTI,Haiti
+340,1038,G8,8,Non-G8,HUN,Hungary
+356,1038,G8,8,Non-G8,IDN,Indonesia
+372,1038,G8,8,Non-G8,IMN,Isle of Man
+352,1038,G8,8,Non-G8,IND,India
+368,1038,G8,8,Non-G8,IRL,Ireland
+360,1038,G8,8,Non-G8,IRN,Iran
+364,1038,G8,8,Non-G8,IRQ,Iraq
+348,1038,G8,8,Non-G8,ISL,Iceland
+833,1038,G8,8,Non-G8,ISR,Israel
+380,1038,G8,8,Non-G8,JAM,Jamaica
+392,1038,G8,8,Non-G8,JEY,Jersey
+832,1038,G8,8,Non-G8,JOR,Jordan
+400,1038,G8,8,Non-G8,KAZ,Kazakhstan
+398,1038,G8,8,Non-G8,KEN,Kenya
+414,1038,G8,8,Non-G8,KGZ,Kyrgyzstan
+116,1038,G8,8,Non-G8,KHM,Cambodia
+404,1038,G8,8,Non-G8,KIR,Kiribati
+654,1038,G8,8,Non-G8,KNA,Saint Kitts and Nevis
+634,1038,G8,8,Non-G8,KOR,South Korea
+296,1038,G8,8,Non-G8,KWT,Kuwait
+417,1038,G8,8,Non-G8,LAO,Laos
+428,1038,G8,8,Non-G8,LBN,Lebanon
+426,1038,G8,8,Non-G8,LBR,Liberia
+430,1038,G8,8,Non-G8,LBY,Libya
+659,1038,G8,8,Non-G8,LCA,Saint Lucia
+434,1038,G8,8,Non-G8,LIE,Liechtenstein
+724,1038,G8,8,Non-G8,LKA,Sri Lanka
+422,1038,G8,8,Non-G8,LSO,Lesotho
+438,1038,G8,8,Non-G8,LTU,Lithuania
+440,1038,G8,8,Non-G8,LUX,Luxembourg
+418,1038,G8,8,Non-G8,LVA,Latvia
+344,1038,G8,8,Non-G8,MAC,Macao SAR
+662,1038,G8,8,Non-G8,MAF,Saint-Martin (French part)
+500,1038,G8,8,Non-G8,MAR,Morocco
+583,1038,G8,8,Non-G8,MCO,Monaco
+410,1038,G8,8,Non-G8,MDA,Moldova
+442,1038,G8,8,Non-G8,MDG,Madagascar
+458,1038,G8,8,Non-G8,MDV,Maldives
+175,1038,G8,8,Non-G8,MEX,Mexico
+470,1038,G8,8,Non-G8,MHL,Marshall Islands
+764,1038,G8,8,Non-G8,MKD,TFYR Macedonia
+462,1038,G8,8,Non-G8,MLI,Mali
+466,1038,G8,8,Non-G8,MLT,Malta
+508,1038,G8,8,Non-G8,MMR,Myanmar
+496,1038,G8,8,Non-G8,MNE,Montenegro
+492,1038,G8,8,Non-G8,MNG,Mongolia
+574,1038,G8,8,Non-G8,MNP,Northern Mariana Islands
+504,1038,G8,8,Non-G8,MOZ,Mozambique
+474,1038,G8,8,Non-G8,MRT,Mauritania
+499,1038,G8,8,Non-G8,MSR,Montserrat
+584,1038,G8,8,Non-G8,MTQ,Martinique
+478,1038,G8,8,Non-G8,MUS,Mauritius
+450,1038,G8,8,Non-G8,MWI,Malawi
+454,1038,G8,8,Non-G8,MYS,Malaysia
+480,1038,G8,8,Non-G8,MYT,Mayotte
+104,1038,G8,8,Non-G8,NAM,Namibia
+530,1038,G8,8,Non-G8,NCL,New Caledonia
+558,1038,G8,8,Non-G8,NER,Niger
+570,1038,G8,8,Non-G8,NFK,Norfolk Island
+562,1038,G8,8,Non-G8,NGA,Nigeria
+554,1038,G8,8,Non-G8,NIC,Nicaragua
+566,1038,G8,8,Non-G8,NIU,Niue
+524,1038,G8,8,Non-G8,NLD,Netherlands
+580,1038,G8,8,Non-G8,NOR,Norway
+520,1038,G8,8,Non-G8,NPL,Nepal
+516,1038,G8,8,Non-G8,NRU,Nauru
+540,1038,G8,8,Non-G8,NZL,New Zealand
+275,1038,G8,8,Non-G8,OMN,Oman
+512,1038,G8,8,Non-G8,PAK,Pakistan
+585,1038,G8,8,Non-G8,PAN,Panama
+608,1038,G8,8,Non-G8,PCN,Pitcairn
+600,1038,G8,8,Non-G8,PER,Peru
+604,1038,G8,8,Non-G8,PHL,Philippines
+586,1038,G8,8,Non-G8,PLW,Palau
+591,1038,G8,8,Non-G8,PNG,Papua New Guinea
+612,1038,G8,8,Non-G8,POL,Poland
+620,1038,G8,8,Non-G8,PRI,Puerto Rico
+203,1038,G8,8,Non-G8,PRK,North Korea
+616,1038,G8,8,Non-G8,PRT,Portugal
+598,1038,G8,8,Non-G8,PRY,Paraguay
+578,1038,G8,8,Non-G8,PSE,Gaza Strip
+254,1038,G8,8,Non-G8,PYF,French Polynesia
+630,1038,G8,8,Non-G8,QAT,Qatar
+498,1038,G8,8,Non-G8,REU,Réunion
+638,1038,G8,8,Non-G8,ROU,Romania
+1,1038,G8,8,Non-G8,ROW,Statistical Discrepancies
+643,1038,G8,8,Non-G8,RWA,Rwanda
+678,1038,G8,8,Non-G8,SAU,Saudi Arabia
+144,1038,G8,8,Non-G8,SDN,Sudan
+828,1038,G8,8,Non-G8,SDS,South Sudan
+999,1038,G8,8,Non-G8,SEA,Seaworld
+682,1038,G8,8,Non-G8,SEN,Senegal
+694,1038,G8,8,Non-G8,SGP,Singapore
+652,1038,G8,8,Non-G8,SHN,Saint Helena
+740,1038,G8,8,Non-G8,SJM,Svalbard and Jan Mayen Islands
+705,1038,G8,8,Non-G8,SLB,Solomon Islands
+690,1038,G8,8,Non-G8,SLE,Sierra Leone
+818,1038,G8,8,Non-G8,SLV,El Salvador
+882,1038,G8,8,Non-G8,SMR,San Marino
+90,1038,G8,8,Non-G8,SOM,Somalia
+663,1038,G8,8,Non-G8,SPM,Saint Pierre and Miquelon
+686,1038,G8,8,Non-G8,SRB,Serbia
+674,1038,G8,8,Non-G8,STP,Sao Tome and Principe
+729,1038,G8,8,Non-G8,SUD,Sudan
+736,1038,G8,8,Non-G8,SUR,Suriname
+702,1038,G8,8,Non-G8,SVK,Slovakia
+703,1038,G8,8,Non-G8,SVN,Slovenia
+748,1038,G8,8,Non-G8,SWE,Sweden
+744,1038,G8,8,Non-G8,SWZ,Swaziland
+688,1038,G8,8,Non-G8,SYC,Seychelles
+756,1038,G8,8,Non-G8,SYR,Syria
+795,1038,G8,8,Non-G8,TCA,Turks and Caicos Islands
+148,1038,G8,8,Non-G8,TCD,Chad
+626,1038,G8,8,Non-G8,TGO,Togo
+762,1038,G8,8,Non-G8,THA,Thailand
+760,1038,G8,8,Non-G8,TJK,Tajikistan
+768,1038,G8,8,Non-G8,TKL,Tokelau
+792,1038,G8,8,Non-G8,TKM,Turkmenistan
+807,1038,G8,8,Non-G8,TLS,Timor-Leste
+772,1038,G8,8,Non-G8,TON,Tonga
+776,1038,G8,8,Non-G8,TTO,Trinidad and Tobago
+780,1038,G8,8,Non-G8,TUN,Tunisia
+788,1038,G8,8,Non-G8,TUR,Turkey
+796,1038,G8,8,Non-G8,TUV,Tuvalu
+158,1038,G8,8,Non-G8,TWN,Taiwan
+826,1038,G8,8,Non-G8,TZA,Tanzania
+798,1038,G8,8,Non-G8,UGA,Uganda
+800,1038,G8,8,Non-G8,UKR,Ukraine
+850,1038,G8,8,Non-G8,URY,Uruguay
+858,1038,G8,8,Non-G8,UZB,Uzbekistan
+332,1038,G8,8,Non-G8,VAT,Holy See
+666,1038,G8,8,Non-G8,VCT,Saint Vincent and the Grenadines
+548,1038,G8,8,Non-G8,VEN,Venezuela
+92,1038,G8,8,Non-G8,VGB,British Virgin Islands
+840,1038,G8,8,Non-G8,VIR,US Virgin Islands
+862,1038,G8,8,Non-G8,VNM,Viet Nam
+860,1038,G8,8,Non-G8,VUT,Vanuatu
+704,1038,G8,8,Non-G8,WLF,Wallis and Futuna Islands
+670,1038,G8,8,Non-G8,WSM,Samoa
+732,1038,G8,8,Non-G8,YEM,Yemen
+706,1038,G8,8,Non-G8,ZAF,South Africa
+887,1038,G8,8,Non-G8,ZMB,Zambia
+894,1038,G8,8,Non-G8,ZWE,Zimbabwe
+36,1031,OECD,9,OECD,AUS,Australia
+40,1031,OECD,9,OECD,AUT,Austria
+56,1031,OECD,9,OECD,BEL,Belgium
+124,1031,OECD,9,OECD,CAN,Canada
+752,1031,OECD,9,OECD,CHE,Switzerland
+830,1031,OECD,9,Non-OECD,CHL,Chile
+196,1031,OECD,9,OECD,CZE,Czech Republic
+268,1031,OECD,9,OECD,DEU,Germany
+180,1031,OECD,9,OECD,DNK,Denmark
+710,1031,OECD,9,OECD,ESP,Spain
+242,1031,OECD,9,OECD,FIN,Finland
+246,1031,OECD,9,OECD,FRA,France
+784,1031,OECD,9,OECD,GBR,UK
+292,1031,OECD,9,OECD,GRC,Greece
+340,1031,OECD,9,OECD,HUN,Hungary
+368,1031,OECD,9,OECD,IRL,Ireland
+348,1031,OECD,9,OECD,ISL,Iceland
+376,1031,OECD,9,OECD,ITA,Italy
+388,1031,OECD,9,OECD,JPN,Japan
+634,1031,OECD,9,OECD,KOR,South Korea
+440,1031,OECD,9,OECD,LUX,Luxembourg
+175,1031,OECD,9,OECD,MEX,Mexico
+524,1031,OECD,9,OECD,NLD,Netherlands
+580,1031,OECD,9,OECD,NOR,Norway
+540,1031,OECD,9,OECD,NZL,New Zealand
+616,1031,OECD,9,OECD,PRT,Portugal
+702,1031,OECD,9,OECD,SVK,Slovakia
+703,1031,OECD,9,Non-OECD,SVN,Slovenia
+748,1031,OECD,9,OECD,SWE,Sweden
+788,1031,OECD,9,OECD,TUR,Turkey
+834,1031,OECD,9,OECD,USA,USA
+533,1037,OECD,9,Non-OECD,ABW,Aruba
+4,1037,OECD,9,Non-OECD,AFG,Afghanistan
+24,1037,OECD,9,Non-OECD,AGO,Angola
+660,1037,OECD,9,Non-OECD,AIA,Anguilla
+248,1037,OECD,9,Non-OECD,ALA,Aland Islands
+8,1037,OECD,9,Non-OECD,ALB,Albania
+20,1037,OECD,9,Non-OECD,AND,Andorra
+528,1037,OECD,9,Non-OECD,ANT,Netherlands Antilles
+804,1037,OECD,9,Non-OECD,ARE,UAE
+32,1037,OECD,9,Non-OECD,ARG,Argentina
+51,1037,OECD,9,Non-OECD,ARM,Armenia
+16,1037,OECD,9,Non-OECD,ASM,American Samoa
+28,1037,OECD,9,Non-OECD,ATG,Antigua
+31,1037,OECD,9,Non-OECD,AZE,Azerbaijan
+108,1037,OECD,9,Non-OECD,BDI,Burundi
+204,1037,OECD,9,Non-OECD,BEN,Benin
+854,1037,OECD,9,Non-OECD,BFA,Burkina Faso
+50,1037,OECD,9,Non-OECD,BGD,Bangladesh
+100,1037,OECD,9,Non-OECD,BGR,Bulgaria
+48,1037,OECD,9,Non-OECD,BHR,Bahrain
+44,1037,OECD,9,Non-OECD,BHS,Bahamas
+70,1037,OECD,9,Non-OECD,BIH,Bosnia and Herzegovina
+646,1037,OECD,9,Non-OECD,BLM,Saint-Barthelemy
+112,1037,OECD,9,Non-OECD,BLR,Belarus
+84,1037,OECD,9,Non-OECD,BLZ,Belize
+60,1037,OECD,9,Non-OECD,BMU,Bermuda
+68,1037,OECD,9,Non-OECD,BOL,Bolivia
+76,1037,OECD,9,Non-OECD,BRA,Brazil
+52,1037,OECD,9,Non-OECD,BRB,Barbados
+96,1037,OECD,9,Non-OECD,BRN,Brunei
+64,1037,OECD,9,Non-OECD,BTN,Bhutan
+72,1037,OECD,9,Non-OECD,BWA,Botswana
+140,1037,OECD,9,Non-OECD,CAF,Central African Republic
+152,1037,OECD,9,Non-OECD,CHN,China
+188,1037,OECD,9,Non-OECD,CIV,Cote dIvoire
+120,1037,OECD,9,Non-OECD,CMR,Cameroon
+408,1037,OECD,9,Non-OECD,COD,DR Congo
+174,1037,OECD,9,Non-OECD,COG,Congo
+178,1037,OECD,9,Non-OECD,COK,Cook Islands
+446,1037,OECD,9,Non-OECD,COL,Colombia
+170,1037,OECD,9,Non-OECD,COM,Comoros
+132,1037,OECD,9,Non-OECD,CPV,Cape Verde
+184,1037,OECD,9,Non-OECD,CRI,Costa Rica
+191,1037,OECD,9,Non-OECD,CUB,Cuba
+136,1037,OECD,9,Non-OECD,CYM,Cayman Islands
+192,1037,OECD,9,Non-OECD,CYP,Cyprus
+208,1037,OECD,9,Non-OECD,DJI,Djibouti
+262,1037,OECD,9,Non-OECD,DMA,Dominica
+212,1037,OECD,9,Non-OECD,DOM,Dominican Republic
+12,1037,OECD,9,Non-OECD,DZA,Algeria
+214,1037,OECD,9,Non-OECD,ECU,Ecuador
+218,1037,OECD,9,Non-OECD,EGY,Egypt
+226,1037,OECD,9,Non-OECD,ERI,Eritrea
+876,1037,OECD,9,Non-OECD,ESH,Western Sahara
+232,1037,OECD,9,Non-OECD,EST,Estonia
+233,1037,OECD,9,Non-OECD,ETH,Ethiopia
+238,1037,OECD,9,Non-OECD,FJI,Fiji
+234,1037,OECD,9,Non-OECD,FLK,Falkland Islands
+231,1037,OECD,9,Non-OECD,FRO,Faeroe Islands
+484,1037,OECD,9,Non-OECD,FSM,Micronesia
+258,1037,OECD,9,Non-OECD,GAB,Gabon
+270,1037,OECD,9,Non-OECD,GEO,Georgia
+320,1037,OECD,9,Non-OECD,GGY,Guernsey
+276,1037,OECD,9,Non-OECD,GHA,Ghana
+288,1037,OECD,9,Non-OECD,GIB,Gibraltar
+831,1037,OECD,9,Non-OECD,GIN,Guinea
+308,1037,OECD,9,Non-OECD,GLP,Guadeloupe
+266,1037,OECD,9,Non-OECD,GMB,Gambia
+324,1037,OECD,9,Non-OECD,GNB,Guinea-Bissau
+222,1037,OECD,9,Non-OECD,GNQ,Equatorial Guinea
+304,1037,OECD,9,Non-OECD,GRD,Grenada
+300,1037,OECD,9,Non-OECD,GRL,Greenland
+316,1037,OECD,9,Non-OECD,GTM,Guatemala
+250,1037,OECD,9,Non-OECD,GUF,French Guiana
+312,1037,OECD,9,Non-OECD,GUM,Guam
+624,1037,OECD,9,Non-OECD,GUY,Guyana
+156,1037,OECD,9,Non-OECD,HKG,Hong Kong
+336,1037,OECD,9,Non-OECD,HND,Honduras
+384,1037,OECD,9,Non-OECD,HRV,Croatia
+328,1037,OECD,9,Non-OECD,HTI,Haiti
+356,1037,OECD,9,Non-OECD,IDN,Indonesia
+372,1037,OECD,9,Non-OECD,IMN,Isle of Man
+352,1037,OECD,9,Non-OECD,IND,India
+360,1037,OECD,9,Non-OECD,IRN,Iran
+364,1037,OECD,9,Non-OECD,IRQ,Iraq
+833,1037,OECD,9,Non-OECD,ISR,Israel
+380,1037,OECD,9,Non-OECD,JAM,Jamaica
+392,1037,OECD,9,Non-OECD,JEY,Jersey
+832,1037,OECD,9,Non-OECD,JOR,Jordan
+400,1037,OECD,9,Non-OECD,KAZ,Kazakhstan
+398,1037,OECD,9,Non-OECD,KEN,Kenya
+414,1037,OECD,9,Non-OECD,KGZ,Kyrgyzstan
+116,1037,OECD,9,Non-OECD,KHM,Cambodia
+404,1037,OECD,9,Non-OECD,KIR,Kiribati
+654,1037,OECD,9,Non-OECD,KNA,Saint Kitts and Nevis
+296,1037,OECD,9,Non-OECD,KWT,Kuwait
+417,1037,OECD,9,Non-OECD,LAO,Laos
+428,1037,OECD,9,Non-OECD,LBN,Lebanon
+426,1037,OECD,9,Non-OECD,LBR,Liberia
+430,1037,OECD,9,Non-OECD,LBY,Libya
+659,1037,OECD,9,Non-OECD,LCA,Saint Lucia
+434,1037,OECD,9,Non-OECD,LIE,Liechtenstein
+724,1037,OECD,9,Non-OECD,LKA,Sri Lanka
+422,1037,OECD,9,Non-OECD,LSO,Lesotho
+438,1037,OECD,9,Non-OECD,LTU,Lithuania
+418,1037,OECD,9,Non-OECD,LVA,Latvia
+344,1037,OECD,9,Non-OECD,MAC,Macao SAR
+662,1037,OECD,9,Non-OECD,MAF,Saint-Martin (French part)
+500,1037,OECD,9,Non-OECD,MAR,Morocco
+583,1037,OECD,9,Non-OECD,MCO,Monaco
+410,1037,OECD,9,Non-OECD,MDA,Moldova
+442,1037,OECD,9,Non-OECD,MDG,Madagascar
+458,1037,OECD,9,Non-OECD,MDV,Maldives
+470,1037,OECD,9,Non-OECD,MHL,Marshall Islands
+764,1037,OECD,9,Non-OECD,MKD,TFYR Macedonia
+462,1037,OECD,9,Non-OECD,MLI,Mali
+466,1037,OECD,9,Non-OECD,MLT,Malta
+508,1037,OECD,9,Non-OECD,MMR,Myanmar
+496,1037,OECD,9,Non-OECD,MNE,Montenegro
+492,1037,OECD,9,Non-OECD,MNG,Mongolia
+574,1037,OECD,9,Non-OECD,MNP,Northern Mariana Islands
+504,1037,OECD,9,Non-OECD,MOZ,Mozambique
+474,1037,OECD,9,Non-OECD,MRT,Mauritania
+499,1037,OECD,9,Non-OECD,MSR,Montserrat
+584,1037,OECD,9,Non-OECD,MTQ,Martinique
+478,1037,OECD,9,Non-OECD,MUS,Mauritius
+450,1037,OECD,9,Non-OECD,MWI,Malawi
+454,1037,OECD,9,Non-OECD,MYS,Malaysia
+480,1037,OECD,9,Non-OECD,MYT,Mayotte
+104,1037,OECD,9,Non-OECD,NAM,Namibia
+530,1037,OECD,9,Non-OECD,NCL,New Caledonia
+558,1037,OECD,9,Non-OECD,NER,Niger
+570,1037,OECD,9,Non-OECD,NFK,Norfolk Island
+562,1037,OECD,9,Non-OECD,NGA,Nigeria
+554,1037,OECD,9,Non-OECD,NIC,Nicaragua
+566,1037,OECD,9,Non-OECD,NIU,Niue
+520,1037,OECD,9,Non-OECD,NPL,Nepal
+516,1037,OECD,9,Non-OECD,NRU,Nauru
+275,1037,OECD,9,Non-OECD,OMN,Oman
+512,1037,OECD,9,Non-OECD,PAK,Pakistan
+585,1037,OECD,9,Non-OECD,PAN,Panama
+608,1037,OECD,9,Non-OECD,PCN,Pitcairn
+600,1037,OECD,9,Non-OECD,PER,Peru
+604,1037,OECD,9,Non-OECD,PHL,Philippines
+586,1037,OECD,9,Non-OECD,PLW,Palau
+591,1037,OECD,9,Non-OECD,PNG,Papua New Guinea
+612,1037,OECD,9,Non-OECD,POL,Poland
+620,1037,OECD,9,Non-OECD,PRI,Puerto Rico
+203,1037,OECD,9,Non-OECD,PRK,North Korea
+598,1037,OECD,9,Non-OECD,PRY,Paraguay
+578,1037,OECD,9,Non-OECD,PSE,Gaza Strip
+254,1037,OECD,9,Non-OECD,PYF,French Polynesia
+630,1037,OECD,9,Non-OECD,QAT,Qatar
+498,1037,OECD,9,Non-OECD,REU,Réunion
+638,1037,OECD,9,Non-OECD,ROU,Romania
+1,1037,OECD,9,Non-OECD,ROW,Statistical Discrepancies
+642,1037,OECD,9,Non-OECD,RUS,Russia
+643,1037,OECD,9,Non-OECD,RWA,Rwanda
+678,1037,OECD,9,Non-OECD,SAU,Saudi Arabia
+144,1037,OECD,9,Non-OECD,SDN,Sudan
+828,1037,OECD,9,Non-OECD,SDS,South Sudan
+999,1037,OECD,9,Non-OECD,SEA,Seaworld
+682,1037,OECD,9,Non-OECD,SEN,Senegal
+694,1037,OECD,9,Non-OECD,SGP,Singapore
+652,1037,OECD,9,Non-OECD,SHN,Saint Helena
+740,1037,OECD,9,Non-OECD,SJM,Svalbard and Jan Mayen Islands
+705,1037,OECD,9,Non-OECD,SLB,Solomon Islands
+690,1037,OECD,9,Non-OECD,SLE,Sierra Leone
+818,1037,OECD,9,Non-OECD,SLV,El Salvador
+882,1037,OECD,9,Non-OECD,SMR,San Marino
+90,1037,OECD,9,Non-OECD,SOM,Somalia
+663,1037,OECD,9,Non-OECD,SPM,Saint Pierre and Miquelon
+686,1037,OECD,9,Non-OECD,SRB,Serbia
+674,1037,OECD,9,Non-OECD,STP,Sao Tome and Principe
+729,1037,OECD,9,Non-OECD,SUD,Sudan
+736,1037,OECD,9,Non-OECD,SUR,Suriname
+744,1037,OECD,9,Non-OECD,SWZ,Swaziland
+688,1037,OECD,9,Non-OECD,SYC,Seychelles
+756,1037,OECD,9,Non-OECD,SYR,Syria
+795,1037,OECD,9,Non-OECD,TCA,Turks and Caicos Islands
+148,1037,OECD,9,Non-OECD,TCD,Chad
+626,1037,OECD,9,Non-OECD,TGO,Togo
+762,1037,OECD,9,Non-OECD,THA,Thailand
+760,1037,OECD,9,Non-OECD,TJK,Tajikistan
+768,1037,OECD,9,Non-OECD,TKL,Tokelau
+792,1037,OECD,9,Non-OECD,TKM,Turkmenistan
+807,1037,OECD,9,Non-OECD,TLS,Timor-Leste
+772,1037,OECD,9,Non-OECD,TON,Tonga
+776,1037,OECD,9,Non-OECD,TTO,Trinidad and Tobago
+780,1037,OECD,9,Non-OECD,TUN,Tunisia
+796,1037,OECD,9,Non-OECD,TUV,Tuvalu
+158,1037,OECD,9,Non-OECD,TWN,Taiwan
+826,1037,OECD,9,Non-OECD,TZA,Tanzania
+798,1037,OECD,9,Non-OECD,UGA,Uganda
+800,1037,OECD,9,Non-OECD,UKR,Ukraine
+850,1037,OECD,9,Non-OECD,URY,Uruguay
+810,1037,OECD,9,Non-OECD,USR,Former USSR
+858,1037,OECD,9,Non-OECD,UZB,Uzbekistan
+332,1037,OECD,9,Non-OECD,VAT,Holy See
+666,1037,OECD,9,Non-OECD,VCT,Saint Vincent and the Grenadines
+548,1037,OECD,9,Non-OECD,VEN,Venezuela
+92,1037,OECD,9,Non-OECD,VGB,British Virgin Islands
+840,1037,OECD,9,Non-OECD,VIR,US Virgin Islands
+862,1037,OECD,9,Non-OECD,VNM,Viet Nam
+860,1037,OECD,9,Non-OECD,VUT,Vanuatu
+704,1037,OECD,9,Non-OECD,WLF,Wallis and Futuna Islands
+670,1037,OECD,9,Non-OECD,WSM,Samoa
+732,1037,OECD,9,Non-OECD,YEM,Yemen
+706,1037,OECD,9,Non-OECD,ZAF,South Africa
+887,1037,OECD,9,Non-OECD,ZMB,Zambia
+894,1037,OECD,9,Non-OECD,ZWE,Zimbabwe
+36,1040,Kyoto Annex I,10,Annex I,AUS,Australia
+40,1040,Kyoto Annex I,10,Annex I,AUT,Austria
+56,1040,Kyoto Annex I,10,Annex I,BEL,Belgium
+100,1040,Kyoto Annex I,10,Annex I,BGR,Bulgaria
+112,1040,Kyoto Annex I,10,Annex I,BLR,Belarus
+124,1040,Kyoto Annex I,10,Annex I,CAN,Canada
+752,1040,Kyoto Annex I,10,Annex I,CHE,Switzerland
+196,1040,Kyoto Annex I,10,Annex I,CZE,Czech Republic
+268,1040,Kyoto Annex I,10,Annex I,DEU,Germany
+180,1040,Kyoto Annex I,10,Annex I,DNK,Denmark
+710,1040,Kyoto Annex I,10,Annex I,ESP,Spain
+232,1040,Kyoto Annex I,10,Annex I,EST,Estonia
+242,1040,Kyoto Annex I,10,Annex I,FIN,Finland
+246,1040,Kyoto Annex I,10,Annex I,FRA,France
+784,1040,Kyoto Annex I,10,Annex I,GBR,UK
+292,1040,Kyoto Annex I,10,Annex I,GRC,Greece
+384,1040,Kyoto Annex I,10,Annex I,HRV,Croatia
+340,1040,Kyoto Annex I,10,Annex I,HUN,Hungary
+368,1040,Kyoto Annex I,10,Annex I,IRL,Ireland
+348,1040,Kyoto Annex I,10,Annex I,ISL,Iceland
+376,1040,Kyoto Annex I,10,Annex I,ITA,Italy
+388,1040,Kyoto Annex I,10,Annex I,JPN,Japan
+434,1040,Kyoto Annex I,10,Annex I,LIE,Liechtenstein
+438,1040,Kyoto Annex I,10,Annex I,LTU,Lithuania
+440,1040,Kyoto Annex I,10,Annex I,LUX,Luxembourg
+418,1040,Kyoto Annex I,10,Annex I,LVA,Latvia
+583,1040,Kyoto Annex I,10,Annex I,MCO,Monaco
+466,1040,Kyoto Annex I,10,Annex I,MLT,Malta
+524,1040,Kyoto Annex I,10,Annex I,NLD,Netherlands
+580,1040,Kyoto Annex I,10,Annex I,NOR,Norway
+540,1040,Kyoto Annex I,10,Annex I,NZL,New Zealand
+612,1040,Kyoto Annex I,10,Annex I,POL,Poland
+616,1040,Kyoto Annex I,10,Annex I,PRT,Portugal
+638,1040,Kyoto Annex I,10,Annex I,ROU,Romania
+642,1040,Kyoto Annex I,10,Annex I,RUS,Russia
+702,1040,Kyoto Annex I,10,Annex I,SVK,Slovakia
+703,1040,Kyoto Annex I,10,Annex I,SVN,Slovenia
+748,1040,Kyoto Annex I,10,Annex I,SWE,Sweden
+788,1040,Kyoto Annex I,10,Annex I,TUR,Turkey
+800,1040,Kyoto Annex I,10,Annex I,UKR,Ukraine
+834,1040,Kyoto Annex I,10,Annex I,USA,USA
+810,1040,Kyoto Annex I,10,Annex I,USR,Former USSR
+533,1041,Kyoto Annex I,10,Non-Annex I,ABW,Aruba
+4,1041,Kyoto Annex I,10,Non-Annex I,AFG,Afghanistan
+24,1041,Kyoto Annex I,10,Non-Annex I,AGO,Angola
+660,1041,Kyoto Annex I,10,Non-Annex I,AIA,Anguilla
+248,1041,Kyoto Annex I,10,Non-Annex I,ALA,Aland Islands
+8,1041,Kyoto Annex I,10,Non-Annex I,ALB,Albania
+20,1041,Kyoto Annex I,10,Non-Annex I,AND,Andorra
+528,1041,Kyoto Annex I,10,Non-Annex I,ANT,Netherlands Antilles
+804,1041,Kyoto Annex I,10,Non-Annex I,ARE,UAE
+32,1041,Kyoto Annex I,10,Non-Annex I,ARG,Argentina
+51,1041,Kyoto Annex I,10,Non-Annex I,ARM,Armenia
+16,1041,Kyoto Annex I,10,Non-Annex I,ASM,American Samoa
+28,1041,Kyoto Annex I,10,Non-Annex I,ATG,Antigua
+31,1041,Kyoto Annex I,10,Non-Annex I,AZE,Azerbaijan
+108,1041,Kyoto Annex I,10,Non-Annex I,BDI,Burundi
+204,1041,Kyoto Annex I,10,Non-Annex I,BEN,Benin
+854,1041,Kyoto Annex I,10,Non-Annex I,BFA,Burkina Faso
+50,1041,Kyoto Annex I,10,Non-Annex I,BGD,Bangladesh
+48,1041,Kyoto Annex I,10,Non-Annex I,BHR,Bahrain
+44,1041,Kyoto Annex I,10,Non-Annex I,BHS,Bahamas
+70,1041,Kyoto Annex I,10,Non-Annex I,BIH,Bosnia and Herzegovina
+646,1041,Kyoto Annex I,10,Non-Annex I,BLM,Saint-Barthelemy
+84,1041,Kyoto Annex I,10,Non-Annex I,BLZ,Belize
+60,1041,Kyoto Annex I,10,Non-Annex I,BMU,Bermuda
+68,1041,Kyoto Annex I,10,Non-Annex I,BOL,Bolivia
+76,1041,Kyoto Annex I,10,Non-Annex I,BRA,Brazil
+52,1041,Kyoto Annex I,10,Non-Annex I,BRB,Barbados
+96,1041,Kyoto Annex I,10,Non-Annex I,BRN,Brunei
+64,1041,Kyoto Annex I,10,Non-Annex I,BTN,Bhutan
+72,1041,Kyoto Annex I,10,Non-Annex I,BWA,Botswana
+140,1041,Kyoto Annex I,10,Non-Annex I,CAF,Central African Republic
+830,1041,Kyoto Annex I,10,Non-Annex I,CHL,Chile
+152,1041,Kyoto Annex I,10,Non-Annex I,CHN,China
+188,1041,Kyoto Annex I,10,Non-Annex I,CIV,Cote dIvoire
+120,1041,Kyoto Annex I,10,Non-Annex I,CMR,Cameroon
+408,1041,Kyoto Annex I,10,Non-Annex I,COD,DR Congo
+174,1041,Kyoto Annex I,10,Non-Annex I,COG,Congo
+178,1041,Kyoto Annex I,10,Non-Annex I,COK,Cook Islands
+446,1041,Kyoto Annex I,10,Non-Annex I,COL,Colombia
+170,1041,Kyoto Annex I,10,Non-Annex I,COM,Comoros
+132,1041,Kyoto Annex I,10,Non-Annex I,CPV,Cape Verde
+184,1041,Kyoto Annex I,10,Non-Annex I,CRI,Costa Rica
+191,1041,Kyoto Annex I,10,Non-Annex I,CUB,Cuba
+136,1041,Kyoto Annex I,10,Non-Annex I,CYM,Cayman Islands
+192,1041,Kyoto Annex I,10,Non-Annex I,CYP,Cyprus
+208,1041,Kyoto Annex I,10,Non-Annex I,DJI,Djibouti
+262,1041,Kyoto Annex I,10,Non-Annex I,DMA,Dominica
+212,1041,Kyoto Annex I,10,Non-Annex I,DOM,Dominican Republic
+12,1041,Kyoto Annex I,10,Non-Annex I,DZA,Algeria
+214,1041,Kyoto Annex I,10,Non-Annex I,ECU,Ecuador
+218,1041,Kyoto Annex I,10,Non-Annex I,EGY,Egypt
+226,1041,Kyoto Annex I,10,Non-Annex I,ERI,Eritrea
+876,1041,Kyoto Annex I,10,Non-Annex I,ESH,Western Sahara
+233,1041,Kyoto Annex I,10,Non-Annex I,ETH,Ethiopia
+238,1041,Kyoto Annex I,10,Non-Annex I,FJI,Fiji
+234,1041,Kyoto Annex I,10,Non-Annex I,FLK,Falkland Islands
+231,1041,Kyoto Annex I,10,Non-Annex I,FRO,Faeroe Islands
+484,1041,Kyoto Annex I,10,Non-Annex I,FSM,Micronesia
+258,1041,Kyoto Annex I,10,Non-Annex I,GAB,Gabon
+270,1041,Kyoto Annex I,10,Non-Annex I,GEO,Georgia
+320,1041,Kyoto Annex I,10,Non-Annex I,GGY,Guernsey
+276,1041,Kyoto Annex I,10,Non-Annex I,GHA,Ghana
+288,1041,Kyoto Annex I,10,Non-Annex I,GIB,Gibraltar
+831,1041,Kyoto Annex I,10,Non-Annex I,GIN,Guinea
+308,1041,Kyoto Annex I,10,Non-Annex I,GLP,Guadeloupe
+266,1041,Kyoto Annex I,10,Non-Annex I,GMB,Gambia
+324,1041,Kyoto Annex I,10,Non-Annex I,GNB,Guinea-Bissau
+222,1041,Kyoto Annex I,10,Non-Annex I,GNQ,Equatorial Guinea
+304,1041,Kyoto Annex I,10,Non-Annex I,GRD,Grenada
+300,1041,Kyoto Annex I,10,Non-Annex I,GRL,Greenland
+316,1041,Kyoto Annex I,10,Non-Annex I,GTM,Guatemala
+250,1041,Kyoto Annex I,10,Non-Annex I,GUF,French Guiana
+312,1041,Kyoto Annex I,10,Non-Annex I,GUM,Guam
+624,1041,Kyoto Annex I,10,Non-Annex I,GUY,Guyana
+156,1041,Kyoto Annex I,10,Non-Annex I,HKG,Hong Kong
+336,1041,Kyoto Annex I,10,Non-Annex I,HND,Honduras
+328,1041,Kyoto Annex I,10,Non-Annex I,HTI,Haiti
+356,1041,Kyoto Annex I,10,Non-Annex I,IDN,Indonesia
+372,1041,Kyoto Annex I,10,Non-Annex I,IMN,Isle of Man
+352,1041,Kyoto Annex I,10,Non-Annex I,IND,India
+360,1041,Kyoto Annex I,10,Non-Annex I,IRN,Iran
+364,1041,Kyoto Annex I,10,Non-Annex I,IRQ,Iraq
+833,1041,Kyoto Annex I,10,Non-Annex I,ISR,Israel
+380,1041,Kyoto Annex I,10,Non-Annex I,JAM,Jamaica
+392,1041,Kyoto Annex I,10,Non-Annex I,JEY,Jersey
+832,1041,Kyoto Annex I,10,Non-Annex I,JOR,Jordan
+400,1041,Kyoto Annex I,10,Non-Annex I,KAZ,Kazakhstan
+398,1041,Kyoto Annex I,10,Non-Annex I,KEN,Kenya
+414,1041,Kyoto Annex I,10,Non-Annex I,KGZ,Kyrgyzstan
+116,1041,Kyoto Annex I,10,Non-Annex I,KHM,Cambodia
+404,1041,Kyoto Annex I,10,Non-Annex I,KIR,Kiribati
+654,1041,Kyoto Annex I,10,Non-Annex I,KNA,Saint Kitts and Nevis
+634,1041,Kyoto Annex I,10,Non-Annex I,KOR,South Korea
+895,1041,Kyoto Annex I,10,Non-Annex I,KSV,Kosovo
+296,1041,Kyoto Annex I,10,Non-Annex I,KWT,Kuwait
+417,1041,Kyoto Annex I,10,Non-Annex I,LAO,Laos
+428,1041,Kyoto Annex I,10,Non-Annex I,LBN,Lebanon
+426,1041,Kyoto Annex I,10,Non-Annex I,LBR,Liberia
+430,1041,Kyoto Annex I,10,Non-Annex I,LBY,Libya
+659,1041,Kyoto Annex I,10,Non-Annex I,LCA,Saint Lucia
+724,1041,Kyoto Annex I,10,Non-Annex I,LKA,Sri Lanka
+422,1041,Kyoto Annex I,10,Non-Annex I,LSO,Lesotho
+344,1041,Kyoto Annex I,10,Non-Annex I,MAC,Macao SAR
+662,1041,Kyoto Annex I,10,Non-Annex I,MAF,Saint-Martin (French part)
+500,1041,Kyoto Annex I,10,Non-Annex I,MAR,Morocco
+410,1041,Kyoto Annex I,10,Non-Annex I,MDA,Moldova
+442,1041,Kyoto Annex I,10,Non-Annex I,MDG,Madagascar
+458,1041,Kyoto Annex I,10,Non-Annex I,MDV,Maldives
+175,1041,Kyoto Annex I,10,Non-Annex I,MEX,Mexico
+470,1041,Kyoto Annex I,10,Non-Annex I,MHL,Marshall Islands
+764,1041,Kyoto Annex I,10,Non-Annex I,MKD,TFYR Macedonia
+462,1041,Kyoto Annex I,10,Non-Annex I,MLI,Mali
+508,1041,Kyoto Annex I,10,Non-Annex I,MMR,Myanmar
+496,1041,Kyoto Annex I,10,Non-Annex I,MNE,Montenegro
+492,1041,Kyoto Annex I,10,Non-Annex I,MNG,Mongolia
+574,1041,Kyoto Annex I,10,Non-Annex I,MNP,Northern Mariana Islands
+504,1041,Kyoto Annex I,10,Non-Annex I,MOZ,Mozambique
+474,1041,Kyoto Annex I,10,Non-Annex I,MRT,Mauritania
+499,1041,Kyoto Annex I,10,Non-Annex I,MSR,Montserrat
+584,1041,Kyoto Annex I,10,Non-Annex I,MTQ,Martinique
+478,1041,Kyoto Annex I,10,Non-Annex I,MUS,Mauritius
+450,1041,Kyoto Annex I,10,Non-Annex I,MWI,Malawi
+454,1041,Kyoto Annex I,10,Non-Annex I,MYS,Malaysia
+480,1041,Kyoto Annex I,10,Non-Annex I,MYT,Mayotte
+104,1041,Kyoto Annex I,10,Non-Annex I,NAM,Namibia
+530,1041,Kyoto Annex I,10,Non-Annex I,NCL,New Caledonia
+558,1041,Kyoto Annex I,10,Non-Annex I,NER,Niger
+570,1041,Kyoto Annex I,10,Non-Annex I,NFK,Norfolk Island
+562,1041,Kyoto Annex I,10,Non-Annex I,NGA,Nigeria
+554,1041,Kyoto Annex I,10,Non-Annex I,NIC,Nicaragua
+566,1041,Kyoto Annex I,10,Non-Annex I,NIU,Niue
+520,1041,Kyoto Annex I,10,Non-Annex I,NPL,Nepal
+516,1041,Kyoto Annex I,10,Non-Annex I,NRU,Nauru
+275,1041,Kyoto Annex I,10,Non-Annex I,OMN,Oman
+512,1041,Kyoto Annex I,10,Non-Annex I,PAK,Pakistan
+585,1041,Kyoto Annex I,10,Non-Annex I,PAN,Panama
+608,1041,Kyoto Annex I,10,Non-Annex I,PCN,Pitcairn
+600,1041,Kyoto Annex I,10,Non-Annex I,PER,Peru
+604,1041,Kyoto Annex I,10,Non-Annex I,PHL,Philippines
+586,1041,Kyoto Annex I,10,Non-Annex I,PLW,Palau
+591,1041,Kyoto Annex I,10,Non-Annex I,PNG,Papua New Guinea
+620,1041,Kyoto Annex I,10,Non-Annex I,PRI,Puerto Rico
+203,1041,Kyoto Annex I,10,Non-Annex I,PRK,North Korea
+598,1041,Kyoto Annex I,10,Non-Annex I,PRY,Paraguay
+578,1041,Kyoto Annex I,10,Non-Annex I,PSE,Gaza Strip
+254,1041,Kyoto Annex I,10,Non-Annex I,PYF,French Polynesia
+630,1041,Kyoto Annex I,10,Non-Annex I,QAT,Qatar
+498,1041,Kyoto Annex I,10,Non-Annex I,REU,Réunion
+1,1041,Kyoto Annex I,10,Non-Annex I,ROW,Statistical Discrepancies
+643,1041,Kyoto Annex I,10,Non-Annex I,RWA,Rwanda
+678,1041,Kyoto Annex I,10,Non-Annex I,SAU,Saudi Arabia
+144,1041,Kyoto Annex I,10,Non-Annex I,SDN,Sudan
+828,1041,Kyoto Annex I,10,Non-Annex I,SDS,South Sudan
+682,1041,Kyoto Annex I,10,Non-Annex I,SEN,Senegal
+694,1041,Kyoto Annex I,10,Non-Annex I,SGP,Singapore
+652,1041,Kyoto Annex I,10,Non-Annex I,SHN,Saint Helena
+740,1041,Kyoto Annex I,10,Non-Annex I,SJM,Svalbard and Jan Mayen Islands
+705,1041,Kyoto Annex I,10,Non-Annex I,SLB,Solomon Islands
+690,1041,Kyoto Annex I,10,Non-Annex I,SLE,Sierra Leone
+818,1041,Kyoto Annex I,10,Non-Annex I,SLV,El Salvador
+882,1041,Kyoto Annex I,10,Non-Annex I,SMR,San Marino
+90,1041,Kyoto Annex I,10,Non-Annex I,SOM,Somalia
+663,1041,Kyoto Annex I,10,Non-Annex I,SPM,Saint Pierre and Miquelon
+686,1041,Kyoto Annex I,10,Non-Annex I,SRB,Serbia
+674,1041,Kyoto Annex I,10,Non-Annex I,STP,Sao Tome and Principe
+729,1041,Kyoto Annex I,10,Non-Annex I,SUD,Sudan
+736,1041,Kyoto Annex I,10,Non-Annex I,SUR,Suriname
+744,1041,Kyoto Annex I,10,Non-Annex I,SWZ,Swaziland
+688,1041,Kyoto Annex I,10,Non-Annex I,SYC,Seychelles
+756,1041,Kyoto Annex I,10,Non-Annex I,SYR,Syria
+795,1041,Kyoto Annex I,10,Non-Annex I,TCA,Turks and Caicos Islands
+148,1041,Kyoto Annex I,10,Non-Annex I,TCD,Chad
+626,1041,Kyoto Annex I,10,Non-Annex I,TGO,Togo
+762,1041,Kyoto Annex I,10,Non-Annex I,THA,Thailand
+760,1041,Kyoto Annex I,10,Non-Annex I,TJK,Tajikistan
+768,1041,Kyoto Annex I,10,Non-Annex I,TKL,Tokelau
+792,1041,Kyoto Annex I,10,Non-Annex I,TKM,Turkmenistan
+807,1041,Kyoto Annex I,10,Non-Annex I,TLS,Timor-Leste
+772,1041,Kyoto Annex I,10,Non-Annex I,TON,Tonga
+776,1041,Kyoto Annex I,10,Non-Annex I,TTO,Trinidad and Tobago
+780,1041,Kyoto Annex I,10,Non-Annex I,TUN,Tunisia
+796,1041,Kyoto Annex I,10,Non-Annex I,TUV,Tuvalu
+158,1041,Kyoto Annex I,10,Non-Annex I,TWN,Taiwan
+826,1041,Kyoto Annex I,10,Non-Annex I,TZA,Tanzania
+896,1041,Kyoto Annex I,10,Non-Annex I,TZM,Tanzania
+798,1041,Kyoto Annex I,10,Non-Annex I,UGA,Uganda
+850,1041,Kyoto Annex I,10,Non-Annex I,URY,Uruguay
+858,1041,Kyoto Annex I,10,Non-Annex I,UZB,Uzbekistan
+332,1041,Kyoto Annex I,10,Non-Annex I,VAT,Holy See
+666,1041,Kyoto Annex I,10,Non-Annex I,VCT,Saint Vincent and the Grenadines
+548,1041,Kyoto Annex I,10,Non-Annex I,VEN,Venezuela
+92,1041,Kyoto Annex I,10,Non-Annex I,VGB,British Virgin Islands
+840,1041,Kyoto Annex I,10,Non-Annex I,VIR,US Virgin Islands
+862,1041,Kyoto Annex I,10,Non-Annex I,VNM,Viet Nam
+860,1041,Kyoto Annex I,10,Non-Annex I,VUT,Vanuatu
+704,1041,Kyoto Annex I,10,Non-Annex I,WLF,Wallis and Futuna Islands
+670,1041,Kyoto Annex I,10,Non-Annex I,WSM,Samoa
+732,1041,Kyoto Annex I,10,Non-Annex I,YEM,Yemen
+706,1041,Kyoto Annex I,10,Non-Annex I,ZAF,South Africa
+887,1041,Kyoto Annex I,10,Non-Annex I,ZMB,Zambia
+894,1041,Kyoto Annex I,10,Non-Annex I,ZWE,Zimbabwe
+76,1044,BASIC,11,BASIC,BRA,Brazil
+152,1044,BASIC,11,BASIC,CHN,China
+352,1044,BASIC,11,BASIC,IND,India
+706,1044,BASIC,11,BASIC,ZAF,South Africa
+533,1045,BASIC,11,Non-BASIC,ABW,Aruba
+4,1045,BASIC,11,Non-BASIC,AFG,Afghanistan
+24,1045,BASIC,11,Non-BASIC,AGO,Angola
+660,1045,BASIC,11,Non-BASIC,AIA,Anguilla
+248,1045,BASIC,11,Non-BASIC,ALA,Aland Islands
+8,1045,BASIC,11,Non-BASIC,ALB,Albania
+20,1045,BASIC,11,Non-BASIC,AND,Andorra
+528,1045,BASIC,11,Non-BASIC,ANT,Netherlands Antilles
+804,1045,BASIC,11,Non-BASIC,ARE,UAE
+32,1045,BASIC,11,Non-BASIC,ARG,Argentina
+51,1045,BASIC,11,Non-BASIC,ARM,Armenia
+16,1045,BASIC,11,Non-BASIC,ASM,American Samoa
+28,1045,BASIC,11,Non-BASIC,ATG,Antigua
+36,1045,BASIC,11,Non-BASIC,AUS,Australia
+40,1045,BASIC,11,Non-BASIC,AUT,Austria
+31,1045,BASIC,11,Non-BASIC,AZE,Azerbaijan
+108,1045,BASIC,11,Non-BASIC,BDI,Burundi
+56,1045,BASIC,11,Non-BASIC,BEL,Belgium
+204,1045,BASIC,11,Non-BASIC,BEN,Benin
+854,1045,BASIC,11,Non-BASIC,BFA,Burkina Faso
+50,1045,BASIC,11,Non-BASIC,BGD,Bangladesh
+100,1045,BASIC,11,Non-BASIC,BGR,Bulgaria
+48,1045,BASIC,11,Non-BASIC,BHR,Bahrain
+44,1045,BASIC,11,Non-BASIC,BHS,Bahamas
+70,1045,BASIC,11,Non-BASIC,BIH,Bosnia and Herzegovina
+646,1045,BASIC,11,Non-BASIC,BLM,Saint-Barthelemy
+112,1045,BASIC,11,Non-BASIC,BLR,Belarus
+84,1045,BASIC,11,Non-BASIC,BLZ,Belize
+60,1045,BASIC,11,Non-BASIC,BMU,Bermuda
+68,1045,BASIC,11,Non-BASIC,BOL,Bolivia
+52,1045,BASIC,11,Non-BASIC,BRB,Barbados
+96,1045,BASIC,11,Non-BASIC,BRN,Brunei
+64,1045,BASIC,11,Non-BASIC,BTN,Bhutan
+72,1045,BASIC,11,Non-BASIC,BWA,Botswana
+140,1045,BASIC,11,Non-BASIC,CAF,Central African Republic
+124,1045,BASIC,11,Non-BASIC,CAN,Canada
+752,1045,BASIC,11,Non-BASIC,CHE,Switzerland
+830,1045,BASIC,11,Non-BASIC,CHL,Chile
+188,1045,BASIC,11,Non-BASIC,CIV,Cote dIvoire
+120,1045,BASIC,11,Non-BASIC,CMR,Cameroon
+408,1045,BASIC,11,Non-BASIC,COD,DR Congo
+174,1045,BASIC,11,Non-BASIC,COG,Congo
+178,1045,BASIC,11,Non-BASIC,COK,Cook Islands
+446,1045,BASIC,11,Non-BASIC,COL,Colombia
+170,1045,BASIC,11,Non-BASIC,COM,Comoros
+132,1045,BASIC,11,Non-BASIC,CPV,Cape Verde
+184,1045,BASIC,11,Non-BASIC,CRI,Costa Rica
+191,1045,BASIC,11,Non-BASIC,CUB,Cuba
+136,1045,BASIC,11,Non-BASIC,CYM,Cayman Islands
+192,1045,BASIC,11,Non-BASIC,CYP,Cyprus
+196,1045,BASIC,11,Non-BASIC,CZE,Czech Republic
+268,1045,BASIC,11,Non-BASIC,DEU,Germany
+208,1045,BASIC,11,Non-BASIC,DJI,Djibouti
+262,1045,BASIC,11,Non-BASIC,DMA,Dominica
+180,1045,BASIC,11,Non-BASIC,DNK,Denmark
+212,1045,BASIC,11,Non-BASIC,DOM,Dominican Republic
+12,1045,BASIC,11,Non-BASIC,DZA,Algeria
+214,1045,BASIC,11,Non-BASIC,ECU,Ecuador
+218,1045,BASIC,11,Non-BASIC,EGY,Egypt
+226,1045,BASIC,11,Non-BASIC,ERI,Eritrea
+876,1045,BASIC,11,Non-BASIC,ESH,Western Sahara
+710,1045,BASIC,11,Non-BASIC,ESP,Spain
+232,1045,BASIC,11,Non-BASIC,EST,Estonia
+233,1045,BASIC,11,Non-BASIC,ETH,Ethiopia
+242,1045,BASIC,11,Non-BASIC,FIN,Finland
+238,1045,BASIC,11,Non-BASIC,FJI,Fiji
+234,1045,BASIC,11,Non-BASIC,FLK,Falkland Islands
+246,1045,BASIC,11,Non-BASIC,FRA,France
+231,1045,BASIC,11,Non-BASIC,FRO,Faeroe Islands
+484,1045,BASIC,11,Non-BASIC,FSM,Micronesia
+258,1045,BASIC,11,Non-BASIC,GAB,Gabon
+784,1045,BASIC,11,Non-BASIC,GBR,UK
+270,1045,BASIC,11,Non-BASIC,GEO,Georgia
+320,1045,BASIC,11,Non-BASIC,GGY,Guernsey
+276,1045,BASIC,11,Non-BASIC,GHA,Ghana
+288,1045,BASIC,11,Non-BASIC,GIB,Gibraltar
+831,1045,BASIC,11,Non-BASIC,GIN,Guinea
+308,1045,BASIC,11,Non-BASIC,GLP,Guadeloupe
+266,1045,BASIC,11,Non-BASIC,GMB,Gambia
+324,1045,BASIC,11,Non-BASIC,GNB,Guinea-Bissau
+222,1045,BASIC,11,Non-BASIC,GNQ,Equatorial Guinea
+292,1045,BASIC,11,Non-BASIC,GRC,Greece
+304,1045,BASIC,11,Non-BASIC,GRD,Grenada
+300,1045,BASIC,11,Non-BASIC,GRL,Greenland
+316,1045,BASIC,11,Non-BASIC,GTM,Guatemala
+250,1045,BASIC,11,Non-BASIC,GUF,French Guiana
+312,1045,BASIC,11,Non-BASIC,GUM,Guam
+624,1045,BASIC,11,Non-BASIC,GUY,Guyana
+156,1045,BASIC,11,Non-BASIC,HKG,Hong Kong
+336,1045,BASIC,11,Non-BASIC,HND,Honduras
+384,1045,BASIC,11,Non-BASIC,HRV,Croatia
+328,1045,BASIC,11,Non-BASIC,HTI,Haiti
+340,1045,BASIC,11,Non-BASIC,HUN,Hungary
+356,1045,BASIC,11,Non-BASIC,IDN,Indonesia
+372,1045,BASIC,11,Non-BASIC,IMN,Isle of Man
+368,1045,BASIC,11,Non-BASIC,IRL,Ireland
+360,1045,BASIC,11,Non-BASIC,IRN,Iran
+364,1045,BASIC,11,Non-BASIC,IRQ,Iraq
+348,1045,BASIC,11,Non-BASIC,ISL,Iceland
+833,1045,BASIC,11,Non-BASIC,ISR,Israel
+376,1045,BASIC,11,Non-BASIC,ITA,Italy
+380,1045,BASIC,11,Non-BASIC,JAM,Jamaica
+392,1045,BASIC,11,Non-BASIC,JEY,Jersey
+832,1045,BASIC,11,Non-BASIC,JOR,Jordan
+388,1045,BASIC,11,Non-BASIC,JPN,Japan
+400,1045,BASIC,11,Non-BASIC,KAZ,Kazakhstan
+398,1045,BASIC,11,Non-BASIC,KEN,Kenya
+414,1045,BASIC,11,Non-BASIC,KGZ,Kyrgyzstan
+116,1045,BASIC,11,Non-BASIC,KHM,Cambodia
+404,1045,BASIC,11,Non-BASIC,KIR,Kiribati
+654,1045,BASIC,11,Non-BASIC,KNA,Saint Kitts and Nevis
+634,1045,BASIC,11,Non-BASIC,KOR,South Korea
+895,1045,BASIC,11,Non-BASIC,KSV,Kosovo
+296,1045,BASIC,11,Non-BASIC,KWT,Kuwait
+417,1045,BASIC,11,Non-BASIC,LAO,Laos
+428,1045,BASIC,11,Non-BASIC,LBN,Lebanon
+426,1045,BASIC,11,Non-BASIC,LBR,Liberia
+430,1045,BASIC,11,Non-BASIC,LBY,Libya
+659,1045,BASIC,11,Non-BASIC,LCA,Saint Lucia
+434,1045,BASIC,11,Non-BASIC,LIE,Liechtenstein
+724,1045,BASIC,11,Non-BASIC,LKA,Sri Lanka
+422,1045,BASIC,11,Non-BASIC,LSO,Lesotho
+438,1045,BASIC,11,Non-BASIC,LTU,Lithuania
+440,1045,BASIC,11,Non-BASIC,LUX,Luxembourg
+418,1045,BASIC,11,Non-BASIC,LVA,Latvia
+344,1045,BASIC,11,Non-BASIC,MAC,Macao SAR
+662,1045,BASIC,11,Non-BASIC,MAF,Saint-Martin (French part)
+500,1045,BASIC,11,Non-BASIC,MAR,Morocco
+583,1045,BASIC,11,Non-BASIC,MCO,Monaco
+410,1045,BASIC,11,Non-BASIC,MDA,Moldova
+442,1045,BASIC,11,Non-BASIC,MDG,Madagascar
+458,1045,BASIC,11,Non-BASIC,MDV,Maldives
+175,1045,BASIC,11,Non-BASIC,MEX,Mexico
+470,1045,BASIC,11,Non-BASIC,MHL,Marshall Islands
+764,1045,BASIC,11,Non-BASIC,MKD,TFYR Macedonia
+462,1045,BASIC,11,Non-BASIC,MLI,Mali
+466,1045,BASIC,11,Non-BASIC,MLT,Malta
+508,1045,BASIC,11,Non-BASIC,MMR,Myanmar
+496,1045,BASIC,11,Non-BASIC,MNE,Montenegro
+492,1045,BASIC,11,Non-BASIC,MNG,Mongolia
+574,1045,BASIC,11,Non-BASIC,MNP,Northern Mariana Islands
+504,1045,BASIC,11,Non-BASIC,MOZ,Mozambique
+474,1045,BASIC,11,Non-BASIC,MRT,Mauritania
+499,1045,BASIC,11,Non-BASIC,MSR,Montserrat
+584,1045,BASIC,11,Non-BASIC,MTQ,Martinique
+478,1045,BASIC,11,Non-BASIC,MUS,Mauritius
+450,1045,BASIC,11,Non-BASIC,MWI,Malawi
+454,1045,BASIC,11,Non-BASIC,MYS,Malaysia
+480,1045,BASIC,11,Non-BASIC,MYT,Mayotte
+104,1045,BASIC,11,Non-BASIC,NAM,Namibia
+530,1045,BASIC,11,Non-BASIC,NCL,New Caledonia
+558,1045,BASIC,11,Non-BASIC,NER,Niger
+570,1045,BASIC,11,Non-BASIC,NFK,Norfolk Island
+562,1045,BASIC,11,Non-BASIC,NGA,Nigeria
+554,1045,BASIC,11,Non-BASIC,NIC,Nicaragua
+566,1045,BASIC,11,Non-BASIC,NIU,Niue
+524,1045,BASIC,11,Non-BASIC,NLD,Netherlands
+580,1045,BASIC,11,Non-BASIC,NOR,Norway
+520,1045,BASIC,11,Non-BASIC,NPL,Nepal
+516,1045,BASIC,11,Non-BASIC,NRU,Nauru
+540,1045,BASIC,11,Non-BASIC,NZL,New Zealand
+275,1045,BASIC,11,Non-BASIC,OMN,Oman
+512,1045,BASIC,11,Non-BASIC,PAK,Pakistan
+585,1045,BASIC,11,Non-BASIC,PAN,Panama
+608,1045,BASIC,11,Non-BASIC,PCN,Pitcairn
+600,1045,BASIC,11,Non-BASIC,PER,Peru
+604,1045,BASIC,11,Non-BASIC,PHL,Philippines
+586,1045,BASIC,11,Non-BASIC,PLW,Palau
+591,1045,BASIC,11,Non-BASIC,PNG,Papua New Guinea
+612,1045,BASIC,11,Non-BASIC,POL,Poland
+620,1045,BASIC,11,Non-BASIC,PRI,Puerto Rico
+203,1045,BASIC,11,Non-BASIC,PRK,North Korea
+616,1045,BASIC,11,Non-BASIC,PRT,Portugal
+598,1045,BASIC,11,Non-BASIC,PRY,Paraguay
+578,1045,BASIC,11,Non-BASIC,PSE,Gaza Strip
+254,1045,BASIC,11,Non-BASIC,PYF,French Polynesia
+630,1045,BASIC,11,Non-BASIC,QAT,Qatar
+498,1045,BASIC,11,Non-BASIC,REU,Réunion
+638,1045,BASIC,11,Non-BASIC,ROU,Romania
+1,1045,BASIC,11,Non-BASIC,ROW,Statistical Discrepancies
+642,1045,BASIC,11,Non-BASIC,RUS,Russia
+643,1045,BASIC,11,Non-BASIC,RWA,Rwanda
+678,1045,BASIC,11,Non-BASIC,SAU,Saudi Arabia
+144,1045,BASIC,11,Non-BASIC,SDN,Sudan
+828,1045,BASIC,11,Non-BASIC,SDS,South Sudan
+682,1045,BASIC,11,Non-BASIC,SEN,Senegal
+694,1045,BASIC,11,Non-BASIC,SGP,Singapore
+652,1045,BASIC,11,Non-BASIC,SHN,Saint Helena
+740,1045,BASIC,11,Non-BASIC,SJM,Svalbard and Jan Mayen Islands
+705,1045,BASIC,11,Non-BASIC,SLB,Solomon Islands
+690,1045,BASIC,11,Non-BASIC,SLE,Sierra Leone
+818,1045,BASIC,11,Non-BASIC,SLV,El Salvador
+882,1045,BASIC,11,Non-BASIC,SMR,San Marino
+90,1045,BASIC,11,Non-BASIC,SOM,Somalia
+663,1045,BASIC,11,Non-BASIC,SPM,Saint Pierre and Miquelon
+686,1045,BASIC,11,Non-BASIC,SRB,Serbia
+674,1045,BASIC,11,Non-BASIC,STP,Sao Tome and Principe
+729,1045,BASIC,11,Non-BASIC,SUD,Sudan
+736,1045,BASIC,11,Non-BASIC,SUR,Suriname
+702,1045,BASIC,11,Non-BASIC,SVK,Slovakia
+703,1045,BASIC,11,Non-BASIC,SVN,Slovenia
+748,1045,BASIC,11,Non-BASIC,SWE,Sweden
+744,1045,BASIC,11,Non-BASIC,SWZ,Swaziland
+688,1045,BASIC,11,Non-BASIC,SYC,Seychelles
+756,1045,BASIC,11,Non-BASIC,SYR,Syria
+795,1045,BASIC,11,Non-BASIC,TCA,Turks and Caicos Islands
+148,1045,BASIC,11,Non-BASIC,TCD,Chad
+626,1045,BASIC,11,Non-BASIC,TGO,Togo
+762,1045,BASIC,11,Non-BASIC,THA,Thailand
+760,1045,BASIC,11,Non-BASIC,TJK,Tajikistan
+768,1045,BASIC,11,Non-BASIC,TKL,Tokelau
+792,1045,BASIC,11,Non-BASIC,TKM,Turkmenistan
+807,1045,BASIC,11,Non-BASIC,TLS,Timor-Leste
+772,1045,BASIC,11,Non-BASIC,TON,Tonga
+776,1045,BASIC,11,Non-BASIC,TTO,Trinidad and Tobago
+780,1045,BASIC,11,Non-BASIC,TUN,Tunisia
+788,1045,BASIC,11,Non-BASIC,TUR,Turkey
+796,1045,BASIC,11,Non-BASIC,TUV,Tuvalu
+158,1045,BASIC,11,Non-BASIC,TWN,Taiwan
+826,1045,BASIC,11,Non-BASIC,TZA,Tanzania
+896,1045,BASIC,11,Non-BASIC,TZM,Tanzania
+798,1045,BASIC,11,Non-BASIC,UGA,Uganda
+800,1045,BASIC,11,Non-BASIC,UKR,Ukraine
+850,1045,BASIC,11,Non-BASIC,URY,Uruguay
+834,1045,BASIC,11,Non-BASIC,USA,USA
+810,1045,BASIC,11,Non-BASIC,USR,Former USSR
+858,1045,BASIC,11,Non-BASIC,UZB,Uzbekistan
+332,1045,BASIC,11,Non-BASIC,VAT,Holy See
+666,1045,BASIC,11,Non-BASIC,VCT,Saint Vincent and the Grenadines
+548,1045,BASIC,11,Non-BASIC,VEN,Venezuela
+92,1045,BASIC,11,Non-BASIC,VGB,British Virgin Islands
+840,1045,BASIC,11,Non-BASIC,VIR,US Virgin Islands
+862,1045,BASIC,11,Non-BASIC,VNM,Viet Nam
+860,1045,BASIC,11,Non-BASIC,VUT,Vanuatu
+704,1045,BASIC,11,Non-BASIC,WLF,Wallis and Futuna Islands
+670,1045,BASIC,11,Non-BASIC,WSM,Samoa
+732,1045,BASIC,11,Non-BASIC,YEM,Yemen
+887,1045,BASIC,11,Non-BASIC,ZMB,Zambia
+894,1045,BASIC,11,Non-BASIC,ZWE,Zimbabwe
+76,1046,BRICS,12,BRICS,BRA,Brazil
+152,1046,BRICS,12,BRICS,CHN,China
+352,1046,BRICS,12,BRICS,IND,India
+642,1046,BRICS,12,BRICS,RUS,Russia
+810,1046,BRICS,12,BRICS,USR,Former USSR
+706,1046,BRICS,12,BRICS,ZAF,South Africa
+533,1047,BRICS,12,Non-BRICS,ABW,Aruba
+4,1047,BRICS,12,Non-BRICS,AFG,Afghanistan
+24,1047,BRICS,12,Non-BRICS,AGO,Angola
+660,1047,BRICS,12,Non-BRICS,AIA,Anguilla
+248,1047,BRICS,12,Non-BRICS,ALA,Aland Islands
+8,1047,BRICS,12,Non-BRICS,ALB,Albania
+20,1047,BRICS,12,Non-BRICS,AND,Andorra
+528,1047,BRICS,12,Non-BRICS,ANT,Netherlands Antilles
+804,1047,BRICS,12,Non-BRICS,ARE,UAE
+32,1047,BRICS,12,Non-BRICS,ARG,Argentina
+51,1047,BRICS,12,Non-BRICS,ARM,Armenia
+16,1047,BRICS,12,Non-BRICS,ASM,American Samoa
+28,1047,BRICS,12,Non-BRICS,ATG,Antigua
+36,1047,BRICS,12,Non-BRICS,AUS,Australia
+40,1047,BRICS,12,Non-BRICS,AUT,Austria
+31,1047,BRICS,12,Non-BRICS,AZE,Azerbaijan
+108,1047,BRICS,12,Non-BRICS,BDI,Burundi
+56,1047,BRICS,12,Non-BRICS,BEL,Belgium
+204,1047,BRICS,12,Non-BRICS,BEN,Benin
+854,1047,BRICS,12,Non-BRICS,BFA,Burkina Faso
+50,1047,BRICS,12,Non-BRICS,BGD,Bangladesh
+100,1047,BRICS,12,Non-BRICS,BGR,Bulgaria
+48,1047,BRICS,12,Non-BRICS,BHR,Bahrain
+44,1047,BRICS,12,Non-BRICS,BHS,Bahamas
+70,1047,BRICS,12,Non-BRICS,BIH,Bosnia and Herzegovina
+646,1047,BRICS,12,Non-BRICS,BLM,Saint-Barthelemy
+112,1047,BRICS,12,Non-BRICS,BLR,Belarus
+84,1047,BRICS,12,Non-BRICS,BLZ,Belize
+60,1047,BRICS,12,Non-BRICS,BMU,Bermuda
+68,1047,BRICS,12,Non-BRICS,BOL,Bolivia
+52,1047,BRICS,12,Non-BRICS,BRB,Barbados
+96,1047,BRICS,12,Non-BRICS,BRN,Brunei
+64,1047,BRICS,12,Non-BRICS,BTN,Bhutan
+72,1047,BRICS,12,Non-BRICS,BWA,Botswana
+140,1047,BRICS,12,Non-BRICS,CAF,Central African Republic
+124,1047,BRICS,12,Non-BRICS,CAN,Canada
+752,1047,BRICS,12,Non-BRICS,CHE,Switzerland
+830,1047,BRICS,12,Non-BRICS,CHL,Chile
+188,1047,BRICS,12,Non-BRICS,CIV,Cote dIvoire
+120,1047,BRICS,12,Non-BRICS,CMR,Cameroon
+408,1047,BRICS,12,Non-BRICS,COD,DR Congo
+174,1047,BRICS,12,Non-BRICS,COG,Congo
+178,1047,BRICS,12,Non-BRICS,COK,Cook Islands
+446,1047,BRICS,12,Non-BRICS,COL,Colombia
+170,1047,BRICS,12,Non-BRICS,COM,Comoros
+132,1047,BRICS,12,Non-BRICS,CPV,Cape Verde
+184,1047,BRICS,12,Non-BRICS,CRI,Costa Rica
+191,1047,BRICS,12,Non-BRICS,CUB,Cuba
+136,1047,BRICS,12,Non-BRICS,CYM,Cayman Islands
+192,1047,BRICS,12,Non-BRICS,CYP,Cyprus
+196,1047,BRICS,12,Non-BRICS,CZE,Czech Republic
+268,1047,BRICS,12,Non-BRICS,DEU,Germany
+208,1047,BRICS,12,Non-BRICS,DJI,Djibouti
+262,1047,BRICS,12,Non-BRICS,DMA,Dominica
+180,1047,BRICS,12,Non-BRICS,DNK,Denmark
+212,1047,BRICS,12,Non-BRICS,DOM,Dominican Republic
+12,1047,BRICS,12,Non-BRICS,DZA,Algeria
+214,1047,BRICS,12,Non-BRICS,ECU,Ecuador
+218,1047,BRICS,12,Non-BRICS,EGY,Egypt
+226,1047,BRICS,12,Non-BRICS,ERI,Eritrea
+876,1047,BRICS,12,Non-BRICS,ESH,Western Sahara
+710,1047,BRICS,12,Non-BRICS,ESP,Spain
+232,1047,BRICS,12,Non-BRICS,EST,Estonia
+233,1047,BRICS,12,Non-BRICS,ETH,Ethiopia
+242,1047,BRICS,12,Non-BRICS,FIN,Finland
+238,1047,BRICS,12,Non-BRICS,FJI,Fiji
+234,1047,BRICS,12,Non-BRICS,FLK,Falkland Islands
+246,1047,BRICS,12,Non-BRICS,FRA,France
+231,1047,BRICS,12,Non-BRICS,FRO,Faeroe Islands
+484,1047,BRICS,12,Non-BRICS,FSM,Micronesia
+258,1047,BRICS,12,Non-BRICS,GAB,Gabon
+784,1047,BRICS,12,Non-BRICS,GBR,UK
+270,1047,BRICS,12,Non-BRICS,GEO,Georgia
+320,1047,BRICS,12,Non-BRICS,GGY,Guernsey
+276,1047,BRICS,12,Non-BRICS,GHA,Ghana
+288,1047,BRICS,12,Non-BRICS,GIB,Gibraltar
+831,1047,BRICS,12,Non-BRICS,GIN,Guinea
+308,1047,BRICS,12,Non-BRICS,GLP,Guadeloupe
+266,1047,BRICS,12,Non-BRICS,GMB,Gambia
+324,1047,BRICS,12,Non-BRICS,GNB,Guinea-Bissau
+222,1047,BRICS,12,Non-BRICS,GNQ,Equatorial Guinea
+292,1047,BRICS,12,Non-BRICS,GRC,Greece
+304,1047,BRICS,12,Non-BRICS,GRD,Grenada
+300,1047,BRICS,12,Non-BRICS,GRL,Greenland
+316,1047,BRICS,12,Non-BRICS,GTM,Guatemala
+250,1047,BRICS,12,Non-BRICS,GUF,French Guiana
+312,1047,BRICS,12,Non-BRICS,GUM,Guam
+624,1047,BRICS,12,Non-BRICS,GUY,Guyana
+156,1047,BRICS,12,Non-BRICS,HKG,Hong Kong
+336,1047,BRICS,12,Non-BRICS,HND,Honduras
+384,1047,BRICS,12,Non-BRICS,HRV,Croatia
+328,1047,BRICS,12,Non-BRICS,HTI,Haiti
+340,1047,BRICS,12,Non-BRICS,HUN,Hungary
+356,1047,BRICS,12,Non-BRICS,IDN,Indonesia
+372,1047,BRICS,12,Non-BRICS,IMN,Isle of Man
+368,1047,BRICS,12,Non-BRICS,IRL,Ireland
+360,1047,BRICS,12,Non-BRICS,IRN,Iran
+364,1047,BRICS,12,Non-BRICS,IRQ,Iraq
+348,1047,BRICS,12,Non-BRICS,ISL,Iceland
+833,1047,BRICS,12,Non-BRICS,ISR,Israel
+376,1047,BRICS,12,Non-BRICS,ITA,Italy
+380,1047,BRICS,12,Non-BRICS,JAM,Jamaica
+392,1047,BRICS,12,Non-BRICS,JEY,Jersey
+832,1047,BRICS,12,Non-BRICS,JOR,Jordan
+388,1047,BRICS,12,Non-BRICS,JPN,Japan
+400,1047,BRICS,12,Non-BRICS,KAZ,Kazakhstan
+398,1047,BRICS,12,Non-BRICS,KEN,Kenya
+414,1047,BRICS,12,Non-BRICS,KGZ,Kyrgyzstan
+116,1047,BRICS,12,Non-BRICS,KHM,Cambodia
+404,1047,BRICS,12,Non-BRICS,KIR,Kiribati
+654,1047,BRICS,12,Non-BRICS,KNA,Saint Kitts and Nevis
+634,1047,BRICS,12,Non-BRICS,KOR,South Korea
+895,1047,BRICS,12,Non-BRICS,KSV,Kosovo
+296,1047,BRICS,12,Non-BRICS,KWT,Kuwait
+417,1047,BRICS,12,Non-BRICS,LAO,Laos
+428,1047,BRICS,12,Non-BRICS,LBN,Lebanon
+426,1047,BRICS,12,Non-BRICS,LBR,Liberia
+430,1047,BRICS,12,Non-BRICS,LBY,Libya
+659,1047,BRICS,12,Non-BRICS,LCA,Saint Lucia
+434,1047,BRICS,12,Non-BRICS,LIE,Liechtenstein
+724,1047,BRICS,12,Non-BRICS,LKA,Sri Lanka
+422,1047,BRICS,12,Non-BRICS,LSO,Lesotho
+438,1047,BRICS,12,Non-BRICS,LTU,Lithuania
+440,1047,BRICS,12,Non-BRICS,LUX,Luxembourg
+418,1047,BRICS,12,Non-BRICS,LVA,Latvia
+344,1047,BRICS,12,Non-BRICS,MAC,Macao SAR
+662,1047,BRICS,12,Non-BRICS,MAF,Saint-Martin (French part)
+500,1047,BRICS,12,Non-BRICS,MAR,Morocco
+583,1047,BRICS,12,Non-BRICS,MCO,Monaco
+410,1047,BRICS,12,Non-BRICS,MDA,Moldova
+442,1047,BRICS,12,Non-BRICS,MDG,Madagascar
+458,1047,BRICS,12,Non-BRICS,MDV,Maldives
+175,1047,BRICS,12,Non-BRICS,MEX,Mexico
+470,1047,BRICS,12,Non-BRICS,MHL,Marshall Islands
+764,1047,BRICS,12,Non-BRICS,MKD,TFYR Macedonia
+462,1047,BRICS,12,Non-BRICS,MLI,Mali
+466,1047,BRICS,12,Non-BRICS,MLT,Malta
+508,1047,BRICS,12,Non-BRICS,MMR,Myanmar
+496,1047,BRICS,12,Non-BRICS,MNE,Montenegro
+492,1047,BRICS,12,Non-BRICS,MNG,Mongolia
+574,1047,BRICS,12,Non-BRICS,MNP,Northern Mariana Islands
+504,1047,BRICS,12,Non-BRICS,MOZ,Mozambique
+474,1047,BRICS,12,Non-BRICS,MRT,Mauritania
+499,1047,BRICS,12,Non-BRICS,MSR,Montserrat
+584,1047,BRICS,12,Non-BRICS,MTQ,Martinique
+478,1047,BRICS,12,Non-BRICS,MUS,Mauritius
+450,1047,BRICS,12,Non-BRICS,MWI,Malawi
+454,1047,BRICS,12,Non-BRICS,MYS,Malaysia
+480,1047,BRICS,12,Non-BRICS,MYT,Mayotte
+104,1047,BRICS,12,Non-BRICS,NAM,Namibia
+530,1047,BRICS,12,Non-BRICS,NCL,New Caledonia
+558,1047,BRICS,12,Non-BRICS,NER,Niger
+570,1047,BRICS,12,Non-BRICS,NFK,Norfolk Island
+562,1047,BRICS,12,Non-BRICS,NGA,Nigeria
+554,1047,BRICS,12,Non-BRICS,NIC,Nicaragua
+566,1047,BRICS,12,Non-BRICS,NIU,Niue
+524,1047,BRICS,12,Non-BRICS,NLD,Netherlands
+580,1047,BRICS,12,Non-BRICS,NOR,Norway
+520,1047,BRICS,12,Non-BRICS,NPL,Nepal
+516,1047,BRICS,12,Non-BRICS,NRU,Nauru
+540,1047,BRICS,12,Non-BRICS,NZL,New Zealand
+275,1047,BRICS,12,Non-BRICS,OMN,Oman
+512,1047,BRICS,12,Non-BRICS,PAK,Pakistan
+585,1047,BRICS,12,Non-BRICS,PAN,Panama
+608,1047,BRICS,12,Non-BRICS,PCN,Pitcairn
+600,1047,BRICS,12,Non-BRICS,PER,Peru
+604,1047,BRICS,12,Non-BRICS,PHL,Philippines
+586,1047,BRICS,12,Non-BRICS,PLW,Palau
+591,1047,BRICS,12,Non-BRICS,PNG,Papua New Guinea
+612,1047,BRICS,12,Non-BRICS,POL,Poland
+620,1047,BRICS,12,Non-BRICS,PRI,Puerto Rico
+203,1047,BRICS,12,Non-BRICS,PRK,North Korea
+616,1047,BRICS,12,Non-BRICS,PRT,Portugal
+598,1047,BRICS,12,Non-BRICS,PRY,Paraguay
+578,1047,BRICS,12,Non-BRICS,PSE,Gaza Strip
+254,1047,BRICS,12,Non-BRICS,PYF,French Polynesia
+630,1047,BRICS,12,Non-BRICS,QAT,Qatar
+498,1047,BRICS,12,Non-BRICS,REU,Réunion
+638,1047,BRICS,12,Non-BRICS,ROU,Romania
+1,1047,BRICS,12,Non-BRICS,ROW,Statistical Discrepancies
+643,1047,BRICS,12,Non-BRICS,RWA,Rwanda
+678,1047,BRICS,12,Non-BRICS,SAU,Saudi Arabia
+144,1047,BRICS,12,Non-BRICS,SDN,Sudan
+828,1047,BRICS,12,Non-BRICS,SDS,South Sudan
+682,1047,BRICS,12,Non-BRICS,SEN,Senegal
+694,1047,BRICS,12,Non-BRICS,SGP,Singapore
+652,1047,BRICS,12,Non-BRICS,SHN,Saint Helena
+740,1047,BRICS,12,Non-BRICS,SJM,Svalbard and Jan Mayen Islands
+705,1047,BRICS,12,Non-BRICS,SLB,Solomon Islands
+690,1047,BRICS,12,Non-BRICS,SLE,Sierra Leone
+818,1047,BRICS,12,Non-BRICS,SLV,El Salvador
+882,1047,BRICS,12,Non-BRICS,SMR,San Marino
+90,1047,BRICS,12,Non-BRICS,SOM,Somalia
+663,1047,BRICS,12,Non-BRICS,SPM,Saint Pierre and Miquelon
+686,1047,BRICS,12,Non-BRICS,SRB,Serbia
+674,1047,BRICS,12,Non-BRICS,STP,Sao Tome and Principe
+729,1047,BRICS,12,Non-BRICS,SUD,Sudan
+736,1047,BRICS,12,Non-BRICS,SUR,Suriname
+702,1047,BRICS,12,Non-BRICS,SVK,Slovakia
+703,1047,BRICS,12,Non-BRICS,SVN,Slovenia
+748,1047,BRICS,12,Non-BRICS,SWE,Sweden
+744,1047,BRICS,12,Non-BRICS,SWZ,Swaziland
+688,1047,BRICS,12,Non-BRICS,SYC,Seychelles
+756,1047,BRICS,12,Non-BRICS,SYR,Syria
+795,1047,BRICS,12,Non-BRICS,TCA,Turks and Caicos Islands
+148,1047,BRICS,12,Non-BRICS,TCD,Chad
+626,1047,BRICS,12,Non-BRICS,TGO,Togo
+762,1047,BRICS,12,Non-BRICS,THA,Thailand
+760,1047,BRICS,12,Non-BRICS,TJK,Tajikistan
+768,1047,BRICS,12,Non-BRICS,TKL,Tokelau
+792,1047,BRICS,12,Non-BRICS,TKM,Turkmenistan
+807,1047,BRICS,12,Non-BRICS,TLS,Timor-Leste
+772,1047,BRICS,12,Non-BRICS,TON,Tonga
+776,1047,BRICS,12,Non-BRICS,TTO,Trinidad and Tobago
+780,1047,BRICS,12,Non-BRICS,TUN,Tunisia
+788,1047,BRICS,12,Non-BRICS,TUR,Turkey
+796,1047,BRICS,12,Non-BRICS,TUV,Tuvalu
+158,1047,BRICS,12,Non-BRICS,TWN,Taiwan
+826,1047,BRICS,12,Non-BRICS,TZA,Tanzania
+896,1047,BRICS,12,Non-BRICS,TZM,Tanzania
+798,1047,BRICS,12,Non-BRICS,UGA,Uganda
+800,1047,BRICS,12,Non-BRICS,UKR,Ukraine
+850,1047,BRICS,12,Non-BRICS,URY,Uruguay
+834,1047,BRICS,12,Non-BRICS,USA,USA
+858,1047,BRICS,12,Non-BRICS,UZB,Uzbekistan
+332,1047,BRICS,12,Non-BRICS,VAT,Holy See
+666,1047,BRICS,12,Non-BRICS,VCT,Saint Vincent and the Grenadines
+548,1047,BRICS,12,Non-BRICS,VEN,Venezuela
+92,1047,BRICS,12,Non-BRICS,VGB,British Virgin Islands
+840,1047,BRICS,12,Non-BRICS,VIR,US Virgin Islands
+862,1047,BRICS,12,Non-BRICS,VNM,Viet Nam
+860,1047,BRICS,12,Non-BRICS,VUT,Vanuatu
+704,1047,BRICS,12,Non-BRICS,WLF,Wallis and Futuna Islands
+670,1047,BRICS,12,Non-BRICS,WSM,Samoa
+732,1047,BRICS,12,Non-BRICS,YEM,Yemen
+887,1047,BRICS,12,Non-BRICS,ZMB,Zambia
+894,1047,BRICS,12,Non-BRICS,ZWE,Zimbabwe
+834,1101,US,13,US,USA,USA
+100,1130,EU12,14,EU12,BGR,Bulgaria
+196,1130,EU12,14,EU12,CZE,Czech Republic
+232,1130,EU12,14,EU12,EST,Estonia
+192,1130,EU12,14,EU12,CYP,Cyprus
+340,1130,EU12,14,EU12,HUN,Hungary
+438,1130,EU12,14,EU12,LTU,Lithuania
+418,1130,EU12,14,EU12,LVA,Latvia
+466,1130,EU12,14,EU12,MLT,Malta
+612,1130,EU12,14,EU12,POL,Poland
+638,1130,EU12,14,EU12,ROU,Romania
+702,1130,EU12,14,EU12,SVK,Slovakia
+703,1130,EU12,14,EU12,SVN,Slovenia
+268,1102,Germany,15,Germany,DEU,Germany
+246,1103,France,16,France,FRA,France
+152,1104,China,17,China,CHN,China
+352,1105,India,18,India,IND,India
+175,1106,Mexico,19,Mexico,MEX,Mexico
+76,1107,Brazil,20,Brazil,BRA,Brazil
+642,1108,Russia,21,Russia,RUS,Russia
+784,1109,UK,22,UK,GBR,UK
+388,1110,Japan,23,Japan,JPN,Japan
+36,1111,Australia,24,Australia,AUS,Australia
+124,1112,Canada,25,Canada,CAN,Canada
+706,1113,South Africa,26,South Africa,ZAF,South Africa
+40,1114,EU28,27,EU28,AUT,Austria
+56,1114,EU28,27,EU28,BEL,Belgium
+100,1114,EU28,27,EU28,BGR,Bulgaria
+196,1114,EU28,27,EU28,CZE,Czech Republic
+268,1114,EU28,27,EU28,DEU,Germany
+180,1114,EU28,27,EU28,DNK,Denmark
+710,1114,EU28,27,EU28,ESP,Spain
+232,1114,EU28,27,EU28,EST,Estonia
+242,1114,EU28,27,EU28,FIN,Finland
+246,1114,EU28,27,EU28,FRA,France
+784,1114,EU28,27,EU28,GBR,UK
+292,1114,EU28,27,EU28,GRC,Greece
+384,1114,EU28,27,EU28,HRV,Croatia
+340,1114,EU28,27,EU28,HUN,Hungary
+368,1114,EU28,27,EU28,IRL,Ireland
+376,1114,EU28,27,EU28,ITA,Italy
+438,1114,EU28,27,EU28,LTU,Lithuania
+440,1114,EU28,27,EU28,LUX,Luxembourg
+418,1114,EU28,27,EU28,LVA,Latvia
+466,1114,EU28,27,EU28,MLT,Malta
+524,1114,EU28,27,EU28,NLD,Netherlands
+612,1114,EU28,27,EU28,POL,Poland
+616,1114,EU28,27,EU28,PRT,Portugal
+638,1114,EU28,27,EU28,ROU,Romania
+702,1114,EU28,27,EU28,SVK,Slovakia
+703,1114,EU28,27,EU28,SVN,Slovenia
+748,1114,EU28,27,EU28,SWE,Sweden
+533,1115,EU28,27,Non-EU28,ABW,Aruba
+4,1115,EU28,27,Non-EU28,AFG,Afghanistan
+24,1115,EU28,27,Non-EU28,AGO,Angola
+660,1115,EU28,27,Non-EU28,AIA,Anguilla
+248,1115,EU28,27,Non-EU28,ALA,Aland Islands
+8,1115,EU28,27,Non-EU28,ALB,Albania
+20,1115,EU28,27,Non-EU28,AND,Andorra
+528,1115,EU28,27,Non-EU28,ANT,Netherlands Antilles
+804,1115,EU28,27,Non-EU28,ARE,UAE
+32,1115,EU28,27,Non-EU28,ARG,Argentina
+51,1115,EU28,27,Non-EU28,ARM,Armenia
+16,1115,EU28,27,Non-EU28,ASM,American Samoa
+28,1115,EU28,27,Non-EU28,ATG,Antigua
+36,1115,EU28,27,Non-EU28,AUS,Australia
+31,1115,EU28,27,Non-EU28,AZE,Azerbaijan
+108,1115,EU28,27,Non-EU28,BDI,Burundi
+204,1115,EU28,27,Non-EU28,BEN,Benin
+854,1115,EU28,27,Non-EU28,BFA,Burkina Faso
+50,1115,EU28,27,Non-EU28,BGD,Bangladesh
+48,1115,EU28,27,Non-EU28,BHR,Bahrain
+44,1115,EU28,27,Non-EU28,BHS,Bahamas
+70,1115,EU28,27,Non-EU28,BIH,Bosnia and Herzegovina
+646,1115,EU28,27,Non-EU28,BLM,Saint-Barthelemy
+112,1115,EU28,27,Non-EU28,BLR,Belarus
+84,1115,EU28,27,Non-EU28,BLZ,Belize
+60,1115,EU28,27,Non-EU28,BMU,Bermuda
+68,1115,EU28,27,Non-EU28,BOL,Bolivia
+76,1115,EU28,27,Non-EU28,BRA,Brazil
+52,1115,EU28,27,Non-EU28,BRB,Barbados
+96,1115,EU28,27,Non-EU28,BRN,Brunei
+64,1115,EU28,27,Non-EU28,BTN,Bhutan
+72,1115,EU28,27,Non-EU28,BWA,Botswana
+140,1115,EU28,27,Non-EU28,CAF,Central African Republic
+124,1115,EU28,27,Non-EU28,CAN,Canada
+752,1115,EU28,27,Non-EU28,CHE,Switzerland
+830,1115,EU28,27,Non-EU28,CHL,Chile
+152,1115,EU28,27,Non-EU28,CHN,China
+188,1115,EU28,27,Non-EU28,CIV,Cote dIvoire
+120,1115,EU28,27,Non-EU28,CMR,Cameroon
+408,1115,EU28,27,Non-EU28,COD,DR Congo
+174,1115,EU28,27,Non-EU28,COG,Congo
+178,1115,EU28,27,Non-EU28,COK,Cook Islands
+446,1115,EU28,27,Non-EU28,COL,Colombia
+170,1115,EU28,27,Non-EU28,COM,Comoros
+132,1115,EU28,27,Non-EU28,CPV,Cape Verde
+184,1115,EU28,27,Non-EU28,CRI,Costa Rica
+191,1115,EU28,27,Non-EU28,CUB,Cuba
+136,1115,EU28,27,Non-EU28,CYM,Cayman Islands
+192,1114,EU28,27,EU28,CYP,Cyprus
+208,1115,EU28,27,Non-EU28,DJI,Djibouti
+262,1115,EU28,27,Non-EU28,DMA,Dominica
+212,1115,EU28,27,Non-EU28,DOM,Dominican Republic
+12,1115,EU28,27,Non-EU28,DZA,Algeria
+214,1115,EU28,27,Non-EU28,ECU,Ecuador
+218,1115,EU28,27,Non-EU28,EGY,Egypt
+226,1115,EU28,27,Non-EU28,ERI,Eritrea
+876,1115,EU28,27,Non-EU28,ESH,Western Sahara
+233,1115,EU28,27,Non-EU28,ETH,Ethiopia
+238,1115,EU28,27,Non-EU28,FJI,Fiji
+234,1115,EU28,27,Non-EU28,FLK,Falkland Islands
+231,1115,EU28,27,Non-EU28,FRO,Faeroe Islands
+484,1115,EU28,27,Non-EU28,FSM,Micronesia
+258,1115,EU28,27,Non-EU28,GAB,Gabon
+270,1115,EU28,27,Non-EU28,GEO,Georgia
+320,1115,EU28,27,Non-EU28,GGY,Guernsey
+276,1115,EU28,27,Non-EU28,GHA,Ghana
+288,1115,EU28,27,Non-EU28,GIB,Gibraltar
+831,1115,EU28,27,Non-EU28,GIN,Guinea
+308,1115,EU28,27,Non-EU28,GLP,Guadeloupe
+266,1115,EU28,27,Non-EU28,GMB,Gambia
+324,1115,EU28,27,Non-EU28,GNB,Guinea-Bissau
+222,1115,EU28,27,Non-EU28,GNQ,Equatorial Guinea
+304,1115,EU28,27,Non-EU28,GRD,Grenada
+300,1115,EU28,27,Non-EU28,GRL,Greenland
+316,1115,EU28,27,Non-EU28,GTM,Guatemala
+250,1115,EU28,27,Non-EU28,GUF,French Guiana
+312,1115,EU28,27,Non-EU28,GUM,Guam
+624,1115,EU28,27,Non-EU28,GUY,Guyana
+156,1115,EU28,27,Non-EU28,HKG,Hong Kong
+336,1115,EU28,27,Non-EU28,HND,Honduras
+328,1115,EU28,27,Non-EU28,HTI,Haiti
+356,1115,EU28,27,Non-EU28,IDN,Indonesia
+372,1115,EU28,27,Non-EU28,IMN,Isle of Man
+352,1115,EU28,27,Non-EU28,IND,India
+360,1115,EU28,27,Non-EU28,IRN,Iran
+364,1115,EU28,27,Non-EU28,IRQ,Iraq
+348,1115,EU28,27,Non-EU28,ISL,Iceland
+833,1115,EU28,27,Non-EU28,ISR,Israel
+380,1115,EU28,27,Non-EU28,JAM,Jamaica
+392,1115,EU28,27,Non-EU28,JEY,Jersey
+832,1115,EU28,27,Non-EU28,JOR,Jordan
+388,1115,EU28,27,Non-EU28,JPN,Japan
+400,1115,EU28,27,Non-EU28,KAZ,Kazakhstan
+398,1115,EU28,27,Non-EU28,KEN,Kenya
+414,1115,EU28,27,Non-EU28,KGZ,Kyrgyzstan
+116,1115,EU28,27,Non-EU28,KHM,Cambodia
+404,1115,EU28,27,Non-EU28,KIR,Kiribati
+654,1115,EU28,27,Non-EU28,KNA,Saint Kitts and Nevis
+634,1115,EU28,27,Non-EU28,KOR,South Korea
+296,1115,EU28,27,Non-EU28,KWT,Kuwait
+417,1115,EU28,27,Non-EU28,LAO,Laos
+428,1115,EU28,27,Non-EU28,LBN,Lebanon
+426,1115,EU28,27,Non-EU28,LBR,Liberia
+430,1115,EU28,27,Non-EU28,LBY,Libya
+659,1115,EU28,27,Non-EU28,LCA,Saint Lucia
+434,1115,EU28,27,Non-EU28,LIE,Liechtenstein
+724,1115,EU28,27,Non-EU28,LKA,Sri Lanka
+422,1115,EU28,27,Non-EU28,LSO,Lesotho
+344,1115,EU28,27,Non-EU28,MAC,Macao SAR
+662,1115,EU28,27,Non-EU28,MAF,Saint-Martin (French part)
+500,1115,EU28,27,Non-EU28,MAR,Morocco
+583,1115,EU28,27,Non-EU28,MCO,Monaco
+410,1115,EU28,27,Non-EU28,MDA,Moldova
+442,1115,EU28,27,Non-EU28,MDG,Madagascar
+458,1115,EU28,27,Non-EU28,MDV,Maldives
+175,1115,EU28,27,Non-EU28,MEX,Mexico
+470,1115,EU28,27,Non-EU28,MHL,Marshall Islands
+764,1115,EU28,27,Non-EU28,MKD,TFYR Macedonia
+462,1115,EU28,27,Non-EU28,MLI,Mali
+508,1115,EU28,27,Non-EU28,MMR,Myanmar
+496,1115,EU28,27,Non-EU28,MNE,Montenegro
+492,1115,EU28,27,Non-EU28,MNG,Mongolia
+574,1115,EU28,27,Non-EU28,MNP,Northern Mariana Islands
+504,1115,EU28,27,Non-EU28,MOZ,Mozambique
+474,1115,EU28,27,Non-EU28,MRT,Mauritania
+499,1115,EU28,27,Non-EU28,MSR,Montserrat
+584,1115,EU28,27,Non-EU28,MTQ,Martinique
+478,1115,EU28,27,Non-EU28,MUS,Mauritius
+450,1115,EU28,27,Non-EU28,MWI,Malawi
+454,1115,EU28,27,Non-EU28,MYS,Malaysia
+480,1115,EU28,27,Non-EU28,MYT,Mayotte
+104,1115,EU28,27,Non-EU28,NAM,Namibia
+530,1115,EU28,27,Non-EU28,NCL,New Caledonia
+558,1115,EU28,27,Non-EU28,NER,Niger
+570,1115,EU28,27,Non-EU28,NFK,Norfolk Island
+562,1115,EU28,27,Non-EU28,NGA,Nigeria
+554,1115,EU28,27,Non-EU28,NIC,Nicaragua
+566,1115,EU28,27,Non-EU28,NIU,Niue
+580,1115,EU28,27,Non-EU28,NOR,Norway
+520,1115,EU28,27,Non-EU28,NPL,Nepal
+516,1115,EU28,27,Non-EU28,NRU,Nauru
+540,1115,EU28,27,Non-EU28,NZL,New Zealand
+275,1115,EU28,27,Non-EU28,OMN,Oman
+512,1115,EU28,27,Non-EU28,PAK,Pakistan
+585,1115,EU28,27,Non-EU28,PAN,Panama
+608,1115,EU28,27,Non-EU28,PCN,Pitcairn
+600,1115,EU28,27,Non-EU28,PER,Peru
+604,1115,EU28,27,Non-EU28,PHL,Philippines
+586,1115,EU28,27,Non-EU28,PLW,Palau
+591,1115,EU28,27,Non-EU28,PNG,Papua New Guinea
+620,1115,EU28,27,Non-EU28,PRI,Puerto Rico
+203,1115,EU28,27,Non-EU28,PRK,North Korea
+598,1115,EU28,27,Non-EU28,PRY,Paraguay
+578,1115,EU28,27,Non-EU28,PSE,Gaza Strip
+254,1115,EU28,27,Non-EU28,PYF,French Polynesia
+630,1115,EU28,27,Non-EU28,QAT,Qatar
+498,1115,EU28,27,Non-EU28,REU,Réunion
+1,1115,EU28,27,Non-EU28,ROW,Statistical Discrepancies
+642,1115,EU28,27,Non-EU28,RUS,Russia
+643,1115,EU28,27,Non-EU28,RWA,Rwanda
+678,1115,EU28,27,Non-EU28,SAU,Saudi Arabia
+144,1115,EU28,27,Non-EU28,SDN,Sudan
+828,1115,EU28,27,Non-EU28,SDS,South Sudan
+999,1115,EU28,27,Non-EU28,SEA,Seaworld
+682,1115,EU28,27,Non-EU28,SEN,Senegal
+694,1115,EU28,27,Non-EU28,SGP,Singapore
+652,1115,EU28,27,Non-EU28,SHN,Saint Helena
+740,1115,EU28,27,Non-EU28,SJM,Svalbard and Jan Mayen Islands
+705,1115,EU28,27,Non-EU28,SLB,Solomon Islands
+690,1115,EU28,27,Non-EU28,SLE,Sierra Leone
+818,1115,EU28,27,Non-EU28,SLV,El Salvador
+882,1115,EU28,27,Non-EU28,SMR,San Marino
+90,1115,EU28,27,Non-EU28,SOM,Somalia
+663,1115,EU28,27,Non-EU28,SPM,Saint Pierre and Miquelon
+686,1115,EU28,27,Non-EU28,SRB,Serbia
+674,1115,EU28,27,Non-EU28,STP,Sao Tome and Principe
+729,1115,EU28,27,Non-EU28,SUD,Sudan
+736,1115,EU28,27,Non-EU28,SUR,Suriname
+744,1115,EU28,27,Non-EU28,SWZ,Swaziland
+688,1115,EU28,27,Non-EU28,SYC,Seychelles
+756,1115,EU28,27,Non-EU28,SYR,Syria
+795,1115,EU28,27,Non-EU28,TCA,Turks and Caicos Islands
+148,1115,EU28,27,Non-EU28,TCD,Chad
+626,1115,EU28,27,Non-EU28,TGO,Togo
+762,1115,EU28,27,Non-EU28,THA,Thailand
+760,1115,EU28,27,Non-EU28,TJK,Tajikistan
+768,1115,EU28,27,Non-EU28,TKL,Tokelau
+792,1115,EU28,27,Non-EU28,TKM,Turkmenistan
+807,1115,EU28,27,Non-EU28,TLS,Timor-Leste
+772,1115,EU28,27,Non-EU28,TON,Tonga
+776,1115,EU28,27,Non-EU28,TTO,Trinidad and Tobago
+780,1115,EU28,27,Non-EU28,TUN,Tunisia
+788,1115,EU28,27,Non-EU28,TUR,Turkey
+796,1115,EU28,27,Non-EU28,TUV,Tuvalu
+158,1115,EU28,27,Non-EU28,TWN,Taiwan
+826,1115,EU28,27,Non-EU28,TZA,Tanzania
+798,1115,EU28,27,Non-EU28,UGA,Uganda
+800,1115,EU28,27,Non-EU28,UKR,Ukraine
+850,1115,EU28,27,Non-EU28,URY,Uruguay
+834,1115,EU28,27,Non-EU28,USA,USA
+810,1115,EU28,27,Non-EU28,USR,Former USSR
+858,1115,EU28,27,Non-EU28,UZB,Uzbekistan
+332,1115,EU28,27,Non-EU28,VAT,Holy See
+666,1115,EU28,27,Non-EU28,VCT,Saint Vincent and the Grenadines
+548,1115,EU28,27,Non-EU28,VEN,Venezuela
+92,1115,EU28,27,Non-EU28,VGB,British Virgin Islands
+840,1115,EU28,27,Non-EU28,VIR,US Virgin Islands
+862,1115,EU28,27,Non-EU28,VNM,Viet Nam
+860,1115,EU28,27,Non-EU28,VUT,Vanuatu
+704,1115,EU28,27,Non-EU28,WLF,Wallis and Futuna Islands
+670,1115,EU28,27,Non-EU28,WSM,Samoa
+732,1115,EU28,27,Non-EU28,YEM,Yemen
+706,1115,EU28,27,Non-EU28,ZAF,South Africa
+887,1115,EU28,27,Non-EU28,ZMB,Zambia
+894,1115,EU28,27,Non-EU28,ZWE,Zimbabwe
