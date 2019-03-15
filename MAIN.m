@@ -1,4 +1,4 @@
-% Contents script for data on 
+or this % Contents script for data on 
 % Variation in trends of consumption based carbon accounts
 % Richard Wood , Daniel Moran, Konstantin Stadler
 
@@ -34,7 +34,7 @@ a4_write_stats
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %plot model results before and after indexing.
-a5_scatter_with_rsd_EU
+a5_fig_line_with_rsd
 
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

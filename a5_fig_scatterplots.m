@@ -8,8 +8,18 @@ clear figure
 fig = figure;
 ax = axes;
 
-year_select=logical(zeros(57,1));
-year_select(:)=1;
+% if you want to select a single year, do it here - note for these figures,
+% only years between 36 and 56 make sense (there are more than 2 model
+% observations)
+year_select=logical(zeros(57,1)); %init
+year_select(:)=1; % all years
+% year_select(56)=1; % one year
+%%%
+% if you want to select a single country, do it here - note for these figures,
+% only countries >9 are individual countries
+country_select=logical(zeros(1,70)); %init
+% country_select(:)=1; % all countries
+country_select(11)=1; % one country
 
 
 % transform representation to log form
@@ -26,6 +36,7 @@ plot_p_n=[struct_results.raw.p(regions.unique_country).n];
 %points
 filterx=(plot_norm_p_rsd)>=1e-5 & (plot_p_n>2);
 filterx(~year_select,:)=0;
+filterx(:,~country_select)=0;
 
 plot_p_y1=plot_norm_p_rsd(filterx);
 plot_p_x1=plot_p_mean(filterx);
@@ -40,6 +51,7 @@ plot_c_n=[struct_results.raw.c(regions.unique_country).n];
 
 filterx=(plot_c_rsd)>=1e-5 & (plot_c_n>2);
 filterx(~year_select,:)=0;
+filterx(:,~country_select)=0;
 plot_c_y2=plot_c_rsd(filterx);
 plot_c_x2=plot_c_mean(filterx);
 
@@ -93,15 +105,17 @@ set(gca, 'YScale', 'log')
 %points
 filterx=(plot_norm_p_rsd)>=1e-5 & (plot_p_n>2);
 filterx(~year_select,:)=0;
+filterx(:,~country_select)=0;
 plot_p_y3=plot_norm_p_rsd(filterx);
 plot_p_x3=plot_norm_p_mean(filterx);
 
-
+%CBCA values:
 plot_norm_c_rsd=[struct_results.norm.c(regions.unique_country).rsd];
 plot_norm_c_mean=[struct_results.norm.c(regions.unique_country).mean];
 
 filterx=(plot_norm_c_rsd)>=1e-5;
 filterx(~year_select,:)=0;
+filterx(:,~country_select)=0;
 plot_c_y4=plot_norm_c_rsd(filterx);
 plot_c_x4=plot_norm_c_mean(filterx);
 
@@ -123,11 +137,11 @@ h3=plot(10.^xspace,10.^(pY),'b')
 h4=plot(10.^xspace,10.^(cY),'r')
 h7=plot(10.^xspace,10.^pYnormalised,'b--')
 h8=plot(10.^xspace,10.^(cYnormalised),'r--')
+
+
 ylim([0.001,1])
-
-
-% ylim([0,0.6])
 xlim([1,max(plot_c_x2+2000)])
+
 hleg1=legend([{'PBCA (raw)'}',{'CBCA (raw)'},{'PBCA (normalised)'}',{'CBCA (normalised)'},...
 {'PBCA  (raw)'},{'CBCA (raw)'},{'PBCA (normalised)'},{'CBCA (normalised)'}])
 xlabel('CO_2 (Gg)')
