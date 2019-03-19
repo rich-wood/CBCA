@@ -19,7 +19,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear
-load('A2_All_model_results.mat')
+load('A2_regional_aggregates.mat')
 
 
 model_include=[1:5]; %define what models to include:
@@ -207,7 +207,7 @@ clear region_count tmp* end_year_indx start_year_indx reference_year_indx res_ha
     
 
 
-save('A3_TimeSeriesCalcs','meta','summmary_mean','tabular_results','struct_results')
+save('A3_normalised_results','meta','summmary_mean','tabular_results','struct_results')
 
 disp('finished')
 

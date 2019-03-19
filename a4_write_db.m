@@ -19,7 +19,7 @@
 clear 
 
 %load data:
-load('A3_TimeSeriesCalcs.mat') % 
+load('A3_normalised_results.mat') % 
 
 
 db_counter=0;

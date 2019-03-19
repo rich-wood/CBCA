@@ -1,7 +1,7 @@
 %Plot figure with all data points as a scatter plot
 
 
-load('A3_TimeSeriesCalcs.mat','struct_results','meta')
+load('A3_normalised_results.mat','struct_results','meta')
 
 
 clear figure

@@ -17,14 +17,15 @@ First draft for the readme
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Final data of interest:
+A3_normalised_results.mat &/or db.csv
 
 Final results (mean and measures of variation) are presented in 3 forms:
 
-1. Data structure (matlab file)
+1. Data structure (matlab file - A3_normalised_results.mat)
 
-2. Data table (matlab file)
+2. Data table (matlab file  - A3_normalised_results.mat)
 
-3. Database file (xlsx)
+3. Database file csv
 
 %%
 
@@ -57,7 +58,7 @@ Excludes the "all" struct (individual model results)
 
 
 
-3. Database file (xlsx)
+3. Database file csv
 As per structure, but with synonyms:
 'norm'='Normalised'
 'raw'='Raw'

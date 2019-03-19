@@ -16,7 +16,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Load previous stage data.
 
-load('A3_TimeSeriesCalcs.mat')
+load('A3_normalised_results.mat')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Write out basic accounts:
