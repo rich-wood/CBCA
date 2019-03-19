@@ -1,7 +1,7 @@
 %Plot figure with all data points as a scatter plot
 
 
-load('A3_TimeSeriesCalcs.mat','struct_results','regions')
+load('A3_TimeSeriesCalcs.mat','struct_results','meta')
 
 
 clear figure
@@ -27,10 +27,10 @@ set(gca, 'XScale', 'log')
 set(gca, 'YScale', 'log')
 
 %obtain rsd, mean and number of observations
-%regions.unique_country - logical to extract individual country observations and not country aggregates:
-plot_norm_p_rsd=[struct_results.raw.p(regions.unique_country).rsd];
-plot_p_mean=[struct_results.raw.p(regions.unique_country).mean];
-plot_p_n=[struct_results.raw.p(regions.unique_country).n];
+%meta.regions.unique_country - logical to extract individual country observations and not country aggregates:
+plot_norm_p_rsd=[struct_results.raw.p(meta.regions.unique_country).rsd];
+plot_p_mean=[struct_results.raw.p(meta.regions.unique_country).mean];
+plot_p_n=[struct_results.raw.p(meta.regions.unique_country).n];
 
 %only plot sensible values (log transformation will occur) and when 3 data
 %points
@@ -45,9 +45,9 @@ plot_p_x1=plot_p_mean(filterx);
 % plot_p_x1=plot_p_mean.*filterx;
 
 hold all
-plot_c_rsd=[struct_results.raw.c(regions.unique_country).rsd];
-plot_c_mean=[struct_results.raw.c(regions.unique_country).mean];
-plot_c_n=[struct_results.raw.c(regions.unique_country).n];
+plot_c_rsd=[struct_results.raw.c(meta.regions.unique_country).rsd];
+plot_c_mean=[struct_results.raw.c(meta.regions.unique_country).mean];
+plot_c_n=[struct_results.raw.c(meta.regions.unique_country).n];
 
 filterx=(plot_c_rsd)>=1e-5 & (plot_c_n>2);
 filterx(~year_select,:)=0;
@@ -92,9 +92,9 @@ fig3 = figure;
 ax3 = axes;
 
 %obtain rsd, mean and number of observations
-%regions.unique_country - logical to extract individual country observations and not country aggregates:
-plot_norm_p_rsd=[struct_results.norm.p(regions.unique_country).rsd];
-plot_norm_p_mean=[struct_results.norm.p(regions.unique_country).mean];
+%meta.regions.unique_country - logical to extract individual country observations and not country aggregates:
+plot_norm_p_rsd=[struct_results.norm.p(meta.regions.unique_country).rsd];
+plot_norm_p_mean=[struct_results.norm.p(meta.regions.unique_country).mean];
 
 hold on
 % transform representation to log form
@@ -110,8 +110,8 @@ plot_p_y3=plot_norm_p_rsd(filterx);
 plot_p_x3=plot_norm_p_mean(filterx);
 
 %CBCA values:
-plot_norm_c_rsd=[struct_results.norm.c(regions.unique_country).rsd];
-plot_norm_c_mean=[struct_results.norm.c(regions.unique_country).mean];
+plot_norm_c_rsd=[struct_results.norm.c(meta.regions.unique_country).rsd];
+plot_norm_c_mean=[struct_results.norm.c(meta.regions.unique_country).mean];
 
 filterx=(plot_norm_c_rsd)>=1e-5;
 filterx(~year_select,:)=0;

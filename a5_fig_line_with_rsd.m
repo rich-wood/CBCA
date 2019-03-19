@@ -51,10 +51,10 @@ for i=1:istop
             % regionname='USA'
         end
     else
-        regionname=regions.regionname_clean{i};
+        regionname=meta.regions.regionname_clean{i};
     end
 
-region_count=find(strcmp(regionname,regions.name))
+region_count=find(strcmp(regionname,meta.regions.name))
 
 %establish resonable estimate for y-axis limit:
 ylim2=ceil(max(max([struct_results.raw.p(region_count).all,struct_results.raw.c(region_count).all])+300)/1000);
@@ -86,7 +86,7 @@ if iflgd==1
 lgd=legend([strcat('PBCA: ',modelname(1:5)),strcat('CBCA: ',modelname(1:5))],'location','southoutside','Orientation','horizontal')
 lgd.NumColumns=5
 end
-title([regionname,' emissions: normalised to ', num2str(reference_year+1959)])
+title([regionname,' emissions: normalised to ', num2str(meta.reference_year)])
 
 
 

@@ -20,14 +20,14 @@ load('A3_TimeSeriesCalcs.mat')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Write out basic accounts:
-writetable(summmary_mean(:,[1:6,9:18,21:30,33:52,55:end]),'Production_and_consumption_database2.xlsx','Sheet','Emission accounts')
+writetable(summmary_mean,'Production_and_consumption_database2.xlsx','Sheet','Emission accounts')
 
 
 % Write out averages:
-reg_rsd=table(regions.name','VariableNames',{'Region'}); % 
+reg_rsd=table(meta.regions.name','VariableNames',{'Region'}); % 
 
 for i=1:49
-    regionname=regions.regionname_clean{i};
+    regionname=meta.regions.regionname_clean{i};
     reg_rsd(i,1+1)=table(100*mean(tabular_results.raw.p.(['rsd_',regionname])(36:55)));
     reg_rsd(i,1+2)=table(100*mean(tabular_results.raw.c.(['rsd_',regionname])(36:54)));
     reg_rsd(i,1+3)=table(100*mean(tabular_results.norm.p.(['rsd_',regionname])(36:55)));
