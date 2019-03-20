@@ -31,7 +31,7 @@ Final results (mean and measures of variation) are presented in 3 forms:
 a. first level fields:
  -raw (absolute value of raw model data - only regional aggregation potentially applied)
  -gr (year on year growth rates)
- -raw (absolute value of normalised model data - results normalised to a common referene year and regional aggregation potentially applied)
+ -norm (absolute value of normalised model data - results normalised to a common referene year and regional aggregation potentially applied)
 
 b. second level fields:
  - p (PBCA)
@@ -39,7 +39,7 @@ b. second level fields:
  - t (the level of emission transfer (PBCA-CBCA)
 
 
-b. third level fields:
+b. third level fields, rows correspond to time dimension (in years, see meta):
  - all (all model results (listed with dimension year, model)
  - std (standard deviation) 
  - mean (mean) 
