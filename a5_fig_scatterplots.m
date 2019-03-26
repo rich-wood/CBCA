@@ -68,11 +68,11 @@ cYraw_caption = [sprintf('y = %.2f x %.2f', cfit.p1, cfit.p2),sprintf(' R^{%d}',
 
 %obtain rsd, mean and number of observations
 %meta.regions.unique_country - logical to extract individual country observations and not country aggregates:
-tmp_norm_p_rsd=[struct_results.gr.p(meta.regions.unique_country).rsd];
+tmp_norm_p_rsd=[struct_results.norm.p(meta.regions.unique_country).rsd];
 tmp_norm_p_mean=[struct_results.norm.p(meta.regions.unique_country).mean];
 tmp_norm_p_n=[struct_results.norm.p(meta.regions.unique_country).n];
-tmp_norm_p_mean(1,:)=[];
-tmp_norm_p_n(1,:)=[];
+% tmp_norm_p_mean(1,:)=[];
+% tmp_norm_p_n(1,:)=[];
 
 %only plot sensible values (log transformation will occur) and when 3 data
 %points
@@ -83,9 +83,9 @@ plot_p_y_norm=tmp_norm_p_rsd(filterx);
 plot_p_x_norm=tmp_norm_p_mean(filterx);
 
 %CBCA values:
-tmp_norm_c_rsd=[struct_results.gr.c(meta.regions.unique_country).rsd];
+tmp_norm_c_rsd=[struct_results.norm.c(meta.regions.unique_country).rsd];
 tmp_norm_c_mean=[struct_results.norm.c(meta.regions.unique_country).mean];
-tmp_norm_c_mean(1,:)=[];
+% tmp_norm_c_mean(1,:)=[];
 
 filterx=(tmp_norm_c_rsd)>=1e-5;
 filterx(~year_select,:)=0;
@@ -167,8 +167,8 @@ for which_plot=0:4
         hleg1=legend([{'Raw'}',{'Normalised'}',...
             {['Raw ']},{['Normalised ']}],'Location','Northeast','NumColumns',2)
 %         
-        annotation('textbox',[0.5, 0.25, 0.2, 0.1],'String', pYraw_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
-        annotation('textbox',[0.6, 0.6, 0.2, 0.1],'String', pYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
+        annotation('textbox',[0.6, 0.6, 0.2, 0.1],'String', pYraw_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
+        annotation('textbox',[0.5, 0.35, 0.2, 0.1],'String', pYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
 %         text(10e2,plot_p_y_raw(600), pYraw_caption, 'FontSize', 9, 'Color', 'b');
 %         text(10e2,plot_p_y_norm(600), pYnormalised_caption, 'FontSize', 9, 'Color', 'r');
     end
@@ -178,8 +178,8 @@ for which_plot=0:4
             {['Raw ']},{['Normalised ']}],'Location','Northeast','NumColumns',2)
 %         hleg1=legend([{'CBCA (raw)'}',{'CBCA (normalised)'}',...
 %             {'CBCA  (raw)'},{'CBCA (normalised)'},])
-        annotation('textbox',[0.5, mean(plot_c_y_raw)*5.8, 0.2, 0.1],'String', cYraw_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
-        annotation('textbox',[0.6, mean(plot_c_y_norm)*7.2, 0.2, 0.1],'String', cYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6)
+        annotation('textbox',[0.6, 0.62, 0.2, 0.1],'String', cYraw_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
+        annotation('textbox',[0.5, 0.4, 0.2, 0.1],'String', cYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6)
 %         text( cYraw_caption, 'FontSize', 12, 'Color', 'b');
 %         text( cYnormalised_caption, 'FontSize', 12, 'Color', 'b');
     end
@@ -198,8 +198,8 @@ for which_plot=0:4
         hleg1=title([{'Normalised'}])
 %         hleg1=legend([h1,h2,h3,h4],[{'PBCA (normalised)'}',{'CBCA (normalised)'},{'PBCA  (normalised)'},{'CBCA  (normalised)'}])
         hleg1=legend([h1,h2,h3,h4],[{'PBCA'}',{'CBCA'},{'PBCA'},{'CBCA'}])
-        annotation('textbox',[0.5, mean(plot_p_y_norm)*12.5, 0.2, 0.1],'String', pYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
-        annotation('textbox',[0.6, mean(plot_c_y_norm)*12.5, 0.2, 0.1],'String', cYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6)
+        annotation('textbox',[0.6, 0.3, 0.2, 0.1],'String', pYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
+        annotation('textbox',[0.6, 0.55, 0.2, 0.1],'String', cYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6)
 %         text( pYnormalised_caption, 'FontSize', 12, 'Color', 'b');
 %         text( cYnormalised_caption, 'FontSize', 12, 'Color', 'b');
     end
@@ -208,7 +208,7 @@ for which_plot=0:4
     ylabel('Relative standard deviation ')
     axis square
     grid on
-    
+    set(gcf,'color','w');
     
     savefig(['figs\aScatter_',num2str(which_plot)])
     print(['figs\aScatter_',num2str(which_plot)],'-djpeg')
