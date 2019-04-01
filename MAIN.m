@@ -1,6 +1,6 @@
 % Contents script for data on 
 % Variation in trends of consumption based carbon accounts
-% Richard Wood , Daniel Moran, Konstantin Stadler
+% Richard Wood , Daniel Moran, Konstantin Stadler, Joao Rodrigues
 
 
 

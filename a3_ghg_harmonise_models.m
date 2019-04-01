@@ -1,7 +1,7 @@
 % a3_ghg_harmonise_models.m - script to harmonise multiple-accounts
 
 % Manuscript Title: Variation in trends of consumption based carbon accounts 
-% Authors: Richard Wood, Daniel Moran, Konstantin Stadler
+% Authors: Richard Wood, Daniel Moran, Konstantin Stadler, Joao Rodrigues
 % Contact: richard.wood@ntnu.no
 % Git repo: https://github.com/rich-wood/CBCA
 

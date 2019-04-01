@@ -1,4 +1,20 @@
-%Plot figure with all data points as a scatter plot
+% a5_fig_scatterpolots.m - script for generating plots used in paper.
+
+% Manuscript Title: Variation in trends of consumption based carbon accounts
+% Authors: Richard Wood, Daniel Moran, Konstantin Stadler, Joao Rodrigues
+% Contact: richard.wood@ntnu.no
+% Git repo: https://github.com/rich-wood/CBCA
+
+
+% Master script:
+% MAIN.m
+% Dependencies:
+% compiled data from stage 3 (a3_ghg_harmonise_models.m) required
+% Adidtional comments:
+% Plot figure with all data points as a scatter plot
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 load('A3_normalised_results.mat','struct_results','meta')
@@ -162,46 +178,31 @@ for which_plot=0:4
     end
     if which_plot==1
         htit1=title([{'PBCA'}])
-%         hleg1=legend([{'Raw'}',{'Normalised'}',...
-%             {['Raw ',pYraw_caption]},{['Normalised ',pYnormalised_caption]}],'Location','northoutside','NumColumns',2)
         hleg1=legend([{'Raw'}',{'Normalised'}',...
             {['Raw ']},{['Normalised ']}],'Location','Northeast','NumColumns',2)
-%         
         annotation('textbox',[0.6, 0.6, 0.2, 0.1],'String', pYraw_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
         annotation('textbox',[0.5, 0.35, 0.2, 0.1],'String', pYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
-%         text(10e2,plot_p_y_raw(600), pYraw_caption, 'FontSize', 9, 'Color', 'b');
-%         text(10e2,plot_p_y_norm(600), pYnormalised_caption, 'FontSize', 9, 'Color', 'r');
     end
     if which_plot==2
         hleg1=title([{'CBCA'}])
         hleg1=legend([{'Raw'}',{'Normalised'}',...
             {['Raw ']},{['Normalised ']}],'Location','Northeast','NumColumns',2)
-%         hleg1=legend([{'CBCA (raw)'}',{'CBCA (normalised)'}',...
-%             {'CBCA  (raw)'},{'CBCA (normalised)'},])
         annotation('textbox',[0.6, 0.62, 0.2, 0.1],'String', cYraw_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
         annotation('textbox',[0.5, 0.4, 0.2, 0.1],'String', cYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6)
-%         text( cYraw_caption, 'FontSize', 12, 'Color', 'b');
-%         text( cYnormalised_caption, 'FontSize', 12, 'Color', 'b');
     end
     if which_plot==3
         hleg1=title([{'Normalised'}])
         hleg1=legend([h1,h2,h3,h4],[{'PBCA'}',{'CBCA'},{'PBCA'},{'CBCA'}])
-%         hleg1=legend([h1,h2,h3,h4],[{'PBCA (raw)'}',{'CBCA (raw)'},{'PBCA  (raw)'},{'CBCA  (raw)'}])
-        
         annotation('textbox',[0.5, mean(plot_p_y_raw)*5.5, 0.2, 0.1],'String', pYraw_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
         annotation('textbox',[0.6, mean(plot_c_y_raw)*5.5, 0.2, 0.1],'String', cYraw_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6)
         
-%         text( pYraw_caption, 'FontSize', 12, 'Color', 'b');
-%         text( cYraw_caption, 'FontSize', 12, 'Color', 'b');
     end
     if which_plot==4
         hleg1=title([{'Normalised'}])
-%         hleg1=legend([h1,h2,h3,h4],[{'PBCA (normalised)'}',{'CBCA (normalised)'},{'PBCA  (normalised)'},{'CBCA  (normalised)'}])
         hleg1=legend([h1,h2,h3,h4],[{'PBCA'}',{'CBCA'},{'PBCA'},{'CBCA'}])
         annotation('textbox',[0.6, 0.3, 0.2, 0.1],'String', pYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6);
         annotation('textbox',[0.6, 0.55, 0.2, 0.1],'String', cYnormalised_caption, 'FontSize', 9, 'Color', 'k','BackgroundColor','w','EdgeColor','none','FaceAlpha',0.6)
-%         text( pYnormalised_caption, 'FontSize', 12, 'Color', 'b');
-%         text( cYnormalised_caption, 'FontSize', 12, 'Color', 'b');
+
     end
     
     xlabel('CO_2 (Gg)')

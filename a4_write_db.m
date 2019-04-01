@@ -1,7 +1,7 @@
 % a4_write_db.m - script for generating plots used in paper.
 
 % Manuscript Title: Variation in trends of consumption based carbon accounts 
-% Authors: Richard Wood, Daniel Moran, Konstantin Stadler
+% Authors: Richard Wood, Daniel Moran, Konstantin Stadler, Joao Rodrigues
 % Contact: richard.wood@ntnu.no
 % Git repo: https://github.com/rich-wood/CBCA
 
@@ -58,7 +58,8 @@ dbtxt(strcmp('c',dbtxt))={'CBCA'};
 dbtxt(strcmp('g',dbtxt))={'Global Result'};
 dbtxt(strcmp('t',dbtxt))={'Transfers'};
 
-
-xlswrite('db.csv', [{'RegionName'},{'Type of adjustment'},{'Measure'},{'Year'},{'Mean'},{'RSD'},{'RAD'},{'n'}],1,'A1')
+ wt('db.csv', [{'RegionName'},{'Type of adjustment'},{'Measure'},{'Year'},{'Mean'},{'RSD'},{'RMD'},{'m_obs'}],'\t,')
 xlswrite('db.csv', dbtxt,1,'A2')
 xlswrite('db.csv', db,1,'D2')
+
+wt('db.csv',[[{'RegionName'},{'Type of adjustment'},{'Measure'},{'Year'},{'Mean'},{'RSD'},{'RMD'},{'m_obs'}];[dbtxt,num2cell(db)]],'\t,')
