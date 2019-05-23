@@ -16,7 +16,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Load previous stage data.
 
-load('A3_normalised_results.mat')
+
+load('results\cf_multimodel_normalised_results.mat')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Write out basic accounts:

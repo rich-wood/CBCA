@@ -8,7 +8,7 @@
 % Master script:
 % MAIN.m
 % Dependencies:
-% compiled data from stage 2 (a2_ghg_organise_regions.m) required.
+% compiled data from stage 2 (stage2_cf_organise_regions.m) required.
 % Adidtional comments:
 % Script creates a multi-model mean of carbon accounts based on the number
 % of models and regions previously set up in stage 2 and earlier. The
@@ -19,7 +19,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear
-load('A2_regional_aggregates.mat')
+load('results\cf_multimodel_regional_aggregates.mat')
 
 
 model_include=[1:5]; %define what models to include:
@@ -207,17 +207,6 @@ clear region_count tmp* end_year_indx start_year_indx reference_year_indx res_ha
     
 
 
-save('A3_normalised_results','meta','summmary_mean','tabular_results','struct_results')
+save('results\cf_multimodel_normalised_results','meta','summmary_mean','tabular_results','struct_results')
 
 disp('finished')
-
-
-
-%     reg_res.mean.p.(regionname)=res_harm_p;
-%     reg_res.mean.c.(regionname)=res_harm_c;
-%     
-%     reg_res.spread.p.(regionname)=struct_results.norm.p(region_count).all;
-%     reg_res.spread.c.(regionname)=struct_results.norm.c(region_count).all;
-%        
-%     reg_res.spread.p_orig.(regionname)=struct_results.raw.p(region_count).all;
-%     reg_res.spread.c_orig.(regionname)=struct_results.raw.c(region_count).all;

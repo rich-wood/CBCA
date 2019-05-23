@@ -9,7 +9,7 @@
 % Master script:
 % MAIN.m
 % Dependencies:
-% compiled data from stage 3 (a3_ghg_harmonise_models.m) required
+% compiled data from stage 3 (stage3_cf_harmonise_models.m) required
 % Adidtional comments:
 % Plot figure with all data points as a scatter plot
 
@@ -17,7 +17,7 @@
 
 
 
-load('A3_normalised_results.mat','struct_results','meta')
+load('results\cf_multimodel_normalised_results.mat','struct_results','meta')
 
 
 

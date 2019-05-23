@@ -19,7 +19,7 @@
 clear 
 
 %load data:
-load('A3_normalised_results.mat') % 
+load('results\cf_multimodel_normalised_results.mat')
 
 
 db_counter=0;
@@ -58,8 +58,8 @@ dbtxt(strcmp('c',dbtxt))={'CBCA'};
 dbtxt(strcmp('g',dbtxt))={'Global Result'};
 dbtxt(strcmp('t',dbtxt))={'Transfers'};
 
- wt('db.csv', [{'RegionName'},{'Type of adjustment'},{'Measure'},{'Year'},{'Mean'},{'RSD'},{'RMD'},{'m_obs'}],'\t,')
-xlswrite('db.csv', dbtxt,1,'A2')
-xlswrite('db.csv', db,1,'D2')
+ wt('results\cf_multimodel_db.csv', [{'RegionName'},{'Type of adjustment'},{'Measure'},{'Year'},{'Mean'},{'RSD'},{'RMD'},{'m_obs'}],'\t,')
+xlswrite('results\cf_multimodel_db.csv', dbtxt,1,'A2')
+xlswrite('results\cf_multimodel_db.csv', db,1,'D2')
 
-wt('db.csv',[[{'RegionName'},{'Type of adjustment'},{'Measure'},{'Year'},{'Mean'},{'RSD'},{'RMD'},{'m_obs'}];[dbtxt,num2cell(db)]],'\t,')
+wt('results\cf_multimodel_db.csv',[[{'RegionName'},{'Type of adjustment'},{'Measure'},{'Year'},{'Mean'},{'RSD'},{'RMD'},{'m_obs'}];[dbtxt,num2cell(db)]],'\t,')

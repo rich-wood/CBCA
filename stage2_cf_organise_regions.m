@@ -1,4 +1,4 @@
-% a2_ghg_organise_regions.m - script to harmonise multiple-accounts
+% stage2_cf_organise_regions.m - script to harmonise multiple-accounts
 
 % Manuscript Title: Variation in trends of consumption based carbon accounts 
 % Authors: Richard Wood, Daniel Moran, Konstantin Stadler
@@ -8,7 +8,7 @@
 % Master script:
 % MAIN.m
 % Dependencies:
-% compiled data from stage 1 (a1_GHG_Load.m) required.
+% compiled data from stage 1 (stage1_cf_load_raw_data.m) required.
 % Adidtional comments:
 % Script organises common regions between all the models
 
@@ -22,7 +22,7 @@ bench_year=31+5;
 
 %%
 % TimeSeriesCalcs_Load
-load('A1_Raw_data','pbca_emis','cbca_emis','meta')
+load('results\cf_multimodel_raw_data','pbca_emis','cbca_emis','meta')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Define regions manually:
@@ -237,6 +237,6 @@ for region_count=1:n_regions
     end
 end
 
-save('A2_All_model_results.mat','raw_regional_results','meta')
+save('results\cf_multimodel_regional_aggregates.mat','raw_regional_results','meta')
 
 

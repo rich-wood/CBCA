@@ -13,31 +13,31 @@ addpath('.\scripts\')
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %load raw data, sort out ISO country codes:
-a1_GHG_Load
+stage1_cf_load_raw_data
 
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %create structure of accounts for specified countries/regions.
 %add in population and gdp variables
-a2_ghg_organise_regions
+stage2_cf_organise_regions
 
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %harmonise results across different models, apply statistical tests
-a3_ghg_harmonise_models
+stage3_cf_harmonise_models
 
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %write out supporting information for paper
-a4_write_stats
-a4_write_db
+stage4_write_db
+stage4_write_stats
 
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %plot model results before and after indexing.
-a5_fig_line_with_rsd
+stage5_fig_line_with_rsd
 
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %plot figure scatter
-a5_fig_scatterplots
+stage5_fig_scatterplots

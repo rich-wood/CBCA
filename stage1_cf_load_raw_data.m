@@ -1,4 +1,4 @@
-% a1_GHG_load.m - process source data to a cbcaistent data structure
+% stage1_cf_load_raw_data.m - process source data to a cbcaistent data structure
 
 % Manuscript Title: Variation in trends of consumption based carbon accounts 
 % Authors: Richard Wood, Daniel Moran, Konstantin Stadler
@@ -65,18 +65,7 @@ for modelcounter=1:meta.number_models
         pbca_emis.(meta.modelname{modelcounter}).ISO3=[]; %re-sort header names
         cbca_emis.(meta.modelname{modelcounter}).ISO3=[]; %re-sort header names
         
-        
-        %set all NaN to zero:
-%         tmp=table2array(cbca_emis.('Eora')(:,3:end));
-%         tmp(isnan(tmp))=0;
-%         cbca_emis.(meta.modelname{modelcounter})(:,3:end)=num2cell(tmp);
-%         tmp=table2array(pbca_emis.('Eora')(:,3:end));
-%         tmp(isnan(tmp))=0;
-%         pbca_emis.(meta.modelname{modelcounter})(:,3:end)=num2cell(tmp);
-
-
-        
-        
+                
     elseif strcmp(meta.modelname(modelcounter),'ICIO')
         pbca_emis.(meta.modelname{modelcounter}).Properties.VariableNames(1)={'Var1'}; %re-sort header names
         cbca_emis.(meta.modelname{modelcounter}).Properties.VariableNames(1)={'Var1'}; %re-sort header names
@@ -144,4 +133,4 @@ for modelcounter=1:meta.number_models
 end
 clear co2factor size_model tmp
 %%
-save('A1_Raw_data','pbca_emis','cbca_emis','meta')
+save('results\cf_multimodel_raw_data','pbca_emis','cbca_emis','meta')
